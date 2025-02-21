@@ -1,0 +1,13 @@
+crewai
+crewai[tools]
+llama-index
+pandas
+pymupdf
+pdfplumber
+scikit-learn
+numpy
+matplotlib
+seaborn
+python-dotenv
+pyyaml
+
