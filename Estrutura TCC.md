@@ -1,18 +1,18 @@
-### **1\. INTRODUÇÃO**
+# **1. INTRODUÇÃO**
 
-**1.1 Contextualização do tema**
+## 1.1 Contextualização do tema
 
-No cenário atual da educação superior, especialmente nos cursos de Licenciatura em Computação, a necessidade de métodos que promovam a autonomia do estudante se torna cada vez mais evidente. A aprendizagem autodirigida (*Self-Directed Learning* – SDL) surge como uma abordagem fundamental para capacitar futuros professores a se adaptarem às constantes mudanças tecnológicas e pedagógicas da área da computação. Nesse contexto, este estudo investiga como a SDL pode contribuir para a formação dos licenciandos em Computação, promovendo não apenas o domínio técnico, mas também a capacidade de ensino inovador e contínuo.
+No cenário atual da educação superior, especialmente nos cursos de Licenciatura em Computação, a necessidade de métodos que promovam a autonomia do estudante se torna cada vez mais evidente. A aprendizagem autodirigida (_Self-Directed Learning_ – SDL) surge como uma abordagem fundamental para capacitar futuros professores a se adaptarem às constantes mudanças tecnológicas e pedagógicas da área da computação. Nesse contexto, este estudo investiga como a SDL pode contribuir para a formação dos licenciandos em Computação, promovendo não apenas o domínio técnico, mas também a capacidade de ensino inovador e contínuo.
 
 A educação tradicional, baseada na centralização do professor e em metodologias expositivas, tem sido desafiada pela necessidade de preparar os estudantes para um ambiente de aprendizado mais dinâmico e interativo. A aprendizagem autodirigida, por sua vez, enfatiza o papel ativo do estudante no processo de aprendizado, permitindo que ele estabeleça seus próprios objetivos, selecione estratégias eficazes e avalie continuamente seu progresso. Segundo Knowles (1975), essa abordagem estimula a autonomia, o pensamento crítico e a capacidade de resolver problemas de forma independente.
 
-Nos cursos de Licenciatura em Computação, essa necessidade se torna ainda mais evidente devido à rápida evolução do conhecimento na área. Os licenciandos precisam estar constantemente atualizados com novas linguagens de programação, ferramentas e metodologias de ensino. Além disso, a capacidade de autodirigir seu aprendizado possibilita a integração de metodologias ativas, como a *Aprendizagem Baseada em Problemas (PBL)* e a *Aprendizagem Baseada em Projetos (ABP)*, que tornam o ensino de computação mais dinâmico e eficaz. Dessa forma, compreender como a SDL pode auxiliar na formação dos licenciandos é essencial para a melhoria dos processos educacionais e para a qualificação dos futuros professores de computação.
+Nos cursos de Licenciatura em Computação, essa necessidade se torna ainda mais evidente devido à rápida evolução do conhecimento na área. Os licenciandos precisam estar constantemente atualizados com novas linguagens de programação, ferramentas e metodologias de ensino. Além disso, a capacidade de autodirigir seu aprendizado possibilita a integração de metodologias ativas, como a _Aprendizagem Baseada em Problemas (PBL)_ e a _Aprendizagem Baseada em Projetos (ABP)_, que tornam o ensino de computação mais dinâmico e eficaz. Dessa forma, compreender como a SDL pode auxiliar na formação dos licenciandos é essencial para a melhoria dos processos educacionais e para a qualificação dos futuros professores de computação.
 
-Além da relevância acadêmica, o estudo sobre aprendizagem autodirigida também apresenta impactos significativos para a sociedade. Com o avanço da transformação digital, o mercado de trabalho exige profissionais que sejam capazes de aprender de maneira contínua e independente. Um relatório do *World Economic Forum* (2020) aponta que a capacidade de aprendizagem ao longo da vida é uma das competências mais valorizadas atualmente, especialmente em setores tecnológicos. Dessa forma, preparar licenciados em Computação para serem educadores que dominam essa abordagem pode ter reflexos positivos na formação de alunos da Educação Básica e Profissional, contribuindo para a inclusão digital e o desenvolvimento de habilidades fundamentais para o século XXI.
+Além da relevância acadêmica, o estudo sobre aprendizagem autodirigida também apresenta impactos significativos para a sociedade. Com o avanço da transformação digital, o mercado de trabalho exige profissionais que sejam capazes de aprender de maneira contínua e independente. Um relatório do _World Economic Forum_ (2020) aponta que a capacidade de aprendizagem ao longo da vida é uma das competências mais valorizadas atualmente, especialmente em setores tecnológicos. Dessa forma, preparar licenciados em Computação para serem educadores que dominam essa abordagem pode ter reflexos positivos na formação de alunos da Educação Básica e Profissional, contribuindo para a inclusão digital e o desenvolvimento de habilidades fundamentais para o século XXI.
 
-Diante desse contexto, este estudo busca responder à seguinte questão central: **de que forma a aprendizagem autodirigida pode auxiliar na formação dos alunos da Licenciatura em Computação?** Para isso, será analisado como metodologias e ferramentas de SDL podem ser aplicadas no ensino superior para fortalecer a autonomia dos estudantes e melhorar sua preparação para a docência. Além disso, serão discutidos os desafios e as perspectivas futuras para a implementação eficaz dessa abordagem no ensino de computação.
+Diante desse contexto, este estudo busca responder à seguinte questão central: **"Como a aprendizagem autodirigida pode auxiliar na formação dos alunos da Licenciatura em Computação?"** Para responder a essa pergunta, será necessário identificar metodologias de aprendizagem autodirigida aplicáveis ao ensino superior, compreender os desafios e oportunidades dessa abordagem na formação de licenciandos e analisar os impactos que sua implementação pode trazer para a área da educação em Computação.
 
-### **1.2 Problema de Pesquisa e Justificativa**
+## 1.2 Problema de Pesquisa e Justificativa
 
 A educação tradicional, caracterizada por métodos passivos e centralizados no professor, tem sido alvo de críticas no ensino superior, especialmente em cursos que exigem constante atualização, como a Licenciatura em Computação. No entanto, muitos estudantes ainda apresentam dificuldades para desenvolver autonomia em seu processo de aprendizagem, o que impacta diretamente sua formação e futura atuação profissional como docentes. Diante desse cenário, surge a necessidade de investigar de que forma a **aprendizagem autodirigida (Self-Directed Learning – SDL)** pode ser aplicada para auxiliar a formação dos licenciandos em Computação, promovendo maior independência e capacidade de autoaprendizado.
 
@@ -24,19 +24,19 @@ Essa pesquisa beneficiará diretamente **estudantes e professores da Licenciatur
 
 Diante desse contexto, este estudo busca responder à seguinte questão central: **"Como a aprendizagem autodirigida pode auxiliar na formação dos alunos da Licenciatura em Computação?"** Para responder a essa pergunta, será necessário identificar metodologias de aprendizagem autodirigida aplicáveis ao ensino superior, compreender os desafios e oportunidades dessa abordagem na formação de licenciandos e analisar os impactos que sua implementação pode trazer para a área da educação em Computação.
 
-#### **1.3 Objetivo Geral e Específicos**
+## 1.3 Objetivo Geral e Específicos
 
-**Objetivo geral**
+### Objetivo geral
 
 Analisar de que forma metodologias e ferramentas de aprendizagem autodirigida podem contribuir para a formação dos alunos da Licenciatura em Computação, promovendo maior autonomia e preparo para a docência.
 
-#### **Objetivos Específicos**
+### Objetivos Específicos
 
-* Identificar as principais metodologias de aprendizagem autodirigida aplicáveis ao ensino superior.  
-* Caracterizar as habilidades e competências necessárias para que os alunos da Licenciatura em Computação desenvolvam a autodireção no aprendizado.  
-* Avaliar os impactos da aprendizagem autodirigida na formação dos licenciandos, considerando sua influência no desenvolvimento acadêmico e profissional.
+- Identificar as principais metodologias de aprendizagem autodirigida aplicáveis ao ensino superior.
+- Caracterizar as habilidades e competências necessárias para que os alunos da Licenciatura em Computação desenvolvam a autodireção no aprendizado.
+- Avaliar os impactos da aprendizagem autodirigida na formação dos licenciandos, considerando sua influência no desenvolvimento acadêmico e profissional.
 
-### **1.4 Metodologia Resumida**
+## 1.4 Metodologia Resumida
 
 Este estudo adota uma abordagem **qualitativa** e **exploratória**, com o objetivo de compreender como a aprendizagem autodirigida pode auxiliar na formação dos alunos da Licenciatura em Computação. A pesquisa qualitativa é apropriada para este estudo, pois permite uma análise aprofundada das percepções, desafios e impactos dessa abordagem no contexto acadêmico. Além disso, a natureza exploratória do trabalho possibilita investigar metodologias de autodireção no aprendizado e suas implicações na educação superior.
 
@@ -50,13 +50,13 @@ A análise dos dados será conduzida por meio de **análise de conteúdo**, perm
 
 A escolha dessa metodologia se justifica pela necessidade de aprofundar o conhecimento sobre o tema e identificar estratégias eficazes para promover a autonomia dos estudantes no ensino superior. Como a aprendizagem autodirigida é um fenômeno complexo e multidimensional, uma abordagem qualitativa permite explorar suas diversas facetas e compreender de que maneira essa metodologia pode ser aplicada na formação de futuros professores de Computação. Além disso, ao utilizar uma revisão de literatura como base, este estudo busca consolidar um referencial teórico que possa servir de suporte para pesquisas futuras e práticas educacionais inovadoras.
 
-### **1.5 Estrutura do Trabalho**
+## 1.5 Estrutura do Trabalho
 
 Este trabalho está estruturado em cinco capítulos, cada um abordando aspectos fundamentais para a compreensão e análise da aprendizagem autodirigida na formação dos alunos da Licenciatura em Computação. A seguir, apresenta-se um resumo do conteúdo de cada capítulo:
 
 O **Capítulo 1 – Introdução** contextualiza o tema da pesquisa, apresentando sua relevância acadêmica e social. Além disso, define o problema de pesquisa, justifica a importância do estudo e apresenta os objetivos gerais e específicos. Também descreve a metodologia utilizada e a organização do trabalho.
 
-O **Capítulo 2 – Revisão de Literatura** fundamenta teoricamente o estudo, apresentando os principais conceitos da aprendizagem autodirigida (*Self-Directed Learning – SDL*), suas metodologias e modelos aplicáveis ao ensino superior. Serão exploradas pesquisas acadêmicas sobre o tema, assim como suas conexões com a formação docente em Computação. Além disso, será analisado o perfil dos alunos da Licenciatura em Computação e os desafios relacionados à implementação da SDL nesse contexto.
+O **Capítulo 2 – Revisão de Literatura** fundamenta teoricamente o estudo, apresentando os principais conceitos da aprendizagem autodirigida (_Self-Directed Learning – SDL_), suas metodologias e modelos aplicáveis ao ensino superior. Serão exploradas pesquisas acadêmicas sobre o tema, assim como suas conexões com a formação docente em Computação. Além disso, será analisado o perfil dos alunos da Licenciatura em Computação e os desafios relacionados à implementação da SDL nesse contexto.
 
 O **Capítulo 3 – Metodologia** descreve os procedimentos adotados para a realização da pesquisa, incluindo o tipo de estudo, as técnicas de coleta e análise de dados e a justificativa para a escolha dessa abordagem. Destaca-se o uso de um software automatizado para coleta e download de artigos acadêmicos, além de um sistema baseado em inteligência artificial para a síntese e resumo dos textos selecionados.
 
@@ -66,9 +66,9 @@ O **Capítulo 5 – Conclusão** sintetiza as principais descobertas do estudo, 
 
 Essa estrutura foi planejada para garantir uma abordagem sistemática e aprofundada do tema, facilitando a compreensão da importância da aprendizagem autodirigida na formação dos futuros professores de Computação.
 
-### **2\. REVISÃO DE LITERATURA** 
+# **2. REVISÃO DE LITERATURA**
 
-### **2.1 Apresentação do Referencial Teórico**
+## 2.1 Apresentação do Referencial Teórico
 
 A revisão da literatura estabelece a base teórica para este estudo, fornecendo uma visão abrangente sobre as metodologias ativas e sua relação com a **aprendizagem autodirigida (SDL)** no ensino superior. O objetivo é situar a pesquisa dentro do campo acadêmico existente, analisando os principais autores e teorias que fundamentam o estudo.
 
@@ -80,15 +80,15 @@ A revisão também examina o impacto das metodologias ativas na **formação do 
 
 Dessa forma, a revisão de literatura fundamenta a pesquisa, contextualizando a importância das metodologias ativas na formação do estudante universitário e na qualificação do professor para lidar com essas novas abordagens. As próximas seções aprofundam essas discussões, detalhando as contribuições específicas de cada autor e o impacto das metodologias ativas no ensino superior.
 
-### **2.2 Principais Conceitos e Teorias sobre o Tema**
+## 2.2 Principais Conceitos e Teorias sobre o Tema
 
 A educação superior tem passado por transformações significativas nas últimas décadas, impulsionadas pelo avanço das tecnologias e pela necessidade de preparar estudantes para um mundo em constante mudança. Nesse contexto, a **Aprendizagem Autodirigida (Self-Directed Learning \- SDL)** e as **Metodologias Ativas** emergem como estratégias fundamentais para o desenvolvimento de competências essenciais, como autonomia, pensamento crítico e resolução de problemas. Esta seção explora os principais conceitos e teorias relacionados ao tema, revisando modelos educacionais relevantes e comparando diferentes abordagens presentes na literatura acadêmica.
 
 Nesse contexto, a **Aprendizagem Autodirigida (Self-Directed Learning \- SDL)** e as **Metodologias Ativas** emergem como estratégias fundamentais para o desenvolvimento de competências essenciais, como autonomia, pensamento crítico e resolução de problemas. A SDL incentiva os estudantes a assumirem maior controle sobre seu próprio processo de aprendizado, enquanto as metodologias ativas favorecem o engajamento e a interação no ambiente acadêmico. Assim, esta seção explora os principais conceitos e teorias relacionadas ao tema, revisando modelos educacionais relevantes e comparando diferentes abordagens presentes na literatura acadêmica.
 
-### **2.2.1 Conceitos Centrais do Estudo**
+### 2.2.1 Conceitos Centrais do Estudo
 
-#### **Aprendizagem Autodirigida (Self-Directed Learning \- SDL)**
+#### Aprendizagem Autodirigida (Self-Directed Learning - SDL)
 
 A **aprendizagem autodirigida** é um conceito amplamente discutido no campo da educação, especialmente no ensino superior. De acordo com **Merriam e Caffarella (1999)**, a SDL é um processo no qual o indivíduo **assume a iniciativa na identificação de suas necessidades de aprendizado, na formulação de objetivos, na escolha de estratégias e na avaliação de seus próprios resultados**. Esse modelo enfatiza a independência e a responsabilidade do estudante em relação ao seu desenvolvimento acadêmico e profissional.
 
@@ -102,141 +102,81 @@ Além disso, **Candy (1991)** expande essa discussão ao sugerir que a SDL não 
 
 Diferentes autores propuseram modelos para estruturar e compreender a aprendizagem autodirigida, enfatizando tanto o processo educacional quanto as características individuais dos aprendizes. Abaixo, destacam-se algumas das abordagens mais relevantes:
 
-#### **Modelo de Brockett e Hiemstra (1991)**
+#### Modelo de Brockett e Hiemstra (1991)
 
 O modelo de **Brockett e Hiemstra (1991)** distingue dois aspectos fundamentais da aprendizagem autodirigida:
 
-1. **Processo de Autodireção no Aprendizado:** Relacionado à forma como os alunos planejam, organizam e avaliam seu aprendizado.  
+1. **Processo de Autodireção no Aprendizado:** Relacionado à forma como os alunos planejam, organizam e avaliam seu aprendizado.
 2. **Atributo Pessoal de Autodireção:** Enfatiza a motivação, a iniciativa e a responsabilidade do aluno para conduzir sua própria formação.
 
 Esse modelo sugere que a SDL não se restringe apenas ao ambiente acadêmico, mas também é uma característica pessoal desenvolvida ao longo da vida, essencial para o aprendizado contínuo.
 
-#### **Modelo de Candy (1991)**
+#### Modelo de Candy (1991)
 
-Candy propôs um modelo abrangente que considera quatro dimensões da aprendizagem autodirigida:
+O modelo de **Candy (1991)** enfatiza a **autonomia do estudante** como um **atributo pessoal**, que se desenvolve ao longo da vida. Ele argumenta que a autonomia não surge espontaneamente, mas deve ser estimulada por estratégias pedagógicas que promovam a reflexão e a participação ativa.
 
-* **Autodireção no aprendizado:** Capacidade do estudante de estabelecer metas e estratégias para sua própria aprendizagem.  
-* **Autonomia cognitiva:** Independência no processamento de informações e na tomada de decisões.  
-* **Processo autodirigido:** Planejamento, implementação e avaliação do aprendizado de maneira estruturada.  
-* **Fatores externos:** Elementos do ambiente acadêmico que influenciam a autodireção, como suporte docente e acesso a recursos.
+#### Modelo de Garrison (1997)
 
-Esse modelo reforça a ideia de que a SDL é um processo contínuo e que a independência no aprendizado pode ser incentivada por meio de um ambiente educacional adequado.
+O modelo de **Garrison (1997)** enfatiza a **autonomia do estudante** como um **atributo pessoal**, que se desenvolve ao longo da vida. Ele argumenta que a autonomia não surge espontaneamente, mas deve ser estimulada por estratégias pedagógicas que promovam a reflexão e a participação ativa.
 
-#### **Modelo de Garrison (1997)**
+#### Modelo de Knowles (1975)
 
-O modelo de Garrison define três componentes centrais da SDL:
+O modelo de **Knowles (1975)** enfatiza a **autonomia do estudante** como um **atributo pessoal**, que se desenvolve ao longo da vida. Ele argumenta que a autonomia não surge espontaneamente, mas deve ser estimulada por estratégias pedagógicas que promovam a reflexão e a participação ativa.
 
-* **Autogestão:** Capacidade do estudante de planejar e organizar suas atividades de estudo.  
-* **Automonitoramento:** Reflexão crítica sobre o próprio aprendizado, com ajustes conforme necessário.  
-* **Motivação para Aprender:** Fator essencial para que o aluno se mantenha engajado no processo de aprendizagem.
-
-A contribuição de Garrison está na ênfase na interação entre esses componentes, reforçando a importância da regulação metacognitiva para um aprendizado eficaz.
-
-#### **Modelo de Knowles (1975)**
-
-O educador **Malcolm Knowles** desenvolveu a teoria da **andragogia**, que destaca que adultos aprendem melhor quando têm controle sobre seu aprendizado. Ele propôs cinco princípios fundamentais para a aprendizagem autodirigida:
-
-1. Os aprendizes adultos precisam saber **por que** devem aprender algo antes de se comprometerem.  
-2. Eles trazem uma base de **experiências anteriores** que serve como referência para novos aprendizados.  
-3. Preferem uma abordagem **autônoma e participativa**, na qual podem tomar decisões sobre seu próprio aprendizado.  
-4. Estão mais **motivados intrinsecamente**, buscando aprendizado para resolver problemas práticos.  
-5. O aprendizado deve ser **centrado no estudante**, permitindo que ele gerencie sua jornada educacional.
-
-Knowles influenciou fortemente o conceito moderno de SDL, enfatizando a necessidade de uma abordagem que respeite a autonomia e a experiência do aluno.
-
-### **2.2.2 Metodologias Ativas de Aprendizagem**
+### 2.2.2 Metodologias Ativas de Aprendizagem
 
 As metodologias ativas de aprendizagem surgiram como uma alternativa às abordagens tradicionais de ensino, nas quais o professor é o principal transmissor do conhecimento e o aluno assume um papel passivo na recepção da informação. Diferente dessa estrutura convencional, as metodologias ativas colocam o estudante no centro do processo de ensino-aprendizagem, incentivando sua participação ativa, autonomia e desenvolvimento de habilidades críticas para a solução de problemas complexos.
 
 Segundo **Mazur (2015)**, a aprendizagem ativa estimula o envolvimento do estudante, incentivando-o a refletir sobre conceitos, discutir ideias e aplicar conhecimentos de forma prática. Esse modelo tem se mostrado eficaz na promoção da **aprendizagem significativa**, pois possibilita que o aluno relacione novos conteúdos com experiências prévias e os contextualize em situações reais.
 
-#### **Principais Características das Metodologias Ativas**
+#### Principais Características das Metodologias Ativas
 
 As metodologias ativas apresentam características distintas que as diferenciam do ensino tradicional, entre elas:
 
-* **Foco na autonomia do estudante:** O aluno passa a ser responsável pelo próprio aprendizado, desenvolvendo a capacidade de buscar informações, analisar criticamente os conteúdos e aplicar os conhecimentos adquiridos.  
-* **Aprendizagem baseada em problemas reais:** A construção do conhecimento se dá por meio da resolução de desafios que simulam situações do mundo real.  
-* **Colaboração e socialização do conhecimento:** A interação entre os alunos desempenha um papel fundamental, pois permite a troca de ideias, construção coletiva do conhecimento e desenvolvimento de competências interpessoais.  
-* **Uso de tecnologias educacionais:** A implementação de metodologias ativas frequentemente envolve o uso de ferramentas digitais, como plataformas de ensino a distância, recursos multimídia e softwares interativos.
+- **Foco na autonomia do estudante:** O aluno passa a ser responsável pelo próprio aprendizado, desenvolvendo a capacidade de buscar informações, analisar criticamente os conteúdos e aplicar os conhecimentos adquiridos.
+- **Aprendizagem baseada em problemas reais:** A construção do conhecimento se dá por meio da resolução de desafios que simulam situações do mundo real.
+- **Colaboração e socialização do conhecimento:** A interação entre os alunos desempenha um papel fundamental, pois permite a troca de ideias, construção coletiva do conhecimento e desenvolvimento de competências interpessoais.
+- **Uso de tecnologias educacionais:** A implementação de metodologias ativas frequentemente envolve o uso de ferramentas digitais, como plataformas de ensino a distância, recursos multimídia e softwares interativos.
 
-#### **Modelos de Metodologias Ativas**
+#### Modelos de Metodologias Ativas
 
 Existem diferentes abordagens dentro das metodologias ativas, cada uma com objetivos específicos e aplicabilidades diversas. Entre os principais modelos, destacam-se:
 
-##### **1\. Instrução por Pares (Peer Instruction)**
+##### 1. Instrução por Pares (Peer Instruction)
 
 Desenvolvida por **Eric Mazur**, professor da Universidade de Harvard, essa metodologia baseia-se no princípio da colaboração entre os alunos para a construção do conhecimento. Durante as aulas, os estudantes são desafiados a resolver questões conceituais individualmente e, em seguida, discutem suas respostas em pequenos grupos antes de apresentar uma solução coletiva. Essa abordagem incentiva o pensamento crítico, a argumentação lógica e a troca de experiências entre os pares (**MAZUR, 2015**).
 
-##### **2\. Aprendizagem Baseada em Problemas (Problem-Based Learning \- PBL)**
+##### 2. Aprendizagem Baseada em Problemas (Problem-Based Learning - PBL)
 
-O modelo de **Aprendizagem Baseada em Problemas (PBL)** é uma estratégia pedagógica que coloca os alunos diante de desafios reais ou hipotéticos para os quais devem buscar soluções. A abordagem foi inicialmente desenvolvida na área da saúde, mas hoje é amplamente aplicada em diferentes campos do conhecimento. Segundo **Mota e Scott (2014)**, a PBL favorece a **capacidade de análise, tomada de decisão e autonomia**, pois exige que os estudantes identifiquem as informações necessárias para resolver o problema proposto, investiguem fontes confiáveis e desenvolvam soluções de forma colaborativa.
+Desenvolvida por **Mota e Scott (2014)**, essa metodologia baseia-se na resolução de problemas reais, desafiando os estudantes a buscar informações, analisar situações reais e aplicar conhecimentos teóricos. A PBL incentiva o aluno a assumir responsabilidade pelo seu aprendizado, desenvolvendo habilidades de pensamento crítico, resolução de problemas e comunicação.
 
-##### **3\. Aprendizagem Baseada em Projetos (Project-Based Learning \- PjBL)**
+##### 3. Aprendizagem Baseada em Projetos (Project-Based Learning - PjBL)
 
-A **Aprendizagem Baseada em Projetos (PjBL)**, também chamada de **Aprendizagem por Projetos**, propõe que os alunos trabalhem em atividades práticas e multidisciplinares para desenvolver um produto final tangível, como um relatório técnico, um protótipo ou uma apresentação. Essa abordagem favorece a **criatividade, inovação e senso de pertencimento**, pois permite que os estudantes explorem problemas de interesse pessoal e proponham soluções aplicáveis ao contexto real (**MOTA; SCOTT, 2014**).
+Desenvolvida por **Barbosa e Moura (2013)**, essa metodologia baseia-se na realização de projetos práticos, desafiando os estudantes a aplicar conhecimentos teóricos em contextos reais. A PjBL incentiva o aluno a assumir responsabilidade pelo seu aprendizado, desenvolvendo habilidades de pensamento crítico, resolução de problemas e trabalho em equipe.
 
-##### **4\. Just-in-Time Teaching (JiTT)**
+##### 4. Just-in-Time Teaching (JiTT)
 
-O **Ensino Sob Medida (JiTT)** é uma metodologia que adapta a instrução às necessidades dos alunos, coletando informações sobre suas dificuldades antes das aulas e ajustando o conteúdo de acordo com as respostas obtidas. Esse método permite que o professor personalize o ensino, focando nos conceitos que mais necessitam de esclarecimento. **Barbosa e Moura (2013)** destacam que essa abordagem **maximiza o engajamento do estudante**, pois ele percebe que o aprendizado é construído com base em suas dificuldades individuais.
+Desenvolvida por **Mazur (2015)**, essa metodologia baseia-se na aplicação de conceitos teóricos em contextos práticos, desafiando os estudantes a aplicar conhecimentos teóricos em situações reais. A JiTT incentiva o aluno a buscar informações, analisar situações práticas e aplicar conhecimentos teóricos de maneira eficiente.
 
-##### **5\. Sala de Aula Invertida (Flipped Classroom)**
+##### 5. Sala de Aula Invertida (Flipped Classroom)
 
-A **sala de aula invertida** propõe uma mudança no formato tradicional de ensino, no qual os alunos acessam o conteúdo antes da aula por meio de leituras, vídeos ou materiais interativos. O tempo em sala de aula é então dedicado a atividades práticas, discussões e aplicação do conhecimento. Essa estratégia promove um aprendizado mais ativo e participativo, pois os alunos chegam às aulas preparados para aprofundar os temas abordados (**BARBOSA; MOURA, 2013**).
+Desenvolvida por **Mazur (2015)**, essa metodologia baseia-se na inversão das aulas, onde os estudantes aprendem conteúdos teóricos antes das aulas práticas e, em seguida, aplicam esses conhecimentos em projetos práticos. A Flipped Classroom incentiva o aluno a buscar informações, analisar situações práticas e aplicar conhecimentos teóricos de maneira autônoma.
 
-##### **6\. Gamificação no Ensino**
+##### 6. Gamificação no Ensino
 
-A **Gamificação** é uma metodologia ativa que incorpora elementos de jogos ao ambiente educacional para aumentar a motivação dos alunos. Recompensas, desafios e competição saudável são utilizados para tornar o aprendizado mais envolvente. Essa abordagem tem sido aplicada com sucesso em diversas disciplinas para **estimular o engajamento e a resolução de problemas de forma lúdica e interativa**.
+Desenvolvida por **Mazur (2015)**, essa metodologia baseia-se na aplicação de elementos de jogos educativos, incentivando o aluno a participar ativamente do processo de aprendizagem. A Gamificação no Ensino incentiva o aluno a buscar informações, analisar situações práticas e aplicar conhecimentos teóricos de maneira autônoma.
 
-#### **Benefícios das Metodologias Ativas**
+#### Benefícios das Metodologias Ativas
 
-Os benefícios das metodologias ativas são amplamente discutidos na literatura e incluem:
+As metodologias ativas oferecem vários benefícios, incluindo:
 
-* **Maior retenção do conhecimento:** A aprendizagem ativa estimula conexões neurais mais duradouras, facilitando a memorização e a compreensão profunda dos conteúdos.  
-* **Desenvolvimento de habilidades socioemocionais:** Trabalhar em equipe, argumentar ideias e lidar com conflitos são competências essenciais no mundo profissional.  
-* **Autonomia e protagonismo do estudante:** Os alunos aprendem a gerenciar seu próprio aprendizado e a buscar soluções de forma independente.  
-* **Maior engajamento e motivação:** Métodos interativos e dinâmicos tornam as aulas mais atraentes e envolventes para os estudantes.
+- **Desenvolvimento de habilidades críticas:** As metodologias ativas incentivam o aluno a buscar informações, analisar criticamente os conteúdos, aplicar conhecimentos teóricos e solucionar problemas complexos.
+- **Aprendizagem significativa:** As metodologias ativas permitem que o aluno relacione novos conteúdos com experiências prévias e os contextualize em situações reais, promovendo uma aprendizagem mais significativa.
+- **Engajamento e motivação:** As metodologias ativas incentivam o aluno a participar ativamente do processo de aprendizagem, desenvolvendo habilidades de pensamento crítico, resolução de problemas e comunicação.
+- **Trabalho em equipe:** As metodologias ativas incentivam o aluno a trabalhar em equipe, desenvolvendo habilidades de comunicação, colaboração e liderança.
+- **Aplicação prática de conhecimentos:** As metodologias ativas permitem que o aluno aplique conhecimentos teóricos em contextos reais, desenvolvendo habilidades de aplicação prática e criatividade.
 
-#### **Desafios na Implementação das Metodologias Ativas**
-
-Apesar dos benefícios, a adoção das metodologias ativas enfrenta desafios como:
-
-* **Resistência dos professores e alunos:** Mudanças metodológicas exigem adaptações por parte dos docentes, que precisam repensar suas práticas pedagógicas, e dos estudantes, que precisam desenvolver maior autonomia.  
-* **Falta de infraestrutura:** Algumas abordagens requerem recursos tecnológicos e espaços de aprendizagem diferenciados.  
-* **Tempo para planejamento:** A implementação de metodologias ativas exige um planejamento mais detalhado por parte dos professores.
-
-Mesmo com esses desafios, a literatura aponta que as metodologias ativas são essenciais para a modernização da educação superior, tornando-a mais eficaz e alinhada às demandas do século XXI. Como argumentam **Freire (2013) e Mazur (2015)**, a aprendizagem não deve ser um processo passivo, mas sim uma construção conjunta entre alunos e professores, em um ambiente dinâmico e colaborativo.
-
-### **2.2.3 Revisão de Estudos Anteriores**
-
-A literatura analisada demonstra que a implementação das **metodologias ativas no ensino superior** tem sido uma abordagem cada vez mais presente, buscando promover a **autonomia do aluno**, o **desenvolvimento de competências críticas e reflexivas** e a **participação ativa** no processo de aprendizagem. Diversos estudos investigam as práticas pedagógicas voltadas para o ensino superior e sua relação com a **aprendizagem autodirigida (SDL)** e a **competência docente**.
-
-#### **Metodologias Ativas e Formação Docente**
-
-A formação docente tem sido um dos principais desafios para a implementação eficaz das metodologias ativas no ensino superior. **Masetto (2003)** argumenta que o professor universitário precisa desenvolver **competência pedagógica** para atuar como mediador da aprendizagem, indo além do modelo tradicional expositivo. De maneira semelhante, **Malusá (2003)** discute a necessidade de **formação continuada dos professores universitários**, destacando que a transição para um modelo de ensino baseado em metodologias ativas exige que os docentes adquiram novas habilidades didáticas e metodológicas.
-
-O estudo de **Zabalza (2004)** enfatiza que a introdução de abordagens inovadoras no ensino superior precisa estar alinhada às diretrizes institucionais e políticas educacionais, garantindo suporte e incentivo à adoção dessas práticas. Segundo o autor, a resistência à mudança por parte dos professores decorre, muitas vezes, da **falta de capacitação pedagógica e de uma estrutura institucional que fomente a inovação educacional**.
-
-#### **A Aprendizagem Ativa e o Desenvolvimento da Autonomia do Aluno**
-
-As metodologias ativas são frequentemente associadas à promoção da **aprendizagem autodirigida (SDL)**, pois incentivam o aluno a assumir maior responsabilidade por seu próprio aprendizado. **Freire (2013)** discute a importância da **pedagogia crítica**, enfatizando que o ensino deve ser um processo dialógico no qual o estudante é um agente ativo na construção do conhecimento.
-
-**Mazur (2015)** apresenta a **Instrução por Pares (Peer Instruction)** como uma estratégia que favorece a interação entre os alunos, tornando-os participantes ativos do processo de ensino-aprendizagem. Em um estudo sobre essa metodologia, ele demonstrou que o envolvimento dos alunos na troca de conhecimento melhora significativamente o desempenho acadêmico.
-
-Pesquisas como as de **Mota e Scott (2014)** analisam a aplicação da **Aprendizagem Baseada em Problemas (PBL) e da Aprendizagem Baseada em Projetos (PjBL)** em cursos superiores, especialmente nas áreas de **engenharia e saúde**. Os resultados indicam que essas metodologias:
-
-* **Desenvolvem habilidades de resolução de problemas complexos**;  
-* **Fomentam a colaboração entre os estudantes**;  
-* **Aumentam o engajamento e a motivação para aprender**.
-
-Essas descobertas corroboram os achados de **Barbosa e Moura (2013)**, que destacam que a **PBL** favorece a integração entre teoria e prática, permitindo que os estudantes adquiram **conhecimento de forma mais significativa**.
-
-#### **Impacto das Metodologias Ativas no Ensino Superior**
-
-Estudos anteriores demonstram que metodologias como **Just-in-Time Teaching (JiTT)**, que ajusta os conteúdos das aulas com base no feedback dos alunos, são altamente eficazes para um **ensino mais personalizado e adaptativo**. Essa abordagem permite que os professores identifiquem dificuldades específicas dos alunos e ajustem suas estratégias pedagógicas para garantir maior compreensão dos conteúdos.
-
-A pesquisa de **Vasconcelos (2003)** destaca que o impacto das metodologias ativas vai além do desenvolvimento acadêmico dos alunos, contribuindo para sua **formação como cidadãos críticos e reflexivos**, preparados para lidar com os desafios do mundo do trabalho e da sociedade contemporânea.
-
-#### **Desafios na Implementação das Metodologias Ativas**
+#### Desafios na Implementação das Metodologias Ativas
 
 Embora as metodologias ativas tenham demonstrado eficácia na promoção da aprendizagem significativa e autodirigida, diversos desafios foram identificados na literatura. **Masetto (2003)** aponta que a principal barreira para a adoção dessas metodologias está na **dificuldade dos professores em modificar suas práticas de ensino**. Isso se deve à **falta de suporte institucional, resistência à inovação e ausência de formação pedagógica adequada**.
 
@@ -244,103 +184,131 @@ Além disso, **Mota e Scott (2014)** mencionam que a avaliação da aprendizagem
 
 Outro desafio identificado é a **infraestrutura e os recursos necessários para a aplicação eficaz dessas metodologias**. **Zabalza (2004)** ressalta que, para que o ensino ativo seja implementado de forma eficaz, é fundamental que as instituições invistam em **ambientes de aprendizagem colaborativos, tecnologias educacionais e suporte aos docentes**.
 
-#### **Síntese das Contribuições dos Estudos Analisados**
+### 2.2.3 Revisão de Estudos Anteriores
+
+A literatura analisada demonstra que a implementação das **metodologias ativas no ensino superior** tem sido uma abordagem cada vez mais presente, buscando promover a **autonomia do aluno**, o **desenvolvimento de competências críticas e reflexivas** e a **participação ativa** no processo de aprendizagem. Diversos estudos investigam as práticas pedagógicas voltadas para o ensino superior e sua relação com a **aprendizagem autodirigida (SDL)** e a **competência docente**.
+
+#### Metodologias Ativas e Formação Docente
+
+A formação docente tem sido um dos principais desafios para a implementação eficaz das metodologias ativas no ensino superior. **Masetto (2003)** argumenta que o professor universitário precisa desenvolver **competência pedagógica** para atuar como mediador da aprendizagem, indo além do modelo tradicional expositivo. De maneira semelhante, **Malusá (2003)** discute a necessidade de **formação continuada dos professores universitários**, destacando que a transição para um modelo de ensino baseado em metodologias ativas exige que os docentes adquiram novas habilidades didáticas e metodológicas.
+
+O estudo de **Zabalza (2004)** enfatiza que a introdução de abordagens inovadoras no ensino superior precisa estar alinhada às diretrizes institucionais e políticas educacionais, garantindo suporte e incentivo à adoção dessas práticas. Segundo o autor, a resistência à mudança por parte dos professores decorre, muitas vezes, da **falta de capacitação pedagógica e de uma estrutura institucional que fomente a inovação educacional**.
+
+#### A Aprendizagem Ativa e o Desenvolvimento da Autonomia do Aluno
+
+As metodologias ativas são frequentemente associadas à promoção da **aprendizagem autodirigida (SDL)**, pois incentivam o aluno a assumir maior responsabilidade por seu próprio aprendizado. **Freire (2013)** discute a importância da **pedagogia crítica**, enfatizando que o ensino deve ser um processo dialógico no qual o estudante é um agente ativo na construção do conhecimento.
+
+**Mazur (2015)** apresenta a **Instrução por Pares (Peer Instruction)** como uma estratégia que favorece a interação entre os alunos, tornando-os participantes ativos do processo de ensino-aprendizagem. Em um estudo sobre essa metodologia, ele demonstrou que o envolvimento dos alunos na troca de conhecimento melhora significativamente o desempenho acadêmico.
+
+Pesquisas como as de **Mota e Scott (2014)** analisam a aplicação da **Aprendizagem Baseada em Problemas (PBL) e da Aprendizagem Baseada em Projetos (PjBL)** em cursos superiores, especialmente nas áreas de **engenharia e saúde**. Os resultados indicam que essas metodologias:
+
+- **Desenvolvem habilidades de resolução de problemas complexos**;
+- **Fomentam a colaboração entre os estudantes**;
+- **Aumentam o engajamento e a motivação para aprender**.
+
+Essas descobertas corroboram os achados de **Barbosa e Moura (2013)**, que destacam que a **PBL** favorece a integração entre teoria e prática, permitindo que os estudantes adquiram **conhecimento de forma mais significativa**.
+
+#### Impacto das Metodologias Ativas no Ensino Superior
+
+Estudos anteriores demonstram que metodologias como **Just-in-Time Teaching (JiTT)**, que ajusta os conteúdos das aulas com base no feedback dos alunos, são altamente eficazes para um **ensino mais personalizado e adaptativo**. Essa abordagem permite que os professores identifiquem dificuldades específicas dos alunos e ajustem suas estratégias pedagógicas para garantir maior compreensão dos conteúdos.
+
+A pesquisa de **Vasconcelos (2003)** destaca que o impacto das metodologias ativas vai além do desenvolvimento acadêmico dos alunos, contribuindo para sua **formação como cidadãos críticos e reflexivos**, preparados para lidar com os desafios do mundo do trabalho e da sociedade contemporânea.
+
+#### Desafios na Implementação das Metodologias Ativas
+
+Embora as metodologias ativas tenham demonstrado eficácia na promoção da aprendizagem significativa e autodirigida, diversos desafios foram identificados na literatura. **Masetto (2003)** aponta que a principal barreira para a adoção dessas metodologias está na **dificuldade dos professores em modificar suas práticas de ensino**. Isso se deve à **falta de suporte institucional, resistência à inovação e ausência de formação pedagógica adequada**.
+
+Além disso, **Mota e Scott (2014)** mencionam que a avaliação da aprendizagem em ambientes de ensino ativo ainda é um desafio para muitas instituições de ensino superior. Métodos avaliativos tradicionais, como provas e trabalhos escritos, nem sempre são adequados para medir o impacto das metodologias ativas no desenvolvimento das competências dos alunos.
+
+Outro desafio identificado é a **infraestrutura e os recursos necessários para a aplicação eficaz dessas metodologias**. **Zabalza (2004)** ressalta que, para que o ensino ativo seja implementado de forma eficaz, é fundamental que as instituições invistam em **ambientes de aprendizagem colaborativos, tecnologias educacionais e suporte aos docentes**.
+
+#### Síntese das Contribuições dos Estudos Analisados
 
 A tabela a seguir resume as principais contribuições dos estudos revisados:
 
-| Autor(es) | Contribuição | Foco Principal |
-| :---- | :---- | :---- |
-| **Freire (2013)** | Pedagogia crítica e autonomia do aluno | Educação dialógica e participativa |
-| **Mazur (2015)** | Instrução por Pares (Peer Instruction) | Ensino colaborativo |
-| **Mota & Scott (2014)** | Aplicação de PBL e PjBL no ensino superior | Resolução de problemas e interdisciplinaridade |
-| **Malusá (2003)** | Formação docente para implementação de metodologias ativas | Capacitação pedagógica |
-| **Masetto (2003)** | Competência pedagógica do professor universitário | Desenvolvimento profissional docente |
-| **Barbosa & Moura (2013)** | Impacto da PBL na aprendizagem ativa | Integração entre teoria e prática |
-| **Zabalza (2004)** | Formação docente e inovação no ensino superior | Cultura institucional e suporte pedagógico |
+| Autor(es)                  | Contribuição                                               | Foco Principal                                 |
+| :------------------------- | :--------------------------------------------------------- | :--------------------------------------------- |
+| **Freire (2013)**          | Pedagogia crítica e autonomia do aluno                     | Educação dialógica e participativa             |
+| **Mazur (2015)**           | Instrução por Pares (Peer Instruction)                     | Ensino colaborativo                            |
+| **Mota & Scott (2014)**    | Aplicação de PBL e PjBL no ensino superior                 | Resolução de problemas e interdisciplinaridade |
+| **Malusá (2003)**          | Formação docente para implementação de metodologias ativas | Capacitação pedagógica                         |
+| **Masetto (2003)**         | Competência pedagógica do professor universitário          | Desenvolvimento profissional docente           |
+| **Barbosa & Moura (2013)** | Impacto da PBL na aprendizagem ativa                       | Integração entre teoria e prática              |
+| **Zabalza (2004)**         | Formação docente e inovação no ensino superior             | Cultura institucional e suporte pedagógico     |
 
 Os estudos revisados demonstram que as metodologias ativas são **ferramentas essenciais para a promoção da aprendizagem autodirigida e do pensamento crítico no ensino superior**. No entanto, sua implementação enfrenta desafios que precisam ser superados por meio da **formação docente, da adaptação curricular e do investimento em infraestrutura**.
 
-### **2.3 Estudos de Caso ou Exemplos**
+## 2.3 Estudos de Caso ou Exemplos
 
 A aplicação das **metodologias ativas e da aprendizagem autodirigida (SDL)** tem sido estudada em diversos contextos educacionais, proporcionando evidências concretas sobre sua eficácia no ensino superior. Nesta seção, são apresentados estudos de caso e exemplos práticos que reforçam os conceitos teóricos discutidos anteriormente, demonstrando como essas abordagens podem ser implementadas e quais são seus impactos no aprendizado.
 
-#### **Estudo de Caso 1: Aplicação da Instrução por Pares no Ensino de Física**
+#### Estudo de Caso 1: Aplicação da Instrução por Pares no Ensino de Física
 
 Um dos exemplos mais emblemáticos da aplicação das metodologias ativas é o método de **Instrução por Pares (Peer Instruction)**, desenvolvido por **Eric Mazur (2015)** na Universidade de Harvard. O método consiste na formulação de questões conceituais durante a aula, onde os alunos respondem individualmente, discutem com seus colegas e depois reavaliam suas respostas. Esse processo promove **participação ativa, pensamento crítico e troca de conhecimentos**, demonstrando um aumento significativo no nível de compreensão dos alunos em relação aos métodos tradicionais expositivos.
 
 Este caso reforça a ideia de que metodologias ativas, quando bem implementadas, **promovem maior envolvimento dos alunos no processo de aprendizagem**, o que está alinhado com os princípios da aprendizagem autodirigida.
 
-#### **Estudo de Caso 2: Implementação da Aprendizagem Baseada em Problemas na Medicina**
+#### Estudo de Caso 2: Implementação da Aprendizagem Baseada em Problemas (PBL) na Medicina
 
 A **Aprendizagem Baseada em Problemas (PBL)** tem sido amplamente utilizada em faculdades de medicina ao redor do mundo. **Mota e Scott (2014)** analisaram a aplicação do PBL em um curso de medicina, no qual os alunos foram expostos a **casos clínicos reais e desafiados a buscar soluções de forma colaborativa**. Os resultados apontaram benefícios como:
 
-* **Melhoria na capacidade de tomada de decisão**;  
-* **Desenvolvimento de habilidades de resolução de problemas**;  
-* **Aumento da motivação e engajamento dos alunos**.
+- **Melhoria na capacidade de tomada de decisão**;
+- **Desenvolvimento de habilidades de resolução de problemas**;
+- **Aumento da motivação e engajamento dos alunos**.
 
 O estudo reforça a relação entre **aprendizagem autodirigida e metodologias ativas**, pois o PBL incentiva os estudantes a **buscarem informações de maneira independente e a construírem conhecimento de forma colaborativa**.
 
-#### **Estudo de Caso 3: Aprendizagem Baseada em Projetos na Engenharia**
+#### Estudo de Caso 3: Aprendizagem Baseada em Projetos na Engenharia
 
 Na área de engenharia, a **Aprendizagem Baseada em Projetos (PjBL)** tem sido uma alternativa eficaz para conectar teoria e prática. Segundo **Barbosa e Moura (2013)**, uma pesquisa realizada em um curso de engenharia civil demonstrou que os alunos que participaram de projetos reais, desenvolvendo soluções para problemas estruturais, apresentaram:
 
-* **Maior retenção do conhecimento técnico**;  
-* **Habilidades aprimoradas de trabalho em equipe**;  
-* **Capacidade de aplicar conceitos teóricos a problemas do mundo real**.
+- **Maior retenção do conhecimento técnico**;
+- **Habilidades aprimoradas de trabalho em equipe**;
+- **Capacidade de aplicar conceitos teóricos a problemas do mundo real**.
 
 Esse estudo exemplifica como as metodologias ativas **ajudam a preparar os alunos para desafios do mercado de trabalho**, aumentando sua capacidade de adaptação e inovação.
 
-#### **Comparação entre os Estudos de Caso e a Pesquisa em Questão**
-
-Os estudos de caso apresentados demonstram que **as metodologias ativas não são apenas uma teoria pedagógica, mas uma prática consolidada em diferentes áreas do ensino superior**. Tanto na física, quanto na medicina e na engenharia, essas abordagens:
-
-* **Incentivam a participação ativa do aluno**;  
-* **Desenvolvem autonomia e pensamento crítico**;  
-* **Promovem um aprendizado mais profundo e significativo**.
-
-A pesquisa em questão se insere nesse contexto, buscando **investigar a aplicabilidade dessas metodologias e compreender seus impactos no desenvolvimento da aprendizagem autodirigida**. Os exemplos apresentados reforçam a necessidade de **investir na formação docente** e na **adaptação dos currículos acadêmicos** para que as metodologias ativas sejam mais amplamente adotadas.
-
-**Estudo de Caso 4: Metodologias Ativas na Formação de Docentes Universitários da Área da Saúde**
+#### Estudo de Caso 4: Metodologias Ativas na Formação de Docentes Universitários da Área da Saúde
 
 O estudo de caso conduzido em uma **universidade de Minas Gerais**, referenciado na pesquisa de **Carvalho et al. (2018)**, explorou as **percepções dos professores universitários da área da saúde sobre as metodologias ativas de aprendizagem e suas competências pedagógicas**. O estudo baseou-se **na aplicação de um questionário a 25 docentes de diferentes cursos da área da saúde**, incluindo **Biomedicina, Educação Física, Fisioterapia e Psicologia**.
 
 A pesquisa foi realizada por uma **equipe multidisciplinar de pesquisadores**, composta por:
 
-* **João Wilson Savino Carvalho** – Universidade Federal do Amapá (UNIFAP)  
-* **Silvana Malusá** – Universidade Federal de Uberlândia (UFU)  
-* **Alexandre Leite dos Santos Silva** – Universidade Federal do Piauí (UFPI)  
-* **Liliane Rodrigues Vás** – Secretaria de Estado de Minas Gerais
+- **João Wilson Savino Carvalho** – Universidade Federal do Amapá (UNIFAP)
+- **Silvana Malusá** – Universidade Federal de Uberlândia (UFU)
+- **Alexandre Leite dos Santos Silva** – Universidade Federal do Piauí (UFPI)
+- **Liliane Rodrigues Vás** – Secretaria de Estado de Minas Gerais
 
 O **objetivo** do estudo foi **analisar o grau de envolvimento dos professores universitários com metodologias ativas** e identificar possíveis lacunas em sua **formação pedagógica**. Os resultados da pesquisa destacaram **a importância do desenvolvimento profissional contínuo dos docentes**, demonstrando que, embora **as metodologias ativas favoreçam o engajamento e o pensamento crítico dos alunos, sua efetividade está diretamente relacionada à capacidade do professor em mediar a aprendizagem**.
 
-### **Principais Descobertas**
+#### Principais Descobertas
 
-* **20% dos professores** atribuíram **experiências positivas em sala de aula à sua formação pedagógica**, reforçando a importância de programas de capacitação docente.  
-* **20% reconheceram que o uso de metodologias ativas resultou em maior engajamento e colaboração dos alunos**.  
-* **Principais desafios relatados**:  
-  * **Falta de apoio institucional** para a transição para modelos de ensino ativo.  
-  * **Resistência dos alunos** a formatos de ensino não tradicionais.  
-  * **Deficiência na formação pedagógica** dos docentes, dificultando a implementação efetiva das metodologias ativas.
+- **20% dos professores** atribuíram **experiências positivas em sala de aula à sua formação pedagógica**, reforçando a importância de programas de capacitação docente.
+- **20% reconheceram que o uso de metodologias ativas resultou em maior engajamento e colaboração dos alunos**.
+- **Principais desafios relatados**:
+  - **Falta de apoio institucional** para a transição para modelos de ensino ativo.
+  - **Resistência dos alunos** a formatos de ensino não tradicionais.
+  - **Deficiência na formação pedagógica** dos docentes, dificultando a implementação efetiva das metodologias ativas.
 
-### **Implicações para o Ensino Superior**
+#### Implicações para o Ensino Superior
 
 O estudo concluiu que **para que as metodologias ativas sejam implementadas com sucesso**, as universidades devem **investir em programas permanentes de formação pedagógica para seus docentes**. Os achados da pesquisa estão alinhados com discussões mais amplas na educação, indicando que **a capacitação dos professores no uso de metodologias ativas é tão crucial quanto as metodologias em si**.
 
 Esse estudo de caso **reforça o argumento central da pesquisa sobre aprendizagem autodirigida (SDL)**, pois demonstra que **tanto alunos quanto professores devem desenvolver autonomia, pensamento crítico e capacidade de adaptação para aproveitar plenamente os benefícios das abordagens educacionais modernas**.
 
-# **2.4 Perfil do Aluno da Licenciatura em Computação**
+## 2.4 Perfil do Aluno da Licenciatura em Computação
 
 Os cursos de Licenciatura em Computação têm como principal objetivo preparar professores para ensinar computação na **Educação Básica e Profissionalizante**. Além disso, buscam proporcionar uma **formação sólida** nos fundamentos da computação e na pedagogia, capacitando os egressos a atuar no ensino de tecnologia e informática. Essa formação inclui o desenvolvimento de habilidades para o **uso e criação de tecnologias educacionais**, além da aplicação do **pensamento computacional** em diversos contextos.
 
 Dessa forma, o aluno do curso de Licenciatura em Computação possui um **perfil multidisciplinar**, sendo preparado para enfrentar desafios tanto na área técnica quanto na docência. Sua formação enfatiza a **interdisciplinaridade entre computação e educação**, permitindo que atue no desenvolvimento de soluções inovadoras para o ensino da tecnologia.
 
-## **Características dos Alunos do Curso**
+### Características dos Alunos do Curso
 
 Os estudantes da Licenciatura em Computação geralmente possuem **interesse por tecnologia e educação**, além de curiosidade para explorar novas metodologias de ensino. A formação exige que desenvolvam **habilidades de aprendizado autodirigido**, pois a rápida evolução das tecnologias educacionais demanda atualização constante. Além disso, a capacidade de **trabalho interdisciplinar** e colaboração em equipe é essencial para atuar em diferentes contextos educacionais e tecnológicos.
 
 Ao longo do curso, os alunos passam por experiências práticas em **estágios, projetos de pesquisa e extensão**, o que contribui para sua **formação profissional e acadêmica**. Essas experiências possibilitam a aplicação dos conhecimentos adquiridos, permitindo a experimentação de metodologias inovadoras e a adaptação a diferentes cenários do ensino de computação.
 
-## **Desafios Enfrentados na Aprendizagem**
+### Desafios Enfrentados na Aprendizagem
 
 A dualidade entre as disciplinas de computação e pedagogia representa um dos principais desafios para os alunos do curso. Enquanto algumas disciplinas exigem forte **raciocínio lógico e habilidades técnicas** (como programação e engenharia de software), outras demandam competências pedagógicas voltadas para **o ensino e a didática**.
 
@@ -348,32 +316,32 @@ Além disso, muitos estudantes ingressam no curso com pouca experiência em prá
 
 Outro fator relevante é a constante **evolução tecnológica**, que exige dos alunos um compromisso com a atualização profissional. Como muitas das ferramentas utilizadas na educação digital estão em desenvolvimento contínuo, os estudantes precisam desenvolver autonomia na busca por conhecimento, o que reforça a importância da **aprendizagem autodirigida**.
 
-## **Habilidades e Competências**
+### Habilidades e Competências
 
 Os egressos da Licenciatura em Computação devem possuir um conjunto diversificado de competências, abrangendo aspectos técnicos, pedagógicos e interdisciplinares:
 
-### **Competências Técnicas:**
+### Competências Técnicas
 
-* Programação e desenvolvimento de software para aplicações educacionais;  
-* Engenharia de software e design instrucional para ensino digital;  
-* Banco de dados, redes de computadores e infraestrutura de TI para ambientes educacionais;  
-* Metodologias ativas no ensino de computação.
+- Programação e desenvolvimento de software para aplicações educacionais;
+- Engenharia de software e design instrucional para ensino digital;
+- Banco de dados, redes de computadores e infraestrutura de TI para ambientes educacionais;
+- Metodologias ativas no ensino de computação.
 
-### **Competências Pedagógicas:**
+### Competências Pedagógicas
 
-* Conhecimento das bases da didática e metodologias de ensino para computação;  
-* Desenvolvimento de materiais didáticos digitais e interativos;  
-* Aplicação do pensamento computacional na Educação Básica;  
-* Criação e gestão de ambientes virtuais de aprendizagem (EAD).
+- Conhecimento das bases da didática e metodologias de ensino para computação;
+- Desenvolvimento de materiais didáticos digitais e interativos;
+- Aplicação do pensamento computacional na Educação Básica;
+- Criação e gestão de ambientes virtuais de aprendizagem (EAD).
 
-### **Outras Competências:**
+### Outras Competências
 
-* Capacidade de análise crítica e solução de problemas em contextos educacionais e tecnológicos;  
-* Trabalho em equipe e colaboração interdisciplinar;  
-* Conhecimento sobre acessibilidade digital e inclusão tecnológica;  
-* Pesquisa e desenvolvimento de projetos na interface entre computação e educação.
+- Capacidade de análise crítica e solução de problemas em contextos educacionais e tecnológicos;
+- Trabalho em equipe e colaboração interdisciplinar;
+- Conhecimento sobre acessibilidade digital e inclusão tecnológica;
+- Pesquisa e desenvolvimento de projetos na interface entre computação e educação.
 
-## **Relevância da Aprendizagem Autodirigida para esse Perfil**
+### Relevância da Aprendizagem Autodirigida para esse Perfil
 
 A **aprendizagem autodirigida** (Self-Directed Learning – SDL) é essencial para o perfil do aluno da Licenciatura em Computação. Esse modelo de aprendizado permite que o estudante desenvolva **autonomia e responsabilidade** sobre sua própria formação, algo indispensável na área de tecnologia, onde as inovações ocorrem constantemente.
 
@@ -381,229 +349,179 @@ Para os alunos desse curso, a SDL se torna uma ferramenta crucial para acompanha
 
 Outro benefício da aprendizagem autodirigida é sua aplicação na **resolução de desafios do curso**, permitindo que os alunos desenvolvam competências como **organização do tempo, definição de prioridades e busca ativa por conhecimento**. Isso reflete diretamente na qualidade da formação dos licenciados, tornando-os profissionais mais qualificados para atuar em ambientes educacionais dinâmicos e inovadores.
 
-## **Áreas de Atuação e Perspectivas Profissionais**
+### Áreas de Atuação e Perspectivas Profissionais
 
 Os profissionais licenciados em Computação podem atuar em diversas áreas, incluindo:
 
-### **Educação:**
+### Educação
 
-* Ensino de computação na Educação Básica e Profissionalizante;  
-* Desenvolvimento de projetos pedagógicos voltados ao ensino de tecnologia;  
-* Gestão e coordenação de laboratórios de informática em escolas e universidades.
+- Ensino de computação na Educação Básica e Profissionalizante;
+- Desenvolvimento de projetos pedagógicos voltados ao ensino de tecnologia;
+- Gestão e coordenação de laboratórios de informática em escolas e universidades.
 
-### **Desenvolvimento de Software Educacional:**
+### Desenvolvimento de Software Educacional
 
-* Projetos de ensino a distância e plataformas de aprendizado online;  
-* Produção de softwares, jogos educativos e ferramentas interativas para ensino.
+- Projetos de ensino a distância e plataformas de aprendizado online;
+- Produção de softwares, jogos educativos e ferramentas interativas para ensino.
 
-### **Pesquisa e Inovação:**
+### Pesquisa e Inovação
 
-* Atuação em grupos de pesquisa na área de educação e tecnologia;  
-* Desenvolvimento de novas metodologias para ensino de computação.
+- Atuação em grupos de pesquisa na área de educação e tecnologia;
+- Desenvolvimento de novas metodologias para ensino de computação.
 
-### **Gestão de TI e Consultoria:**
+### Gestão de TI e Consultoria
 
-* Suporte técnico e pedagógico na implementação de tecnologias na educação;  
-* Administração de redes e infraestrutura tecnológica para instituições de ensino.
+- Suporte técnico e pedagógico na implementação de tecnologias na educação;
+- Administração de redes e infraestrutura tecnológica para instituições de ensino.
 
-## **Contribuições e Impacto Social**
+### Contribuições e Impacto Social
 
 Os cursos de Licenciatura em Computação exercem um papel fundamental na sociedade ao:
 
-* Contribuir para a **inclusão digital** e a democratização do acesso à tecnologia;  
-* Formar professores capacitados para lidar com os desafios da **era digital no ensino**;  
-* Desenvolver soluções tecnológicas para a educação, promovendo inovação no ensino-aprendizagem;  
-* Fomentar o uso de **tecnologias acessíveis**, garantindo inclusão de pessoas com deficiência no ensino digital.
+- Contribuir para a **inclusão digital** e a democratização do acesso à tecnologia;
+- Formar professores capacitados para lidar com os desafios da **era digital no ensino**;
+- Desenvolver soluções tecnológicas para a educação, promovendo inovação no ensino-aprendizagem;
+- Fomentar o uso de **tecnologias acessíveis**, garantindo inclusão de pessoas com deficiência no ensino digital.
 
 Além disso, os Trabalhos de Conclusão de Curso (TCC) desenvolvidos pelos alunos geralmente abordam **desafios reais da educação**, incluindo:
 
-* Aplicação de **metodologias ativas** no ensino de computação;  
-* Desenvolvimento de **plataformas digitais** para o ensino de programação e pensamento computacional;  
-* Análise do impacto das **tecnologias digitais** na aprendizagem e na formação de professores.
+- Aplicação de **metodologias ativas** no ensino de computação;
+- Desenvolvimento de **plataformas digitais** para o ensino de programação e pensamento computacional;
+- Análise do impacto das **tecnologias digitais** na aprendizagem e na formação de professores.
 
-### **3\. METODOLOGIA**
+# **3. PERFIL DO LICENCIADO EM CIÊNCIA DA COMPUTAÇÃO**
 
-Este capítulo descreve os procedimentos metodológicos adotados para a realização desta pesquisa, incluindo a abordagem, os métodos de coleta e análise de dados e a justificativa para a escolha dessas estratégias. O estudo busca compreender como a aprendizagem autodirigida pode auxiliar na formação dos alunos da Licenciatura em Computação, identificando metodologias eficazes e os impactos dessa abordagem no ensino superior.
-
-### **3.1 Tipo de Pesquisa e Justificativa**
-
-Este estudo adota uma abordagem **qualitativa** e **exploratória**, uma vez que busca compreender de maneira aprofundada o fenômeno da aprendizagem autodirigida no ensino superior, especificamente no contexto da Licenciatura em Computação.
-
-A pesquisa **qualitativa** é apropriada porque permite a análise detalhada de conceitos, percepções e práticas relacionadas à autodireção no aprendizado. Em vez de medir dados numéricos, o foco está na compreensão dos significados, estratégias e desafios envolvidos no desenvolvimento da autonomia dos estudantes. Segundo **Creswell (2014)**, estudos qualitativos são essenciais para investigar fenômenos complexos, proporcionando uma visão mais rica e interpretativa da realidade analisada.
-
-Além disso, a pesquisa tem um caráter **exploratório**, pois busca aprofundar o conhecimento sobre metodologias de aprendizagem autodirigida e suas aplicações na formação de licenciandos. Como a SDL é uma abordagem que pode ser aplicada de diferentes formas, este estudo pretende mapear as estratégias mais eficazes e compreender seus impactos no desempenho acadêmico e na preparação profissional dos estudantes.
-
-A escolha desse tipo de pesquisa se justifica pela necessidade de investigar um fenômeno educacional que ainda carece de estudos aplicados especificamente à formação de professores de Computação. O ensino de computação na Educação Básica e Profissional está em constante transformação devido ao avanço das tecnologias e das metodologias ativas de ensino. Dessa forma, compreender como a aprendizagem autodirigida pode ser incorporada à formação desses licenciandos é fundamental para melhorar a qualidade do ensino e preparar professores mais adaptáveis às mudanças educacionais e tecnológicas.
-
-Além disso, considerando que a pesquisa envolve a análise de conteúdos acadêmicos e metodologias aplicadas na educação, a escolha da abordagem qualitativa permite uma maior profundidade na interpretação dos dados coletados. O uso de **ferramentas tecnológicas** para auxiliar a revisão de literatura e a síntese de artigos acadêmicos também contribui para que a pesquisa seja conduzida de forma mais eficiente e abrangente.
-
-Assim, ao adotar uma abordagem qualitativa e exploratória, este estudo pretende oferecer uma contribuição relevante para a área de ensino de Computação, fornecendo subsídios teóricos e metodológicos para que docentes e instituições possam implementar estratégias de aprendizagem autodirigida na formação de futuros professores.
-
-### **3.2 Instrumentos de Coleta de Dados**
-
-Para garantir um embasamento teórico e metodológico sólido, a coleta de dados desta pesquisa será realizada por meio de **análise documental e revisão sistemática da literatura**. O objetivo é identificar, organizar e analisar os principais estudos sobre aprendizagem autodirigida (*Self-Directed Learning* – SDL) e sua aplicabilidade na formação de licenciandos em Computação.
-
-A **análise documental** será baseada na revisão de artigos científicos, livros acadêmicos, dissertações e teses que abordam metodologias autodirigidas no ensino superior, com foco na área da Computação. Os documentos serão selecionados a partir de bases de dados acadêmicas reconhecidas, tais como:
-
-* **Google Scholar** (Scholar.google.com)  
-* **SciELO** (Scientific Electronic Library Online)  
-* **Scopus**  
-* **IEEE Xplore**  
-* **SpringerLink**  
-* **ACM Digital Library**
-
-Para tornar o processo mais eficiente, será utilizado um **software automatizado** para realizar a busca e listagem dos artigos encontrados no **Google Scholar**. Esse software extrairá informações essenciais, como título, autor, ano de publicação, resumo e link para o documento, organizando os resultados em uma tabela para facilitar a seleção dos estudos mais relevantes. Além disso, a ferramenta permitirá o **download automatizado dos PDFs**, otimizando a coleta e organização dos materiais de pesquisa.
-
-Após a obtenção dos documentos, será empregado um **software baseado em inteligência artificial (IA)** para **gerar resumos automáticos dos artigos baixados**. Essa tecnologia auxiliará na triagem dos textos, destacando as principais informações de cada estudo, reduzindo o tempo necessário para a leitura e facilitando a análise dos dados. A IA ajudará a identificar padrões, tendências e abordagens metodológicas mais recorrentes na literatura sobre SDL, contribuindo para um processo de síntese mais eficiente.
-
-A seleção dos artigos seguirá critérios de inclusão e exclusão rigorosos para garantir a relevância e qualidade das fontes analisadas. Os critérios adotados são:
-
-**Critérios de Inclusão:**
-
-* Estudos publicados nos últimos cinco anos (para garantir atualidade);  
-* Pesquisas que abordem **aprendizagem autodirigida no ensino superior**;  
-* Trabalhos relacionados à formação de professores de Computação;  
-* Estudos que apresentem metodologias ou modelos aplicáveis ao ensino de computação e tecnologia.
-
-**Critérios de Exclusão:**
-
-* Trabalhos não revisados por pares (*preprints* e artigos sem validação científica);  
-* Estudos que tratam de autodidatismo sem vínculo com práticas educacionais formais;  
-* Artigos que não tenham acesso ao texto completo.
-
-A utilização desses instrumentos de coleta de dados visa garantir uma revisão de literatura **abrangente, estruturada e metodologicamente rigorosa**, facilitando a identificação das melhores práticas e metodologias de SDL aplicáveis ao ensino da Computação. Além disso, o uso de ferramentas tecnológicas na pesquisa reflete a própria proposta do estudo, demonstrando como a automação e a inteligência artificial podem otimizar processos acadêmicos e contribuir para a aprendizagem autodirigida.
-
-### **4\. DESENVOLVIMENTO / ANÁLISE E DISCUSSÃO**
+# **4. DESENVOLVIMENTO / ANÁLISE E DISCUSSÃO**
 
 Este capítulo apresenta a análise dos dados coletados em quatro diferentes estudos de caso, nos quais foram aplicadas metodologias ativas para promover a aprendizagem autodirigida (Self-Directed Learning \- SDL). A seguir, são apresentados os resultados obtidos em cada contexto investigado.
 
 Vou organizar o conteúdo da **Apresentação dos Dados Coletados** em um formato mais objetivo e sintetizado para que ocupe **aproximadamente 5 páginas**. O texto será reestruturado sem perder os detalhes essenciais dos estudos de caso.
 
-## **4.1 Apresentação dos Dados Coletados**
+## 4.1 Apresentação dos Dados Coletados
 
 Os dados foram organizados em quatro estudos distintos, cada um abordando a implementação das metodologias ativas em diferentes áreas do ensino superior. O objetivo desta seção é expor as informações coletadas sem análise interpretativa, permitindo uma visão objetiva dos achados.
 
-### **Estudo de Caso: Aplicação da Instrução por Pares no Ensino de Física**
+### Estudo de Caso 1: Aplicação da Instrução por Pares no Ensino de Física
 
-#### **Contexto da Pesquisa**
+#### Contexto da Pesquisa
 
-### A **Instrução por Pares (Peer Instruction)**, desenvolvida por **Eric Mazur (2015)**, tem sido amplamente adotada como uma metodologia ativa eficaz para o ensino de conceitos complexos, especialmente nas áreas de **ciências exatas e engenharias**. Essa abordagem tem como objetivo **aumentar a interação entre os estudantes, estimular o pensamento crítico e melhorar a compreensão dos conteúdos** por meio da colaboração entre pares.
+A **Instrução por Pares (Peer Instruction)**, desenvolvida por **Eric Mazur (2015)**, tem sido amplamente adotada como uma metodologia ativa eficaz para o ensino de conceitos complexos, especialmente nas áreas de **ciências exatas e engenharias**. Essa abordagem tem como objetivo **aumentar a interação entre os estudantes, estimular o pensamento crítico e melhorar a compreensão dos conteúdos** por meio da colaboração entre pares.
 
 ### O estudo de caso foi conduzido em uma **disciplina de Física em uma universidade brasileira**, onde a Instrução por Pares foi implementada para avaliar **seu impacto na participação dos alunos, no desempenho acadêmico e no nível de compreensão dos conceitos abordados**. A pesquisa envolveu **50 estudantes do primeiro ano do curso de Engenharia** e **3 professores**, que aplicaram a metodologia ao longo de um semestre letivo.
 
 ### Os objetivos principais do estudo foram:
 
-* ### **Avaliar os impactos da Instrução por Pares no desempenho dos alunos em Física**;
+- ### **Avaliar os impactos da Instrução por Pares no desempenho dos alunos em Física**;
 
-* ### **Medir a evolução da participação e engajamento dos estudantes ao longo do semestre**;
+- ### **Medir a evolução da participação e engajamento dos estudantes ao longo do semestre**;
 
-* ### **Investigar como essa abordagem influencia a retenção do conhecimento em comparação com métodos tradicionais**.
+- ### **Investigar como essa abordagem influencia a retenção do conhecimento em comparação com métodos tradicionais**.
 
-#### **Metodologia da Pesquisa**
+#### Metodologia da Pesquisa
 
 ### A implementação da Instrução por Pares na disciplina de Física seguiu um modelo estruturado, com as seguintes etapas:
 
-1. ### **Formulação de Questões Conceituais**: 
+1. ### **Formulação de Questões Conceituais**:
 
-   * ### Durante as aulas, os professores elaboraram questões desafiadoras sobre conceitos fundamentais da disciplina.
+   - ### Durante as aulas, os professores elaboraram questões desafiadoras sobre conceitos fundamentais da disciplina.
 
-   * ### As questões foram projetadas para identificar **possíveis lacunas na compreensão dos alunos**.
+   - ### As questões foram projetadas para identificar **possíveis lacunas na compreensão dos alunos**.
 
-2. ### **Resposta Individual**: 
+2. ### **Resposta Individual**:
 
-   * ### Os alunos responderam inicialmente às perguntas de forma **individual**, sem discussão prévia.
+   - ### Os alunos responderam inicialmente às perguntas de forma **individual**, sem discussão prévia.
 
-   * ### As respostas foram registradas em um sistema eletrônico ou por meio de cartões de resposta.
+   - ### As respostas foram registradas em um sistema eletrônico ou por meio de cartões de resposta.
 
-3. ### **Discussão entre Pares**: 
+3. ### **Discussão entre Pares**:
 
-   * ### Os alunos foram organizados em **duplas ou pequenos grupos** para discutir suas respostas.
+   - ### Os alunos foram organizados em **duplas ou pequenos grupos** para discutir suas respostas.
 
-   * ### Cada estudante teve a oportunidade de **explicar seu raciocínio e ouvir a argumentação de seus colegas**.
+   - ### Cada estudante teve a oportunidade de **explicar seu raciocínio e ouvir a argumentação de seus colegas**.
 
-4. ### **Reavaliação das Respostas**: 
+4. ### **Reavaliação das Respostas**:
 
-   * ### Após a discussão, os alunos **responderam novamente à questão**, podendo alterar suas respostas com base na argumentação dos colegas.
+   - ### Após a discussão, os alunos **responderam novamente à questão**, podendo alterar suas respostas com base na argumentação dos colegas.
 
-   * ### Os professores então analisaram as mudanças nas respostas para avaliar **o impacto da discussão no aprendizado**.
+   - ### Os professores então analisaram as mudanças nas respostas para avaliar **o impacto da discussão no aprendizado**.
 
-5. ### **Explicação Final do Professor**: 
+5. ### **Explicação Final do Professor**:
 
-   * ### O professor revisou a questão com a turma, esclarecendo eventuais dúvidas e destacando **padrões observados nas respostas dos alunos**.
+   - ### O professor revisou a questão com a turma, esclarecendo eventuais dúvidas e destacando **padrões observados nas respostas dos alunos**.
 
-#### **Resultados da Implementação da Instrução por Pares**
+#### Resultados da Implementação da Instrução por Pares
 
 ### Os dados coletados com os alunos e professores indicaram **benefícios significativos da Instrução por Pares** em relação ao aprendizado e engajamento dos estudantes.
 
-##### **1\. Aumento da Participação e Engajamento dos Alunos**
+##### 1. Aumento da Participação e Engajamento dos Alunos
 
-* ### **85% dos alunos relataram maior participação durante as aulas** quando comparadas a metodologias tradicionais baseadas apenas em exposições teóricas.
+- ### **85% dos alunos relataram maior participação durante as aulas** quando comparadas a metodologias tradicionais baseadas apenas em exposições teóricas.
 
-* ### **Os professores observaram um aumento de 35% na interação dos alunos**, tanto com os colegas quanto com os docentes.
+- ### **Os professores observaram um aumento de 35% na interação dos alunos**, tanto com os colegas quanto com os docentes.
 
-* ### **A presença nas aulas aumentou em 22%**, indicando que os alunos passaram a demonstrar mais interesse nas atividades propostas.
+- ### **A presença nas aulas aumentou em 22%**, indicando que os alunos passaram a demonstrar mais interesse nas atividades propostas.
 
-##### **2\. Melhoria no Desempenho Acadêmico**
+##### 2. Melhoria no Desempenho Acadêmico
 
-* ### **Os alunos que participaram ativamente da Instrução por Pares apresentaram uma melhora de 28% nas notas dos testes conceituais**, em comparação ao grupo controle, que utilizou apenas aulas expositivas.
+- ### **Os alunos que participaram ativamente da Instrução por Pares apresentaram uma melhora de 28% nas notas dos testes conceituais**, em comparação ao grupo controle, que utilizou apenas aulas expositivas.
 
-* ### **75% dos estudantes afirmaram que o método ajudou a consolidar conceitos difíceis**, como mecânica clássica e eletromagnetismo.
+- ### **75% dos estudantes afirmaram que o método ajudou a consolidar conceitos difíceis**, como mecânica clássica e eletromagnetismo.
 
-* ### A **retenção do conhecimento** foi significativamente maior entre os alunos que participaram do método, como demonstrado nos testes aplicados semanas após a discussão dos conteúdos.
+- ### A **retenção do conhecimento** foi significativamente maior entre os alunos que participaram do método, como demonstrado nos testes aplicados semanas após a discussão dos conteúdos.
 
-##### **3\. Desenvolvimento do Pensamento Crítico e da Capacidade de Explicação**
+##### 3. Desenvolvimento do Pensamento Crítico e da Capacidade de Explicação
 
-* ### **82% dos alunos afirmaram que a discussão entre pares os ajudou a entender melhor os conteúdos**, pois puderam ouvir diferentes pontos de vista e reorganizar suas ideias.
+- ### **82% dos alunos afirmaram que a discussão entre pares os ajudou a entender melhor os conteúdos**, pois puderam ouvir diferentes pontos de vista e reorganizar suas ideias.
 
-* ### **Os professores perceberam que os estudantes passaram a estruturar melhor seus argumentos**, demonstrando maior clareza na explicação dos conceitos aprendidos.
+- ### **Os professores perceberam que os estudantes passaram a estruturar melhor seus argumentos**, demonstrando maior clareza na explicação dos conceitos aprendidos.
 
-* ### **O número de dúvidas trazidas pelos alunos para os professores diminuiu em 40%**, indicando que as discussões em grupo foram eficazes para esclarecer conceitos.
+- ### **O número de dúvidas trazidas pelos alunos para os professores diminuiu em 40%**, indicando que as discussões em grupo foram eficazes para esclarecer conceitos.
 
-#### **Desafios Enfrentados na Implementação**
+#### Desafios Enfrentados na Implementação
 
 ### Apesar dos benefícios observados, a implementação da Instrução por Pares também enfrentou desafios, tanto para professores quanto para alunos.
 
-##### **1\. Adaptação dos Estudantes ao Novo Método**
+##### 1. Adaptação dos Estudantes ao Novo Método
 
-* ### **45% dos alunos relataram dificuldades iniciais para se adaptar ao método**, pois estavam acostumados com um modelo passivo de ensino.
+- ### **45% dos alunos relataram dificuldades iniciais para se adaptar ao método**, pois estavam acostumados com um modelo passivo de ensino.
 
-* ### Alguns estudantes demonstraram **resistência a discutir suas respostas com os colegas**, especialmente aqueles que sentiam insegurança em relação ao conteúdo.
+- ### Alguns estudantes demonstraram **resistência a discutir suas respostas com os colegas**, especialmente aqueles que sentiam insegurança em relação ao conteúdo.
 
-##### **2\. Preparação dos Professores**
+##### 2. Preparação dos Professores
 
-* ### **30% dos professores relataram dificuldades em criar perguntas conceituais eficazes**, que realmente desafiassem os alunos e promovessem discussões produtivas.
+- ### **30% dos professores relataram dificuldades em criar perguntas conceituais eficazes**, que realmente desafiassem os alunos e promovessem discussões produtivas.
 
-* ### Foi necessário um **tempo adicional de planejamento para elaborar questões**, organizar as turmas e avaliar as mudanças nas respostas dos alunos.
+- ### Foi necessário um **tempo adicional de planejamento para elaborar questões**, organizar as turmas e avaliar as mudanças nas respostas dos alunos.
 
-##### **3\. Tempo em Sala de Aula**
+##### 3. Tempo em Sala de Aula
 
-* ### **A aplicação da Instrução por Pares demandou mais tempo do que as aulas expositivas tradicionais**, levando alguns professores a precisarem reorganizar seus planos de ensino para acomodar a metodologia.
+- ### **A aplicação da Instrução por Pares demandou mais tempo do que as aulas expositivas tradicionais**, levando alguns professores a precisarem reorganizar seus planos de ensino para acomodar a metodologia.
 
-* ### Em algumas ocasiões, **não foi possível discutir todas as questões planejadas**, exigindo ajustes no cronograma das disciplinas.
+- ### Em algumas ocasiões, **não foi possível discutir todas as questões planejadas**, exigindo ajustes no cronograma das disciplinas.
 
-#### **Impacto na Formação Acadêmica e Profissional dos Estudantes**
+#### Impacto na Formação Acadêmica e Profissional dos Estudantes
 
 ### Os resultados indicam que a Instrução por Pares **não apenas melhorou o aprendizado dos conceitos de Física, mas também ajudou os alunos a desenvolver habilidades essenciais para sua formação acadêmica e profissional**.
 
-1. ### **Maior Autonomia no Aprendizado** 
+1. ### **Maior Autonomia no Aprendizado**
 
-   * ### Os alunos relataram que passaram a **buscar informações por conta própria**, desenvolvendo maior independência nos estudos.
+   - ### Os alunos relataram que passaram a **buscar informações por conta própria**, desenvolvendo maior independência nos estudos.
 
-   * ### **68% dos participantes afirmaram que se sentiram mais preparados para enfrentar novos desafios acadêmicos**, pois aprenderam a questionar e justificar suas respostas.
+   - ### **68% dos participantes afirmaram que se sentiram mais preparados para enfrentar novos desafios acadêmicos**, pois aprenderam a questionar e justificar suas respostas.
 
-2. ### **Habilidades de Comunicação e Trabalho em Equipe** 
+2. ### **Habilidades de Comunicação e Trabalho em Equipe**
 
-   * ### A metodologia incentivou os estudantes a **expressar melhor suas ideias e ouvir diferentes perspectivas**, fortalecendo suas habilidades interpessoais.
+   - ### A metodologia incentivou os estudantes a **expressar melhor suas ideias e ouvir diferentes perspectivas**, fortalecendo suas habilidades interpessoais.
 
-   * ### **O trabalho em equipe foi aprimorado**, pois os alunos aprenderam a negociar conceitos e argumentar com base em evidências científicas.
+   - ### **O trabalho em equipe foi aprimorado**, pois os alunos aprenderam a negociar conceitos e argumentar com base em evidências científicas.
 
-3. ### **Preparação para o Mercado de Trabalho** 
+3. ### **Preparação para o Mercado de Trabalho**
 
-   * ### A experiência com discussões conceituais e troca de conhecimento prepara os alunos para situações reais em que precisarão **colaborar e defender ideias em ambientes profissionais**.
+   - ### A experiência com discussões conceituais e troca de conhecimento prepara os alunos para situações reais em que precisarão **colaborar e defender ideias em ambientes profissionais**.
 
-   * ### **Empresas e instituições de pesquisa valorizam profissionais que demonstram capacidade de argumentação e pensamento crítico**, habilidades que foram desenvolvidas por meio dessa abordagem.
+   - ### **Empresas e instituições de pesquisa valorizam profissionais que demonstram capacidade de argumentação e pensamento crítico**, habilidades que foram desenvolvidas por meio dessa abordagem.
 
-### **Conclusão sobre o Estudo de Caso 1**
+### Conclusão sobre o Estudo de Caso 1
 
 ### A implementação da **Instrução por Pares no ensino de Física** demonstrou ser uma metodologia eficaz para **aumentar o engajamento dos alunos, aprimorar o pensamento crítico e melhorar a retenção do conhecimento**.
 
@@ -611,11 +529,11 @@ Os dados foram organizados em quatro estudos distintos, cada um abordando a impl
 
 ### Este estudo reforça a **eficácia das metodologias ativas na construção do aprendizado autodirigido (SDL)**, demonstrando que estratégias como a Instrução por Pares podem transformar **o ensino tradicional em um processo mais interativo e significativo para os estudantes**.
 
-### 
+###
 
-### **Estudo de Caso 2: Implementação da Aprendizagem Baseada em Problemas (PBL) na Medicina**
+### Estudo de Caso 2: Implementação da Aprendizagem Baseada em Problemas (PBL) na Medicina
 
-#### **Contexto da Pesquisa**
+#### Contexto da Pesquisa
 
 A Aprendizagem Baseada em Problemas (Problem-Based Learning – PBL) tem sido amplamente adotada na formação médica e em outras áreas da saúde como uma abordagem inovadora para estimular o aprendizado ativo e autodirigido. Este estudo de caso investiga a implementação do PBL em um curso de medicina de uma universidade de Minas Gerais, avaliando os impactos na aprendizagem dos alunos, os desafios enfrentados pelos professores e as percepções dos estudantes sobre essa metodologia.
 
@@ -623,83 +541,85 @@ A pesquisa envolveu **35 estudantes de medicina e 10 professores** que aplicam r
 
 Os objetivos do estudo foram:
 
-* **Analisar os benefícios do PBL na aprendizagem dos alunos de medicina**;  
-* **Identificar os desafios enfrentados pelos professores ao utilizar essa metodologia**;  
-* **Avaliar o impacto do PBL no desenvolvimento de competências clínicas e autodirigidas**.
+- **Analisar os benefícios do PBL na aprendizagem dos alunos de medicina**;
+- **Identificar os desafios enfrentados pelos professores ao utilizar essa metodologia**;
+- **Avaliar o impacto do PBL no desenvolvimento de competências clínicas e autodirigidas**.
 
-#### **Estrutura da Metodologia PBL Aplicada**
+#### Estrutura da Metodologia PBL Aplicada
 
 A implementação do PBL seguiu um modelo estruturado que envolve cinco etapas principais:
 
-1. **Apresentação do Problema:** Os alunos são apresentados a um caso clínico real ou simulado sem receber previamente o conteúdo teórico necessário para resolvê-lo.  
-2. **Discussão Inicial em Grupo:** Os estudantes trabalham em pequenos grupos para discutir o problema, levantar hipóteses e identificar lacunas em seu conhecimento.  
-3. **Pesquisa Independente:** Cada aluno pesquisa individualmente sobre os conceitos e conteúdos necessários para solucionar o problema apresentado.  
-4. **Discussão e Consolidação do Conhecimento:** O grupo se reúne novamente para compartilhar seus achados, revisar as hipóteses iniciais e chegar a um consenso sobre a solução do problema.  
+1. **Apresentação do Problema:** Os alunos são apresentados a um caso clínico real ou simulado sem receber previamente o conteúdo teórico necessário para resolvê-lo.
+2. **Discussão Inicial em Grupo:** Os estudantes trabalham em pequenos grupos para discutir o problema, levantar hipóteses e identificar lacunas em seu conhecimento.
+3. **Pesquisa Independente:** Cada aluno pesquisa individualmente sobre os conceitos e conteúdos necessários para solucionar o problema apresentado.
+4. **Discussão e Consolidação do Conhecimento:** O grupo se reúne novamente para compartilhar seus achados, revisar as hipóteses iniciais e chegar a um consenso sobre a solução do problema.
 5. **Aplicação e Avaliação:** Os alunos aplicam o conhecimento adquirido em um contexto prático, como um atendimento simulado, e são avaliados quanto ao seu desempenho.
 
-#### **Resultados da Aplicação do PBL**
+#### Resultados da Aplicação do PBL
 
 Os professores e estudantes relataram diversos impactos positivos da implementação do PBL, evidenciando sua eficácia no ensino da medicina.
 
-##### **1\. Desenvolvimento da Autonomia e do Pensamento Crítico**
+##### 1. Desenvolvimento da Autonomia e do Pensamento Crítico
 
-* **85% dos estudantes relataram maior autonomia na busca por conhecimento**;  
-* **78% afirmaram que o PBL incentivou o desenvolvimento do pensamento crítico**, pois precisaram avaliar e interpretar informações antes de chegar a uma conclusão;  
-* **Os professores relataram que os alunos se tornam mais proativos e preparados para a prática médica**, demonstrando habilidades investigativas e analíticas aprimoradas.
+- **85% dos estudantes relataram maior autonomia na busca por conhecimento**;
+- **78% afirmaram que o PBL incentivou o desenvolvimento do pensamento crítico**, pois precisaram avaliar e interpretar informações antes de chegar a uma conclusão;
+- **Os professores relataram que os alunos se tornam mais proativos e preparados para a prática médica**, demonstrando habilidades investigativas e analíticas aprimoradas.
 
-##### **2\. Aumento do Engajamento e Motivação dos Estudantes**
+##### 2. Aumento do Engajamento e Motivação dos Estudantes
 
-* **72% dos alunos indicaram que se sentem mais motivados em comparação às aulas expositivas tradicionais**;  
-* **O aprendizado se tornou mais interativo**, pois os estudantes participam ativamente na resolução dos problemas e se sentem desafiados a encontrar soluções.
+- **72% dos alunos indicaram que se sentem mais motivados em comparação às aulas expositivas tradicionais**;
+- **O aprendizado se tornou mais interativo**, pois os estudantes participam ativamente na resolução dos problemas e se sentem desafiados a encontrar soluções.
 
-##### **3\. Melhoria na Retenção do Conhecimento**
+##### 3. Melhoria na Retenção do Conhecimento
 
-* **Comparado ao ensino tradicional, os alunos demonstraram uma retenção de conhecimento 40% maior** quando avaliados semanas após as atividades de PBL;  
-* **Estudantes relataram que aprendem de maneira mais significativa**, pois aplicam os conceitos teóricos em problemas reais, facilitando a memorização e a compreensão.
+- **Comparado ao ensino tradicional, os alunos demonstraram uma retenção de conhecimento 40% maior** quando avaliados semanas após as atividades de PBL;
+- **Estudantes relataram que aprendem de maneira mais significativa**, pois aplicam os conceitos teóricos em problemas reais, facilitando a memorização e a compreensão.
 
-##### **4\. Desenvolvimento de Habilidades de Comunicação e Trabalho em Equipe**
+##### 4. Desenvolvimento de Habilidades de Comunicação e Trabalho em Equipe
 
-* **80% dos professores relataram melhorias na comunicação dos alunos**, visto que as discussões em grupo exigem que eles argumentem suas ideias de forma clara e fundamentada;  
-* **Os alunos relataram maior habilidade em trabalhar colaborativamente**, pois aprenderam a dividir responsabilidades e a construir conhecimento de forma conjunta.
+- **80% dos professores relataram melhorias na comunicação dos alunos**, visto que as discussões em grupo exigem que eles argumentem suas ideias de forma clara e fundamentada;
+- **Os alunos relataram maior habilidade em trabalhar colaborativamente**, pois aprenderam a dividir responsabilidades e a construir conhecimento de forma conjunta.
 
-#### **Desafios na Implementação do PBL**
+#### Desafios na Implementação do PBL
 
 Apesar dos benefícios evidentes, a implementação do PBL também trouxe desafios significativos, tanto para os professores quanto para os alunos.
 
-##### **1\. Adaptação dos Professores**
+##### 1. Adaptação dos Professores
 
-* **60% dos docentes afirmaram que a transição do ensino tradicional para o PBL foi um desafio**, pois demandou mudanças na forma de estruturar as aulas e avaliar os alunos;  
-* Muitos professores **relataram dificuldades em atuar como facilitadores do aprendizado**, em vez de meros transmissores de conhecimento.
+- **60% dos docentes afirmaram que a transição do ensino tradicional para o PBL foi um desafio**, pois demandou mudanças na forma de estruturar as aulas e avaliar os alunos;
+- Muitos professores **relataram dificuldades em atuar como facilitadores do aprendizado**, em vez de meros transmissores de conhecimento.
 
-##### **2\. Resistência Inicial dos Estudantes**
+##### 2. Resistência Inicial dos Estudantes
 
-* **45% dos estudantes demonstraram resistência inicial ao modelo**, pois estavam acostumados com aulas expositivas e sentiram dificuldades em gerenciar sua própria aprendizagem;  
-* Alguns alunos relataram que a pesquisa independente exigida pelo PBL é **mais demandante e desafiadora**, aumentando sua carga de estudo.
+- **45% dos estudantes demonstraram resistência inicial ao modelo**, pois estavam acostumados com aulas expositivas e sentiram dificuldades em gerenciar sua própria aprendizagem;
+- Alguns alunos relataram que a pesquisa independente exigida pelo PBL é **mais demandante e desafiadora**, aumentando sua carga de estudo.
 
-##### **3\. Necessidade de Infraestrutura e Recursos**
+##### 3. Necessidade de Infraestrutura e Recursos
 
-* **Falta de salas adequadas para discussão em grupo** foi um problema relatado por **40% dos professores**;  
-* **Acesso limitado a materiais de pesquisa e bases de dados científicas** dificultou a realização das atividades de pesquisa independente.
+- **Falta de salas adequadas para discussão em grupo** foi um problema relatado por **40% dos professores**;
+- **Acesso limitado a materiais de pesquisa e bases de dados científicas** dificultou a realização das atividades de pesquisa independente.
 
-#### **Impacto na Formação Profissional**
+#### Impacto na Formação Profissional
 
 O PBL tem se mostrado uma metodologia eficaz na formação médica, promovendo habilidades essenciais para a prática clínica. Os impactos na formação profissional dos alunos incluem:
 
 1. **Melhor Preparo para Situações Clínicas Reais**
 
-   * Os alunos relataram que a experiência adquirida ao resolver problemas clínicos simulados **os preparou melhor para situações reais no atendimento a pacientes**;  
-   * Professores afirmaram que os estudantes que passaram pelo PBL **demonstram maior segurança e raciocínio clínico** ao lidar com diagnósticos e tratamentos.  
+   - Os alunos relataram que a experiência adquirida ao resolver problemas clínicos simulados **os preparou melhor para situações reais no atendimento a pacientes**;
+   - Professores afirmaram que os estudantes que passaram pelo PBL **demonstram maior segurança e raciocínio clínico** ao lidar com diagnósticos e tratamentos.
+
 2. **Maior Integração com Outras Disciplinas da Medicina**
 
-   * O modelo de ensino baseado em problemas permitiu que os alunos **relacionassem conhecimentos de diferentes disciplinas**, promovendo uma aprendizagem interdisciplinar;  
-   * A integração entre teoria e prática fortaleceu a conexão entre **ciências básicas e ciências clínicas**, facilitando a compreensão da fisiopatologia das doenças.  
+   - O modelo de ensino baseado em problemas permitiu que os alunos **relacionassem conhecimentos de diferentes disciplinas**, promovendo uma aprendizagem interdisciplinar;
+   - A integração entre teoria e prática fortaleceu a conexão entre **ciências básicas e ciências clínicas**, facilitando a compreensão da fisiopatologia das doenças.
+
 3. **Desenvolvimento de Habilidades Essenciais para a Prática Médica**
 
-   * **Comunicação com pacientes e equipes multiprofissionais**;  
-   * **Tomada de decisão baseada em evidências científicas**;  
-   * **Capacidade de resolver problemas sob pressão**.
+   - **Comunicação com pacientes e equipes multiprofissionais**;
+   - **Tomada de decisão baseada em evidências científicas**;
+   - **Capacidade de resolver problemas sob pressão**.
 
-### **Conclusão sobre o Estudo de Caso 2**
+### Conclusão sobre o Estudo de Caso 2
 
 O estudo de caso realizado no curso de medicina de uma universidade de Minas Gerais reforça a eficácia da **Aprendizagem Baseada em Problemas (PBL)** na formação médica. Os dados coletados indicam que essa metodologia melhora significativamente **o engajamento, a autonomia e a retenção do conhecimento** dos alunos, preparando-os melhor para desafios clínicos reais.
 
@@ -707,9 +627,9 @@ Entretanto, a transição para o PBL requer **capacitação docente, suporte ins
 
 Este caso demonstra como a **Aprendizagem Baseada em Problemas pode ser um modelo pedagógico poderoso para promover a aprendizagem autodirigida**, fortalecendo o desenvolvimento de competências essenciais para profissionais da área da saúde.
 
-### **Estudo de Caso 3: Aplicação da Aprendizagem Baseada em Projetos (PjBL) na Engenharia**
+### Estudo de Caso 3: Aplicação da Aprendizagem Baseada em Projetos (PjBL) na Engenharia
 
-#### **Contexto da Pesquisa**
+#### Contexto da Pesquisa
 
 A Aprendizagem Baseada em Projetos (Project-Based Learning – PjBL) tem se consolidado como uma estratégia pedagógica eficaz no ensino de engenharia. Essa metodologia permite que os alunos apliquem conhecimentos teóricos em projetos práticos, desenvolvendo habilidades técnicas, colaborativas e de resolução de problemas.
 
@@ -717,96 +637,98 @@ O presente estudo de caso foi conduzido em um curso de Engenharia Civil de uma u
 
 Os objetivos do estudo foram:
 
-* **Avaliar os efeitos do PjBL no aprendizado técnico e prático dos estudantes**;  
-* **Analisar o impacto dessa abordagem no desenvolvimento de habilidades interpessoais e de trabalho em equipe**;  
-* **Investigar as dificuldades e desafios enfrentados por alunos e professores na implementação do método**.
+- **Avaliar os efeitos do PjBL no aprendizado técnico e prático dos estudantes**;
+- **Analisar o impacto dessa abordagem no desenvolvimento de habilidades interpessoais e de trabalho em equipe**;
+- **Investigar as dificuldades e desafios enfrentados por alunos e professores na implementação do método**.
 
-#### **Estrutura da Implementação do PjBL**
+#### Estrutura da Implementação do PjBL
 
 A metodologia foi aplicada em um formato estruturado, dividido em cinco etapas:
 
 1. **Definição do Problema e Formação de Grupos:**  
-    Os alunos foram divididos em grupos e receberam um problema real da área da engenharia, como **o projeto de uma estrutura sustentável para um edifício** ou **o desenvolvimento de um sistema de captação de água pluvial**.
+   Os alunos foram divididos em grupos e receberam um problema real da área da engenharia, como **o projeto de uma estrutura sustentável para um edifício** ou **o desenvolvimento de um sistema de captação de água pluvial**.
 
 2. **Pesquisa e Levantamento de Dados:**  
-    Os grupos realizaram pesquisas sobre normas técnicas, materiais, custos e sustentabilidade, coletando informações relevantes para embasar suas decisões no projeto.
+   Os grupos realizaram pesquisas sobre normas técnicas, materiais, custos e sustentabilidade, coletando informações relevantes para embasar suas decisões no projeto.
 
 3. **Desenvolvimento do Projeto:**  
-    A partir das pesquisas, os alunos projetaram e simularam soluções, utilizando softwares de engenharia como **AutoCAD, Revit e MATLAB**. Durante essa etapa, eram realizados encontros periódicos com os professores para feedback e ajustes.
+   A partir das pesquisas, os alunos projetaram e simularam soluções, utilizando softwares de engenharia como **AutoCAD, Revit e MATLAB**. Durante essa etapa, eram realizados encontros periódicos com os professores para feedback e ajustes.
 
 4. **Apresentação e Defesa do Projeto:**  
-    Cada grupo apresentou suas soluções para uma banca de professores e profissionais da área, que avaliaram os projetos com base em critérios como **viabilidade técnica, inovação e sustentabilidade**.
+   Cada grupo apresentou suas soluções para uma banca de professores e profissionais da área, que avaliaram os projetos com base em critérios como **viabilidade técnica, inovação e sustentabilidade**.
 
 5. **Reflexão e Avaliação:**  
-    Após a apresentação, os alunos refletiram sobre os desafios enfrentados, os conhecimentos adquiridos e as possíveis melhorias para futuras aplicações.
+   Após a apresentação, os alunos refletiram sobre os desafios enfrentados, os conhecimentos adquiridos e as possíveis melhorias para futuras aplicações.
 
-#### **Resultados da Implementação da Aprendizagem Baseada em Projetos**
+#### Resultados da Implementação da Aprendizagem Baseada em Projetos
 
 Os dados coletados com os alunos e professores indicaram benefícios significativos na implementação da PjBL no curso de Engenharia Civil.
 
-##### **1\. Desenvolvimento de Habilidades Técnicas e Aplicação Prática do Conhecimento**
+##### 1. Desenvolvimento de Habilidades Técnicas e Aplicação Prática do Conhecimento
 
-* **83% dos alunos relataram que o PjBL os ajudou a compreender melhor os conceitos técnicos da engenharia**;  
-* **Os professores observaram que os alunos conseguiram transferir conhecimentos teóricos para a prática de forma mais eficaz**, reduzindo a lacuna entre teoria e aplicação;  
-* **Os projetos desenvolvidos foram considerados inovadores e com aplicabilidade real**, demonstrando que os alunos conseguiram integrar múltiplas disciplinas em uma única solução.
+- **83% dos alunos relataram que o PjBL os ajudou a compreender melhor os conceitos técnicos da engenharia**;
+- **Os professores observaram que os alunos conseguiram transferir conhecimentos teóricos para a prática de forma mais eficaz**, reduzindo a lacuna entre teoria e aplicação;
+- **Os projetos desenvolvidos foram considerados inovadores e com aplicabilidade real**, demonstrando que os alunos conseguiram integrar múltiplas disciplinas em uma única solução.
 
-##### **2\. Aumento do Engajamento e Interesse dos Alunos**
+##### 2. Aumento do Engajamento e Interesse dos Alunos
 
-* **78% dos alunos afirmaram que o PjBL tornou o aprendizado mais interessante e dinâmico** em comparação às metodologias tradicionais baseadas apenas em aulas expositivas;  
-* **O envolvimento dos estudantes no projeto gerou maior motivação**, pois sentiram que estavam lidando com desafios reais da profissão.
+- **78% dos alunos afirmaram que o PjBL tornou o aprendizado mais interessante e dinâmico** em comparação às metodologias tradicionais baseadas apenas em aulas expositivas;
+- **O envolvimento dos estudantes no projeto gerou maior motivação**, pois sentiram que estavam lidando com desafios reais da profissão.
 
-##### **3\. Desenvolvimento de Habilidades de Trabalho em Equipe**
+##### 3. Desenvolvimento de Habilidades de Trabalho em Equipe
 
-* **85% dos alunos relataram que aprenderam a trabalhar melhor em equipe**, desenvolvendo habilidades de comunicação e liderança;  
-* **Os professores relataram que a colaboração entre os alunos foi um fator determinante para o sucesso dos projetos**, visto que cada integrante tinha um papel específico dentro do grupo.
+- **85% dos alunos relataram que aprenderam a trabalhar melhor em equipe**, desenvolvendo habilidades de comunicação e liderança;
+- **Os professores relataram que a colaboração entre os alunos foi um fator determinante para o sucesso dos projetos**, visto que cada integrante tinha um papel específico dentro do grupo.
 
-##### **4\. Melhoria na Capacidade de Resolução de Problemas**
+##### 4. Melhoria na Capacidade de Resolução de Problemas
 
-* **Os alunos demonstraram uma abordagem mais estruturada na resolução de problemas técnicos**;  
-* **A autonomia para tomar decisões** aumentou, com os alunos desenvolvendo maior confiança para solucionar desafios de engenharia.
+- **Os alunos demonstraram uma abordagem mais estruturada na resolução de problemas técnicos**;
+- **A autonomia para tomar decisões** aumentou, com os alunos desenvolvendo maior confiança para solucionar desafios de engenharia.
 
-##### **5\. Feedback dos Professores**
+##### 5. Feedback dos Professores
 
-* **Os professores relataram que a avaliação dos projetos proporcionou uma visão mais clara das competências dos alunos**, permitindo um acompanhamento mais personalizado de cada grupo;  
-* **Apesar dos benefícios, alguns docentes apontaram dificuldades na adaptação à metodologia**, especialmente na necessidade de redefinir sua função na sala de aula como facilitadores em vez de meros transmissores de conteúdo.
+- **Os professores relataram que a avaliação dos projetos proporcionou uma visão mais clara das competências dos alunos**, permitindo um acompanhamento mais personalizado de cada grupo;
+- **Apesar dos benefícios, alguns docentes apontaram dificuldades na adaptação à metodologia**, especialmente na necessidade de redefinir sua função na sala de aula como facilitadores em vez de meros transmissores de conteúdo.
 
-#### **Desafios e Limitações da Implementação do PjBL**
+#### Desafios e Limitações da Implementação do PjBL
 
 Apesar dos impactos positivos da metodologia, a pesquisa identificou alguns desafios enfrentados na implementação da Aprendizagem Baseada em Projetos.
 
-##### **1\. Necessidade de Infraestrutura Adequada**
+##### 1. Necessidade de Infraestrutura Adequada
 
-* **Os alunos apontaram dificuldades no acesso a laboratórios e softwares especializados**, o que limitou a execução prática de alguns projetos;  
-* **A falta de materiais para prototipagem** impediu a realização de testes experimentais mais avançados.
+- **Os alunos apontaram dificuldades no acesso a laboratórios e softwares especializados**, o que limitou a execução prática de alguns projetos;
+- **A falta de materiais para prototipagem** impediu a realização de testes experimentais mais avançados.
 
-##### **2\. Carga de Trabalho Elevada**
+##### 2. Carga de Trabalho Elevada
 
-* **Os alunos relataram que o desenvolvimento dos projetos exigiu um tempo de dedicação maior do que o esperado**, tornando-se um desafio equilibrar essa demanda com outras disciplinas do curso;  
-* **Os professores precisaram dedicar mais tempo ao acompanhamento dos projetos**, revisando continuamente o progresso dos alunos e fornecendo feedback detalhado.
+- **Os alunos relataram que o desenvolvimento dos projetos exigiu um tempo de dedicação maior do que o esperado**, tornando-se um desafio equilibrar essa demanda com outras disciplinas do curso;
+- **Os professores precisaram dedicar mais tempo ao acompanhamento dos projetos**, revisando continuamente o progresso dos alunos e fornecendo feedback detalhado.
 
-##### **3\. Resistência à Mudança de Metodologia**
+##### 3. Resistência à Mudança de Metodologia
 
-* **Alguns alunos demonstraram resistência inicial ao método**, pois estavam acostumados com aulas teóricas tradicionais;  
-* **Professores relataram a necessidade de maior capacitação docente para implementar a metodologia de maneira eficaz**.
+- **Alguns alunos demonstraram resistência inicial ao método**, pois estavam acostumados com aulas teóricas tradicionais;
+- **Professores relataram a necessidade de maior capacitação docente para implementar a metodologia de maneira eficaz**.
 
-#### **Impacto na Formação Profissional dos Estudantes**
+#### Impacto na Formação Profissional dos Estudantes
 
 A pesquisa revelou que a adoção da Aprendizagem Baseada em Projetos no ensino de engenharia trouxe benefícios concretos para a formação profissional dos estudantes.
 
 1. **Maior Preparação para o Mercado de Trabalho**
 
-   * Os alunos relataram que a experiência com projetos reais **os deixou mais preparados para os desafios do mercado de engenharia**;  
-   * Empresas parceiras que acompanharam a apresentação dos projetos identificaram estudantes com **forte potencial para estágios e empregos**, devido à experiência adquirida.  
+   - Os alunos relataram que a experiência com projetos reais **os deixou mais preparados para os desafios do mercado de engenharia**;
+   - Empresas parceiras que acompanharam a apresentação dos projetos identificaram estudantes com **forte potencial para estágios e empregos**, devido à experiência adquirida.
+
 2. **Integração de Diferentes Disciplinas**
 
-   * O PjBL permitiu a aplicação prática de conhecimentos adquiridos em múltiplas disciplinas, **promovendo uma visão mais holística da engenharia**;  
-   * **Os alunos aprenderam a conectar conceitos de física, matemática e tecnologia** para resolver problemas complexos.  
+   - O PjBL permitiu a aplicação prática de conhecimentos adquiridos em múltiplas disciplinas, **promovendo uma visão mais holística da engenharia**;
+   - **Os alunos aprenderam a conectar conceitos de física, matemática e tecnologia** para resolver problemas complexos.
+
 3. **Desenvolvimento de Soft Skills Essenciais**
 
-   * Além das habilidades técnicas, os alunos desenvolveram competências como **gestão do tempo, comunicação eficaz e tomada de decisão**, essenciais para o ambiente corporativo;  
-   * A experiência com apresentação dos projetos ajudou a aprimorar suas habilidades de **oratória e argumentação técnica**.
+   - Além das habilidades técnicas, os alunos desenvolveram competências como **gestão do tempo, comunicação eficaz e tomada de decisão**, essenciais para o ambiente corporativo;
+   - A experiência com apresentação dos projetos ajudou a aprimorar suas habilidades de **oratória e argumentação técnica**.
 
-### **Conclusão sobre o Estudo de Caso 3**
+### Conclusão sobre o Estudo de Caso 3
 
 A implementação da **Aprendizagem Baseada em Projetos (PjBL)** no curso de Engenharia Civil da universidade mineira demonstrou ser uma abordagem eficaz para aproximar teoria e prática. Os resultados indicam que essa metodologia proporciona **um aprendizado mais profundo, estimula o engajamento dos estudantes e desenvolve competências técnicas e interpessoais fundamentais para o exercício profissional**.
 
@@ -814,41 +736,41 @@ Contudo, a transição para o PjBL exige um planejamento cuidadoso, considerando
 
 Este estudo de caso reforça o potencial das metodologias ativas para transformar a educação em engenharia, preparando os alunos **não apenas para resolver problemas técnicos, mas também para atuar de forma crítica, inovadora e colaborativa no mercado de trabalho**.
 
-### **Estudo de Caso 4: Percepção de Professores Universitários da Área da Saúde sobre Metodologias Ativas**
+### Estudo de Caso 4: Percepção de Professores Universitários da Área da Saúde sobre Metodologias Ativas
 
-#### **Contexto da Pesquisa**
+#### Contexto da Pesquisa
 
 A pesquisa foi realizada em uma instituição de ensino superior de Minas Gerais, com **25 professores universitários** de cursos da área da saúde. O objetivo principal foi investigar a percepção dos docentes sobre a adoção das metodologias ativas em suas práticas pedagógicas, identificando desafios, benefícios e impactos na aprendizagem dos alunos.
 
 A pesquisa envolveu professores dos seguintes cursos:
 
-* **Biomedicina:** 2 professores (8%)  
-* **Educação Física:** 3 professores (12%)  
-* **Fisioterapia:** 9 professores (36%)  
-* **Psicologia:** 11 professores (44%)
+- **Biomedicina:** 2 professores (8%)
+- **Educação Física:** 3 professores (12%)
+- **Fisioterapia:** 9 professores (36%)
+- **Psicologia:** 11 professores (44%)
 
 A distribuição dos participantes foi projetada para garantir uma representatividade adequada entre diferentes áreas da saúde, possibilitando uma análise comparativa entre as disciplinas.
 
-#### **Utilização das Metodologias Ativas**
+#### Utilização das Metodologias Ativas
 
 Os docentes foram questionados sobre a frequência e o tipo de metodologias ativas que utilizavam em suas aulas. Os resultados demonstram que, embora muitos professores reconheçam a importância dessas abordagens, a adoção varia consideravelmente.
 
-* **48% dos professores utilizam metodologias ativas regularmente**  
-* **32% aplicam metodologias ativas ocasionalmente**  
-* **20% não utilizam metodologias ativas em suas aulas**
+- **48% dos professores utilizam metodologias ativas regularmente**
+- **32% aplicam metodologias ativas ocasionalmente**
+- **20% não utilizam metodologias ativas em suas aulas**
 
 Entre as metodologias mais citadas, destacam-se:
 
-* **Aprendizagem Baseada em Problemas (PBL) – 60%**  
-* **Aprendizagem Baseada em Projetos (PjBL) – 45%**  
-* **Instrução por Pares – 35%**  
-* **Estudos de Caso e Simulações – 25%**
+- **Aprendizagem Baseada em Problemas (PBL) – 60%**
+- **Aprendizagem Baseada em Projetos (PjBL) – 45%**
+- **Instrução por Pares – 35%**
+- **Estudos de Caso e Simulações – 25%**
 
 A predominância da **Aprendizagem Baseada em Problemas (PBL)** pode ser explicada pelo contexto das ciências da saúde, que frequentemente utilizam estudos de caso clínicos como ferramenta de ensino. Professores de Fisioterapia e Psicologia foram os que mais relataram o uso de metodologias ativas, principalmente para desenvolver habilidades práticas e reflexivas nos alunos.
 
 Em contrapartida, os cursos de Biomedicina e Educação Física apresentaram menor adesão às metodologias ativas. Professores desses cursos destacaram que o ensino tradicional ainda é predominante, principalmente por conta da estrutura curricular e da falta de incentivo institucional para a inovação pedagógica.
 
-#### **Desafios Relatados na Implementação**
+#### Desafios Relatados na Implementação
 
 Os professores identificaram diversos obstáculos que dificultam a aplicação das metodologias ativas em suas disciplinas. Os principais desafios relatados incluem:
 
@@ -860,43 +782,46 @@ Os professores identificaram diversos obstáculos que dificultam a aplicação d
 
 4. **Carga Horária e Demandas Administrativas:** 35% dos docentes indicaram que o tempo necessário para planejar e executar atividades baseadas em metodologias ativas é superior ao demandado pelo ensino tradicional. Além disso, relataram que as exigências burocráticas e administrativas limitam o tempo disponível para inovar na didática.
 
-#### **Impactos Percebidos na Aprendizagem**
+#### Impactos Percebidos na Aprendizagem
 
 Apesar dos desafios, os professores que utilizam metodologias ativas relataram diversos benefícios observados em seus alunos. Entre os impactos mais mencionados, destacam-se:
 
-* **Maior Engajamento dos Alunos:** 75% dos professores afirmaram que os alunos demonstram maior interesse e participação ativa nas aulas quando metodologias ativas são aplicadas.  
-* **Desenvolvimento do Pensamento Crítico:** 67% relataram que os alunos desenvolvem habilidades analíticas mais avançadas ao serem expostos a metodologias que exigem investigação e resolução de problemas.  
-* **Maior Retenção de Conhecimento:** 55% dos professores observaram que os alunos retêm mais informações quando participam ativamente do processo de aprendizagem, comparado ao modelo tradicional expositivo.  
-* **Autonomia na Aprendizagem:** 50% dos docentes perceberam que os alunos se tornam mais independentes na busca por conhecimento e no desenvolvimento de competências acadêmicas e profissionais.
+- **Maior Engajamento dos Alunos:** 75% dos professores afirmaram que os alunos demonstram maior interesse e participação ativa nas aulas quando metodologias ativas são aplicadas.
+- **Desenvolvimento do Pensamento Crítico:** 67% relataram que os alunos desenvolvem habilidades analíticas mais avançadas ao serem expostos a metodologias que exigem investigação e resolução de problemas.
+- **Maior Retenção de Conhecimento:** 55% dos professores observaram que os alunos retêm mais informações quando participam ativamente do processo de aprendizagem, comparado ao modelo tradicional expositivo.
+- **Autonomia na Aprendizagem:** 50% dos docentes perceberam que os alunos se tornam mais independentes na busca por conhecimento e no desenvolvimento de competências acadêmicas e profissionais.
 
 Esses resultados confirmam que a implementação das metodologias ativas contribui significativamente para a aprendizagem autodirigida (SDL), permitindo que os alunos assumam um papel mais proativo em sua formação acadêmica e profissional.
 
-#### **Análise por Curso**
+#### Análise por Curso
 
 A seguir, apresentamos um panorama detalhado das percepções por área de ensino:
 
 1. **Psicologia:**
 
-   * **Maior taxa de adoção de metodologias ativas (85%)**  
-   * Uso frequente de **PBL e Estudos de Caso**  
-   * **Impacto positivo na análise crítica e autonomia dos alunos**  
+   - **Maior taxa de adoção de metodologias ativas (85%)**
+   - Uso frequente de **PBL e Estudos de Caso**
+   - **Impacto positivo na análise crítica e autonomia dos alunos**
+
 2. **Fisioterapia:**
 
-   * **Alta adesão às metodologias ativas (78%)**  
-   * Utilização de **simulações e aprendizado baseado em problemas**  
-   * **Foco no desenvolvimento de habilidades práticas**  
+   - **Alta adesão às metodologias ativas (78%)**
+   - Utilização de **simulações e aprendizado baseado em problemas**
+   - **Foco no desenvolvimento de habilidades práticas**
+
 3. **Educação Física:**
 
-   * **Baixa adesão (40%)**  
-   * Principais desafios incluem **falta de formação docente e resistência dos alunos**  
-   * **Maior necessidade de suporte institucional para a implementação**  
+   - **Baixa adesão (40%)**
+   - Principais desafios incluem **falta de formação docente e resistência dos alunos**
+   - **Maior necessidade de suporte institucional para a implementação**
+
 4. **Biomedicina:**
 
-   * **Menor adesão (30%)**  
-   * Predomínio do ensino tradicional expositivo  
-   * Professores relataram **dificuldade em adaptar conteúdos teóricos a abordagens ativas**
+   - **Menor adesão (30%)**
+   - Predomínio do ensino tradicional expositivo
+   - Professores relataram **dificuldade em adaptar conteúdos teóricos a abordagens ativas**
 
-### **Conclusão sobre os Dados do Estudo de Caso 4**
+### Conclusão sobre os Dados do Estudo de Caso 4
 
 Os dados coletados revelam um cenário de **crescente aceitação, mas também desafios estruturais e institucionais na implementação de metodologias ativas** no ensino superior da área da saúde.
 
@@ -906,7 +831,7 @@ Os achados reforçam a importância de investimentos em **políticas educacionai
 
 Esses dados serão posteriormente analisados em conjunto com os demais estudos de caso apresentados, permitindo uma comparação entre diferentes áreas e metodologias, bem como uma reflexão mais profunda sobre os impactos da aprendizagem autodirigida no ensino superior.
 
-### **4.2 Interpretação e Discussão dos Resultados com Base na Teoria**
+## 4.2 Interpretação e Discussão dos Resultados com Base na Teoria
 
 A análise dos resultados obtidos nos quatro estudos de caso evidencia um **cenário de transição no ensino superior**, no qual as metodologias ativas vêm sendo incorporadas gradualmente, com impactos positivos na aprendizagem dos alunos. No entanto, desafios estruturais e culturais ainda limitam sua adoção em larga escala.
 
@@ -918,8 +843,8 @@ Os resultados dos estudos de caso confirmam que as metodologias ativas **estimul
 
 Os quatro estudos de caso indicam que metodologias como **Instrução por Pares (Peer Instruction), Aprendizagem Baseada em Problemas (PBL) e Aprendizagem Baseada em Projetos (PjBL)** incentivam os alunos a:
 
-1. **Buscar ativamente informações** e não depender exclusivamente da exposição do professor.  
-2. **Desenvolver habilidades de pensamento crítico** ao avaliar, discutir e solucionar problemas reais.  
+1. **Buscar ativamente informações** e não depender exclusivamente da exposição do professor.
+2. **Desenvolver habilidades de pensamento crítico** ao avaliar, discutir e solucionar problemas reais.
 3. **Colaborar com colegas e aprender por meio da troca de conhecimento**, fortalecendo a construção coletiva do saber.
 
 Essas características se alinham com os princípios da **aprendizagem autodirigida**, conforme definidos por **Candy (1991)**, que argumenta que a autonomia do aluno **não surge espontaneamente, mas deve ser estimulada por estratégias pedagógicas** que promovam a reflexão e a participação ativa.
@@ -934,9 +859,9 @@ Esses achados estão alinhados com as observações de **Mazur (2015)**, que arg
 
 Outro indicador relevante foi a **melhoria no desempenho acadêmico**. Os estudantes que participaram de metodologias ativas apresentaram:
 
-* **Melhoria de 28% nas notas em Física** após a implementação da Instrução por Pares.  
-* **Retenção de conhecimento 40% superior no PBL de Medicina**, indicando que a abordagem favorece o aprendizado de longo prazo.  
-* **Aumento da capacidade de aplicação prática de conceitos na Engenharia**, com **83% dos alunos relatando maior compreensão técnica**.
+- **Melhoria de 28% nas notas em Física** após a implementação da Instrução por Pares.
+- **Retenção de conhecimento 40% superior no PBL de Medicina**, indicando que a abordagem favorece o aprendizado de longo prazo.
+- **Aumento da capacidade de aplicação prática de conceitos na Engenharia**, com **83% dos alunos relatando maior compreensão técnica**.
 
 Esses resultados reforçam a ideia de que **a aprendizagem ativa é mais eficaz do que a aprendizagem passiva**, pois permite que os alunos **se apropriem do conhecimento e o utilizem de maneira aplicada**, conforme defendido por **Freire (2013)** em sua concepção de **educação dialógica**.
 
@@ -976,9 +901,9 @@ No ensino de Física, a Instrução por Pares demonstrou ser um método eficaz p
 
 A interpretação dos resultados indica que as metodologias ativas são altamente eficazes para:
 
-1. **Promover maior engajamento e participação dos alunos**;  
-2. **Melhorar o desempenho acadêmico e a retenção do conhecimento**;  
-3. **Desenvolver habilidades profissionais essenciais**;  
+1. **Promover maior engajamento e participação dos alunos**;
+2. **Melhorar o desempenho acadêmico e a retenção do conhecimento**;
+3. **Desenvolver habilidades profissionais essenciais**;
 4. **Estimular a autonomia e a aprendizagem autodirigida**.
 
 No entanto, para que essas metodologias sejam amplamente adotadas, é necessário superar desafios como **a falta de formação pedagógica dos professores, resistência inicial dos alunos e limitações de infraestrutura**.
@@ -1015,7 +940,7 @@ A falta de infraestrutura e de suporte institucional foi um dos principais desaf
 
 A comparação com outros estudos demonstra **fortes convergências entre os achados desta pesquisa e a literatura existente sobre metodologias ativas e aprendizagem autodirigida**. Os resultados obtidos nesta investigação reforçam a **validade e aplicabilidade das metodologias ativas no ensino superior**, ao mesmo tempo em que evidenciam desafios estruturais que precisam ser superados para que essas abordagens possam ser implementadas de maneira ampla e eficaz.
 
-### **5\. CONCLUSÃO**
+# **5\. CONCLUSÃO**
 
 Nesta seção, apresentamos um resumo das principais descobertas desta pesquisa, analisamos as respostas ao problema de pesquisa e discutimos as limitações do estudo, além de sugerir caminhos para pesquisas futuras. O objetivo é consolidar os achados e propor reflexões sobre a aplicação das metodologias ativas e da aprendizagem autodirigida no ensino superior.
 
@@ -1027,31 +952,31 @@ Esta pesquisa investigou a aplicação das **metodologias ativas e da aprendizag
 
 Os quatro estudos de caso demonstraram que **as metodologias ativas são eficazes para tornar o aprendizado mais dinâmico e participativo**, aumentando o **nível de compreensão dos alunos**. Os principais achados incluem:
 
-* **Maior engajamento dos alunos**: Na Instrução por Pares aplicada à Física, a participação dos estudantes aumentou em **35%**, e a presença nas aulas subiu **22%**.  
-* **Melhoria no desempenho acadêmico**: Os alunos expostos ao ensino ativo apresentaram um **crescimento médio de 28% nas avaliações** em comparação com aqueles submetidos ao ensino tradicional.  
-* **Retenção do conhecimento**: No caso do PBL na Medicina, os alunos demonstraram uma retenção **40% superior** em relação a métodos convencionais.
+- **Maior engajamento dos alunos**: Na Instrução por Pares aplicada à Física, a participação dos estudantes aumentou em **35%**, e a presença nas aulas subiu **22%**.
+- **Melhoria no desempenho acadêmico**: Os alunos expostos ao ensino ativo apresentaram um **crescimento médio de 28% nas avaliações** em comparação com aqueles submetidos ao ensino tradicional.
+- **Retenção do conhecimento**: No caso do PBL na Medicina, os alunos demonstraram uma retenção **40% superior** em relação a métodos convencionais.
 
 #### **2\. Desenvolvimento de Competências Essenciais**
 
 Além dos ganhos acadêmicos, a pesquisa mostrou que as metodologias ativas promovem o desenvolvimento de **habilidades fundamentais para o mercado de trabalho**:
 
-* **Autonomia no aprendizado**: Alunos de Medicina que participaram do PBL relataram maior capacidade de **buscar informações e tomar decisões de forma independente**.  
-* **Habilidades de comunicação e trabalho em equipe**: O PjBL na Engenharia resultou em **85% dos alunos relatando melhoria na colaboração entre pares**, além de maior capacidade de argumentação técnica.  
-* **Pensamento crítico e resolução de problemas**: Professores observaram que os alunos passaram a estruturar melhor seus argumentos, demonstrando maior clareza na explicação dos conceitos.
+- **Autonomia no aprendizado**: Alunos de Medicina que participaram do PBL relataram maior capacidade de **buscar informações e tomar decisões de forma independente**.
+- **Habilidades de comunicação e trabalho em equipe**: O PjBL na Engenharia resultou em **85% dos alunos relatando melhoria na colaboração entre pares**, além de maior capacidade de argumentação técnica.
+- **Pensamento crítico e resolução de problemas**: Professores observaram que os alunos passaram a estruturar melhor seus argumentos, demonstrando maior clareza na explicação dos conceitos.
 
 #### **3\. Desafios na Implementação**
 
 Apesar dos benefícios, os estudos de caso também revelaram **desafios na adoção das metodologias ativas**, sendo os principais:
 
-* **Falta de formação pedagógica**: **65% dos professores relataram não possuir capacitação específica para o uso de metodologias ativas**, o que dificulta sua implementação.  
-* **Resistência dos alunos**: Alguns estudantes, especialmente na transição para modelos mais participativos, demonstraram dificuldades em se adaptar ao aprendizado autodirigido.  
-* **Infraestrutura e suporte institucional**: No PjBL na Engenharia, professores e alunos relataram a necessidade de **melhorias em laboratórios e acesso a tecnologias**, o que impacta a eficácia da abordagem.
+- **Falta de formação pedagógica**: **65% dos professores relataram não possuir capacitação específica para o uso de metodologias ativas**, o que dificulta sua implementação.
+- **Resistência dos alunos**: Alguns estudantes, especialmente na transição para modelos mais participativos, demonstraram dificuldades em se adaptar ao aprendizado autodirigido.
+- **Infraestrutura e suporte institucional**: No PjBL na Engenharia, professores e alunos relataram a necessidade de **melhorias em laboratórios e acesso a tecnologias**, o que impacta a eficácia da abordagem.
 
 #### **Conclusão Geral das Descobertas**
 
 Os achados desta pesquisa reforçam que **a aprendizagem autodirigida e as metodologias ativas são fundamentais para a modernização do ensino superior**, promovendo um aprendizado mais eficaz e relevante para a formação acadêmica e profissional. Entretanto, para que essas abordagens sejam amplamente adotadas, é necessário **investir na capacitação docente, aprimorar a infraestrutura das instituições e criar políticas institucionais que incentivem práticas inovadoras**.
 
-### **5.2 Respostas ao Problema de Pesquisa**
+## **5.2 Respostas ao Problema de Pesquisa**
 
 O problema de pesquisa desta investigação buscou responder à seguinte questão:
 
@@ -1065,8 +990,8 @@ A aprendizagem autodirigida se mostra essencial para a formação dos licenciand
 
 #### **1.1 Promoção da Autonomia no Processo de Aprendizado**
 
-* No estudo da **Instrução por Pares na Física**, os alunos demonstraram **maior independência na resolução de problemas**, desenvolvendo habilidades que permitem **questionar conceitos e buscar ativamente novos conhecimentos**.  
-* No PBL aplicado à Medicina, **85% dos alunos relataram que a metodologia os incentivou a pesquisar e aprender por conta própria**, preparando-os para desafios futuros.
+- No estudo da **Instrução por Pares na Física**, os alunos demonstraram **maior independência na resolução de problemas**, desenvolvendo habilidades que permitem **questionar conceitos e buscar ativamente novos conhecimentos**.
+- No PBL aplicado à Medicina, **85% dos alunos relataram que a metodologia os incentivou a pesquisar e aprender por conta própria**, preparando-os para desafios futuros.
 
 No contexto da **Licenciatura em Computação**, isso sugere que metodologias autodirigidas podem **capacitar futuros docentes a buscarem soluções para desafios educacionais, adaptarem suas práticas pedagógicas e promoverem um ensino inovador**.
 
@@ -1074,8 +999,8 @@ No contexto da **Licenciatura em Computação**, isso sugere que metodologias au
 
 A formação de professores exige **habilidades que vão além do conhecimento técnico**, como **planejamento didático, gestão do ensino e adaptação a diferentes perfis de alunos**.
 
-* No estudo de caso sobre professores da área da Saúde, **67% dos docentes reconheceram que a SDL melhora o pensamento crítico dos alunos**, permitindo que desenvolvam **competências analíticas e reflexivas essenciais para a docência**.  
-* No PjBL na Engenharia, os alunos relataram que a experiência com projetos os ajudou a **integrar diferentes áreas do conhecimento e estruturar melhor suas abordagens de ensino**.
+- No estudo de caso sobre professores da área da Saúde, **67% dos docentes reconheceram que a SDL melhora o pensamento crítico dos alunos**, permitindo que desenvolvam **competências analíticas e reflexivas essenciais para a docência**.
+- No PjBL na Engenharia, os alunos relataram que a experiência com projetos os ajudou a **integrar diferentes áreas do conhecimento e estruturar melhor suas abordagens de ensino**.
 
 Isso indica que, para licenciandos em Computação, a aprendizagem autodirigida pode **favorecer o desenvolvimento de abordagens pedagógicas inovadoras, alinhadas às necessidades de um ensino dinâmico e interdisciplinar**.
 
@@ -1083,8 +1008,8 @@ Isso indica que, para licenciandos em Computação, a aprendizagem autodirigida 
 
 Os estudos analisados demonstraram que a SDL **não apenas melhora o desempenho acadêmico, mas também prepara os alunos para desafios profissionais reais**.
 
-* No PBL na Medicina, os alunos se tornaram mais preparados para atuar em contextos clínicos reais. Esse achado pode ser comparado ao ensino de Computação, onde licenciandos podem **usar metodologias ativas para aprimorar suas habilidades de ensino e gestão da sala de aula**.  
-* No PjBL na Engenharia, **78% dos alunos relataram que o aprendizado foi mais significativo e prático**, demonstrando que metodologias autodirigidas favorecem **a aplicabilidade do conhecimento e a resolução de problemas reais**.
+- No PBL na Medicina, os alunos se tornaram mais preparados para atuar em contextos clínicos reais. Esse achado pode ser comparado ao ensino de Computação, onde licenciandos podem **usar metodologias ativas para aprimorar suas habilidades de ensino e gestão da sala de aula**.
+- No PjBL na Engenharia, **78% dos alunos relataram que o aprendizado foi mais significativo e prático**, demonstrando que metodologias autodirigidas favorecem **a aplicabilidade do conhecimento e a resolução de problemas reais**.
 
 Dessa forma, a integração da SDL na formação de licenciandos em Computação pode **prepará-los para a realidade do ensino, desenvolvendo flexibilidade pedagógica e inovação nas práticas docentes**.
 
@@ -1094,20 +1019,20 @@ Apesar dos benefícios identificados, a adoção da SDL no ensino superior ainda
 
 #### **2.1 Falta de Formação Pedagógica para Professores e Licenciandos**
 
-* **65% dos professores entrevistados afirmaram não possuir formação específica em metodologias ativas**, o que dificulta sua implementação. Esse problema também pode se refletir na Licenciatura em Computação, onde **futuros docentes podem não estar sendo capacitados adequadamente para utilizar abordagens autodirigidas no ensino**.  
-* Estudos como os de **Malusá (2003)** indicam que **a formação docente contínua é essencial para a adoção de metodologias inovadoras**, evidenciando a necessidade de incluir a SDL no currículo dos cursos de Licenciatura.
+- **65% dos professores entrevistados afirmaram não possuir formação específica em metodologias ativas**, o que dificulta sua implementação. Esse problema também pode se refletir na Licenciatura em Computação, onde **futuros docentes podem não estar sendo capacitados adequadamente para utilizar abordagens autodirigidas no ensino**.
+- Estudos como os de **Malusá (2003)** indicam que **a formação docente contínua é essencial para a adoção de metodologias inovadoras**, evidenciando a necessidade de incluir a SDL no currículo dos cursos de Licenciatura.
 
 #### **2.2 Resistência dos Estudantes**
 
-* No estudo de caso da **Instrução por Pares na Física**, **45% dos alunos apresentaram dificuldades para se adaptar ao novo método**, pois estavam habituados a um ensino mais tradicional.  
-* No PBL, **40% dos estudantes relataram desafios em gerenciar sua própria aprendizagem**, indicando que a SDL exige **mudanças na cultura de ensino**.
+- No estudo de caso da **Instrução por Pares na Física**, **45% dos alunos apresentaram dificuldades para se adaptar ao novo método**, pois estavam habituados a um ensino mais tradicional.
+- No PBL, **40% dos estudantes relataram desafios em gerenciar sua própria aprendizagem**, indicando que a SDL exige **mudanças na cultura de ensino**.
 
 Isso sugere que a implementação da SDL na Licenciatura em Computação **precisa ser acompanhada de estratégias para desenvolver gradualmente a autonomia dos estudantes**, ajudando-os a se adaptar a esse novo modelo de aprendizado.
 
 #### **2.3 Infraestrutura e Suporte Institucional**
 
-* No PjBL na Engenharia, **alunos e professores relataram dificuldades no acesso a laboratórios e softwares especializados**, o que limitou a realização de atividades práticas.  
-* Na área da Saúde, **a falta de espaços adequados para atividades colaborativas foi um desafio**, demonstrando que metodologias autodirigidas exigem **um ambiente adequado para facilitar a interação e o aprendizado prático**.
+- No PjBL na Engenharia, **alunos e professores relataram dificuldades no acesso a laboratórios e softwares especializados**, o que limitou a realização de atividades práticas.
+- Na área da Saúde, **a falta de espaços adequados para atividades colaborativas foi um desafio**, demonstrando que metodologias autodirigidas exigem **um ambiente adequado para facilitar a interação e o aprendizado prático**.
 
 Esse desafio pode impactar a formação de licenciandos em Computação, uma vez que **a aplicação de metodologias ativas no ensino de tecnologia pode demandar infraestrutura específica, como salas equipadas, acesso a plataformas digitais e suporte técnico**.
 
@@ -1117,13 +1042,13 @@ Os achados desta pesquisa demonstram que **a aprendizagem autodirigida desempenh
 
 Os principais pontos identificados foram:
 
-1. **A SDL capacita os licenciandos a assumirem um papel ativo no aprendizado, preparando-os para ensinar de forma dinâmica e inovadora**.  
-2. **O desenvolvimento de competências pedagógicas pode ser aprimorado com metodologias autodirigidas**, auxiliando os licenciandos a compreender melhor os processos de ensino e aprendizagem.  
+1. **A SDL capacita os licenciandos a assumirem um papel ativo no aprendizado, preparando-os para ensinar de forma dinâmica e inovadora**.
+2. **O desenvolvimento de competências pedagógicas pode ser aprimorado com metodologias autodirigidas**, auxiliando os licenciandos a compreender melhor os processos de ensino e aprendizagem.
 3. **A adaptação à SDL requer suporte institucional e formação docente contínua**, pois desafios como falta de capacitação e infraestrutura podem dificultar sua implementação.
 
 Assim, **para que a aprendizagem autodirigida seja amplamente adotada na formação de futuros professores de Computação, é necessário um esforço institucional para capacitar docentes, fornecer recursos adequados e promover uma mudança cultural no ensino superior**.
 
-### **5.3 Limitações do Estudo e Sugestões Futuras**
+## **5.3 Limitações do Estudo e Sugestões Futuras**
 
 Esta pesquisa trouxe contribuições significativas para o entendimento do papel da **aprendizagem autodirigida (SDL) e das metodologias ativas na formação de licenciandos em Computação**, mas também apresentou algumas **limitações** que devem ser consideradas para estudos futuros. Nesta seção, discutimos os principais desafios metodológicos e estruturais encontrados e propomos recomendações para aprofundamento da pesquisa.
 
@@ -1175,7 +1100,7 @@ Os desafios enfrentados para a implementação da aprendizagem autodirigida pode
 
 🔹 **Sugestão**: Comparar **diferentes universidades** para entender **como fatores institucionais influenciam a adoção da SDL e quais estratégias podem ser implementadas para superar barreiras comuns**.
 
-### **Conclusão Final**
+## **Conclusão Final**
 
 A pesquisa demonstrou que a **aprendizagem autodirigida é uma ferramenta essencial para a formação de licenciandos em Computação**, promovendo maior autonomia, engajamento e preparação para a prática docente. No entanto, sua implementação ainda enfrenta desafios, principalmente relacionados à **falta de formação pedagógica dos professores e à necessidade de suporte institucional**.
 
@@ -1185,3 +1110,54 @@ Estudos futuros podem **aprofundar a análise da SDL especificamente na formaç�
 
 **REFERÊNCIAS**
 
+# **1.3 METODOLOGIA**
+
+Este capítulo descreve os procedimentos metodológicos adotados para a realização desta pesquisa, incluindo a abordagem, os métodos de coleta e análise de dados e a justificativa para a escolha dessas estratégias. O estudo busca compreender como a aprendizagem autodirigida pode auxiliar na formação dos alunos da Licenciatura em Computação, identificando metodologias eficazes e os impactos dessa abordagem no ensino superior.
+
+## 3.1 Tipo de Pesquisa e Justificativa
+
+Este estudo adota uma abordagem **qualitativa** e **exploratória**, uma vez que busca compreender de maneira aprofundada o fenômeno da aprendizagem autodirigida no ensino superior, especificamente no contexto da Licenciatura em Computação.
+
+A pesquisa **qualitativa** é apropriada porque permite a análise detalhada de conceitos, percepções e práticas relacionadas à autodireção no aprendizado. Em vez de medir dados numéricos, o foco está na compreensão dos significados, estratégias e desafios envolvidos no desenvolvimento da autonomia dos estudantes. Segundo **Creswell (2014)**, estudos qualitativos são essenciais para investigar fenômenos complexos, proporcionando uma visão mais rica e interpretativa da realidade analisada.
+
+Além disso, a pesquisa tem um caráter **exploratório**, pois busca aprofundar o conhecimento sobre metodologias de aprendizagem autodirigida e suas aplicações na formação de licenciandos. Como a SDL é uma abordagem que pode ser aplicada de diferentes formas, este estudo pretende mapear as estratégias mais eficazes e compreender seus impactos no desempenho acadêmico e na preparação profissional dos estudantes.
+
+A escolha desse tipo de pesquisa se justifica pela necessidade de investigar um fenômeno educacional que ainda carece de estudos aplicados especificamente à formação de professores de Computação. O ensino de computação na Educação Básica e Profissional está em constante transformação devido ao avanço das tecnologias e das metodologias ativas de ensino. Dessa forma, compreender como a aprendizagem autodirigida pode ser incorporada à formação desses licenciandos é fundamental para melhorar a qualidade do ensino e preparar professores mais adaptáveis às mudanças educacionais e tecnológicas.
+
+Além disso, considerando que a pesquisa envolve a análise de conteúdos acadêmicos e metodologias aplicadas na educação, a escolha da abordagem qualitativa permite uma maior profundidade na interpretação dos dados coletados. O uso de **ferramentas tecnológicas** para auxiliar a revisão de literatura e a síntese de artigos acadêmicos também contribui para que a pesquisa seja conduzida de forma mais eficiente e abrangente.
+
+Assim, ao adotar uma abordagem qualitativa e exploratória, este estudo pretende oferecer uma contribuição relevante para a área de ensino de Computação, fornecendo subsídios teóricos e metodológicos para que docentes e instituições possam implementar estratégias de aprendizagem autodirigida na formação de futuros professores.
+
+## 3.2 Instrumentos de Coleta de Dados
+
+Para garantir um embasamento teórico e metodológico sólido, a coleta de dados desta pesquisa será realizada por meio de **análise documental e revisão sistemática da literatura**. O objetivo é identificar, organizar e analisar os principais estudos sobre aprendizagem autodirigida (_Self-Directed Learning_ – SDL) e sua aplicabilidade na formação de licenciandos em Computação.
+
+A **análise documental** será baseada na revisão de artigos científicos, livros acadêmicos, dissertações e teses que abordam metodologias autodirigidas no ensino superior, com foco na área da Computação. Os documentos serão selecionados a partir de bases de dados acadêmicas reconhecidas, tais como:
+
+- **Google Scholar** (Scholar.google.com)
+- **SciELO** (Scientific Electronic Library Online)
+- **Scopus**
+- **IEEE Xplore**
+- **SpringerLink**
+- **ACM Digital Library**
+
+Para tornar o processo mais eficiente, será utilizado um **software automatizado** para realizar a busca e listagem dos artigos encontrados no **Google Scholar**. Esse software extrairá informações essenciais, como título, autor, ano de publicação, resumo e link para o documento, organizando os resultados em uma tabela para facilitar a seleção dos estudos mais relevantes. Além disso, a ferramenta permitirá o **download automatizado dos PDFs**, otimizando a coleta e organização dos materiais de pesquisa.
+
+Após a obtenção dos documentos, será empregado um **software baseado em inteligência artificial (IA)** para **gerar resumos automáticos dos artigos baixados**. Essa tecnologia auxiliará na triagem dos textos, destacando as principais informações de cada estudo, reduzindo o tempo necessário para a leitura e facilitando a análise dos dados. A IA ajudará a identificar padrões, tendências e abordagens metodológicas mais recorrentes na literatura sobre SDL, contribuindo para um processo de síntese mais eficiente.
+
+A seleção dos artigos seguirá critérios de inclusão e exclusão rigorosos para garantir a relevância e qualidade das fontes analisadas. Os critérios adotados são:
+
+**Critérios de Inclusão:**
+
+- Estudos publicados nos últimos cinco anos (para garantir atualidade);
+- Pesquisas que abordem **aprendizagem autodirigida no ensino superior**;
+- Trabalhos relacionados à formação de professores de Computação;
+- Estudos que apresentem metodologias ou modelos aplicáveis ao ensino de computação e tecnologia.
+
+**Critérios de Exclusão:**
+
+- Trabalhos não revisados por pares (_preprints_ e artigos sem validação científica);
+- Estudos que tratam de autodidatismo sem vínculo com práticas educacionais formais;
+- Artigos que não tenham acesso ao texto completo.
+
+A utilização desses instrumentos de coleta de dados visa garantir uma revisão de literatura **abrangente, estruturada e metodologicamente rigorosa**, facilitando a identificação das melhores práticas e metodologias de SDL aplicáveis ao ensino da Computação. Além disso, o uso de ferramentas tecnológicas na pesquisa reflete a própria proposta do estudo, demonstrando como a automação e a inteligência artificial podem otimizar processos acadêmicos e contribuir para a aprendizagem autodirigida.
