@@ -443,6 +443,102 @@ A utilização desses instrumentos de coleta de dados visa garantir uma revisão
 
 # **4. PERFIL DO LICENCIADO EM CIÊNCIA DA COMPUTAÇÃO**
 
+O Licenciado em Computação é um profissional que atua na intersecção entre a educação e a tecnologia, possuindo uma formação que integra conhecimentos sólidos em Ciência da Computação com competências pedagógicas. A análise dos Projetos Pedagógicos de Curso (PPCs) de diferentes instituições brasileiras, juntamente com as Diretrizes Curriculares Nacionais e a Política Nacional de Educação Digital, permite traçar um perfil abrangente desse profissional.
+
+## 4.1 Formação Acadêmica e Competências Esperadas
+
+De acordo com as Diretrizes Curriculares Nacionais para os cursos de graduação na área da Computação (Resolução nº 5, de 16 de novembro de 2016), espera-se que os egressos dos cursos de licenciatura em Computação possuam:
+
+- **Sólida formação em Ciência da Computação, Matemática e Educação** voltada para o ensino da Computação nos diferentes níveis educacionais
+- **Capacidade de aplicar a interdisciplinaridade** no desenvolvimento de Tecnologias Educacionais
+- **Visão crítica e reflexiva** para atuar como docentes
+- **Competência para selecionar plataformas computacionais** adequadas às necessidades das organizações
+
+A análise dos PPCs revela que as instituições buscam formar profissionais capazes de:
+
+- Identificar problemas com solução algorítmica
+- Conhecer os limites da computação
+- Resolver problemas usando ambientes de programação
+- Tomar decisões baseadas em conhecimentos técnicos
+- Gerir a própria aprendizagem e desenvolvimento
+- Comunicar-se efetivamente em diversos formatos
+- Adaptar-se às mudanças tecnológicas
+- Exercer liderança em sua área de atuação
+
+## 4.2 Áreas de Atuação Profissional
+
+O licenciado em Computação possui um campo de atuação diversificado, como evidenciado nos diferentes PPCs analisados. Segundo o PPC da Universidade Estácio de Sá, estes profissionais podem atuar como:
+
+- Docentes de Computação no Ensino Fundamental e Médio
+- Professores em ensino corporativo para treinamento e qualificação
+- Educadores em escolas técnicas da área de Computação
+- Consultores em secretarias de educação e instituições de ensino
+- Consultores técnicos para construção de ambientes de aprendizagem informatizados
+- Desenvolvedores de software educacional
+- Gerentes de integração de equipes de desenvolvimento de softwares educacionais
+
+Além disso, o perfil descrito no PPC da UEPG (Universidade Estadual de Ponta Grossa) acrescenta que os licenciados podem atuar:
+
+- No processo ensino-aprendizagem no Ensino Fundamental, Médio e Profissional
+- No apoio às atividades de laboratório nas escolas
+- Como analistas consultores no contexto educacional
+- Na identificação, proposta e desenvolvimento de softwares educacionais
+- Como tutores em Núcleos de Tecnologia Educacional e Salas de Tecnologia Educacional
+
+## 4.3 Necessidades de Aprendizagem Específicas
+
+A análise dos documentos revela necessidades de aprendizagem específicas para este perfil profissional:
+
+### 4.3.1 Necessidades Técnico-Computacionais
+
+- **Atualização tecnológica constante**: O profissional precisa continuamente atualizar-se sobre novas tecnologias e ferramentas
+- **Domínio de diferentes linguagens de programação**: Necessidade de aprender várias linguagens e paradigmas para aplicação em contextos educacionais
+- **Conhecimento em desenvolvimento de software educacional**: Competência específica para criar ferramentas pedagógicas
+- **Habilidades em integração de tecnologias**: Capacidade de incorporar diferentes tecnologias em contextos educacionais
+- **Compreensão de infraestrutura tecnológica**: Conhecimentos sobre redes, sistemas operacionais e hardware para gestão de laboratórios
+
+### 4.3.2 Necessidades Pedagógicas
+
+- **Práticas pedagógicas inovadoras**: Desenvolvimento de metodologias que integrem tecnologia ao ensino-aprendizagem
+- **Avaliação da aprendizagem mediada por tecnologia**: Competências para avaliar processos de aprendizagem em ambientes digitais
+- **Gestão de ambientes educacionais tecnológicos**: Habilidades para coordenar espaços de aprendizagem tecnológica
+- **Inclusão digital**: Capacidade de promover acesso democrático às tecnologias
+- **Desenvolvimento do pensamento computacional**: Habilidade para ensinar lógica, algoritmos e programação de forma significativa
+
+### 4.3.3 Necessidades Socioemocionais
+
+- **Adaptabilidade**: Capacidade de lidar com mudanças constantes no campo tecnológico
+- **Criatividade e inovação**: Habilidade para propor soluções originais para problemas educacionais
+- **Comunicação interpessoal**: Competência para dialogar com diferentes públicos (alunos, professores, gestores)
+- **Trabalho em equipe**: Capacidade de colaborar em projetos interdisciplinares
+- **Empatia digital**: Sensibilidade para compreender diferentes níveis de letramento digital
+
+## 4.4 Contexto Atual e Desafios
+
+A Política Nacional de Educação Digital (PNED), instituída pela Lei nº 14.533/2023, estabelece novos desafios e oportunidades para os licenciados em Computação. Entre eles:
+
+- Implementação da educação digital como componente curricular obrigatório no ensino fundamental e médio
+- Formação de professores com competências digitais para todos os níveis de ensino
+- Desenvolvimento de tecnologias educacionais acessíveis e inclusivas
+- Promoção do letramento digital, midiático e informacional
+- Implementação de infraestrutura de conectividade nas escolas
+
+Estes elementos da PNED criam uma demanda crescente por profissionais licenciados em Computação capacitados para atuar na implementação dessas políticas públicas, reforçando a relevância deste perfil profissional no cenário educacional contemporâneo.
+
+## 4.5 Considerações sobre o Perfil dos Estudantes de Licenciatura em Computação
+
+A análise dos PPCs também revela características comuns entre os estudantes que buscam essa formação:
+
+- Interesse pela integração entre tecnologia e educação
+- Curiosidade e gosto por desafios
+- Disposição para aprendizagem autônoma
+- Perfil analítico e sistemático
+- Preocupação com a inclusão digital e democratização do conhecimento
+
+Estas características indicam que os estudantes de Licenciatura em Computação já possuem predisposição para a aprendizagem autodirigida, o que pode ser potencializado por meio de metodologias e ferramentas adequadas durante sua formação.
+
+Em síntese, o perfil do licenciado em Computação caracteriza-se pela dupla competência em educação e tecnologia, com capacidade para promover a inovação pedagógica por meio das tecnologias digitais. Suas necessidades de aprendizagem específicas estão diretamente relacionadas à constante atualização tecnológica, desenvolvimento de competências pedagógicas inovadoras e habilidades socioemocionais para lidar com os desafios de um campo em permanente transformação.
+
 # **5. DESENVOLVIMENTO / ANÁLISE E DISCUSSÃO**
 
 Este capítulo apresenta a análise dos dados coletados em quatro diferentes estudos de caso, nos quais foram aplicadas metodologias ativas para promover a aprendizagem autodirigida (Self-Directed Learning \- SDL). A seguir, são apresentados os resultados obtidos em cada contexto investigado.
