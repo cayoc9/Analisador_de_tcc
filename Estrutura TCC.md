@@ -389,9 +389,61 @@ Além disso, os Trabalhos de Conclusão de Curso (TCC) desenvolvidos pelos aluno
 - Desenvolvimento de **plataformas digitais** para o ensino de programação e pensamento computacional;
 - Análise do impacto das **tecnologias digitais** na aprendizagem e na formação de professores.
 
-# **3. PERFIL DO LICENCIADO EM CIÊNCIA DA COMPUTAÇÃO**
+# **3 METODOLOGIA**
 
-# **4. DESENVOLVIMENTO / ANÁLISE E DISCUSSÃO**
+Este capítulo descreve os procedimentos metodológicos adotados para a realização desta pesquisa, incluindo a abordagem, os métodos de coleta e análise de dados e a justificativa para a escolha dessas estratégias. O estudo busca compreender como a aprendizagem autodirigida pode auxiliar na formação dos alunos da Licenciatura em Computação, identificando metodologias eficazes e os impactos dessa abordagem no ensino superior.
+
+## 3.1 Tipo de Pesquisa e Justificativa
+
+Este estudo adota uma abordagem **qualitativa** e **exploratória**, uma vez que busca compreender de maneira aprofundada o fenômeno da aprendizagem autodirigida no ensino superior, especificamente no contexto da Licenciatura em Computação.
+
+A pesquisa **qualitativa** é apropriada porque permite a análise detalhada de conceitos, percepções e práticas relacionadas à autodireção no aprendizado. Em vez de medir dados numéricos, o foco está na compreensão dos significados, estratégias e desafios envolvidos no desenvolvimento da autonomia dos estudantes. Segundo **Creswell (2014)**, estudos qualitativos são essenciais para investigar fenômenos complexos, proporcionando uma visão mais rica e interpretativa da realidade analisada.
+
+Além disso, a pesquisa tem um caráter **exploratório**, pois busca aprofundar o conhecimento sobre metodologias de aprendizagem autodirigida e suas aplicações na formação de licenciandos. Como a SDL é uma abordagem que pode ser aplicada de diferentes formas, este estudo pretende mapear as estratégias mais eficazes e compreender seus impactos no desempenho acadêmico e na preparação profissional dos estudantes.
+
+A escolha desse tipo de pesquisa se justifica pela necessidade de investigar um fenômeno educacional que ainda carece de estudos aplicados especificamente à formação de professores de Computação. O ensino de computação na Educação Básica e Profissional está em constante transformação devido ao avanço das tecnologias e das metodologias ativas de ensino. Dessa forma, compreender como a aprendizagem autodirigida pode ser incorporada à formação desses licenciandos é fundamental para melhorar a qualidade do ensino e preparar professores mais adaptáveis às mudanças educacionais e tecnológicas.
+
+Além disso, considerando que a pesquisa envolve a análise de conteúdos acadêmicos e metodologias aplicadas na educação, a escolha da abordagem qualitativa permite uma maior profundidade na interpretação dos dados coletados. O uso de **ferramentas tecnológicas** para auxiliar a revisão de literatura e a síntese de artigos acadêmicos também contribui para que a pesquisa seja conduzida de forma mais eficiente e abrangente.
+
+Assim, ao adotar uma abordagem qualitativa e exploratória, este estudo pretende oferecer uma contribuição relevante para a área de ensino de Computação, fornecendo subsídios teóricos e metodológicos para que docentes e instituições possam implementar estratégias de aprendizagem autodirigida na formação de futuros professores.
+
+## 3.2 Instrumentos de Coleta de Dados
+
+Para garantir um embasamento teórico e metodológico sólido, a coleta de dados desta pesquisa será realizada por meio de **análise documental e revisão sistemática da literatura**. O objetivo é identificar, organizar e analisar os principais estudos sobre aprendizagem autodirigida (_Self-Directed Learning_ – SDL) e sua aplicabilidade na formação de licenciandos em Computação.
+
+A **análise documental** será baseada na revisão de artigos científicos, livros acadêmicos, dissertações e teses que abordam metodologias autodirigidas no ensino superior, com foco na área da Computação. Os documentos serão selecionados a partir de bases de dados acadêmicas reconhecidas, tais como:
+
+- **Google Scholar** (Scholar.google.com)
+- **SciELO** (Scientific Electronic Library Online)
+- **Scopus**
+- **IEEE Xplore**
+- **SpringerLink**
+- **ACM Digital Library**
+
+Para tornar o processo mais eficiente, será utilizado um **software automatizado** para realizar a busca e listagem dos artigos encontrados no **Google Scholar**. Esse software extrairá informações essenciais, como título, autor, ano de publicação, resumo e link para o documento, organizando os resultados em uma tabela para facilitar a seleção dos estudos mais relevantes. Além disso, a ferramenta permitirá o **download automatizado dos PDFs**, otimizando a coleta e organização dos materiais de pesquisa.
+
+Após a obtenção dos documentos, será empregado um **software baseado em inteligência artificial (IA)** para **gerar resumos automáticos dos artigos baixados**. Essa tecnologia auxiliará na triagem dos textos, destacando as principais informações de cada estudo, reduzindo o tempo necessário para a leitura e facilitando a análise dos dados. A IA ajudará a identificar padrões, tendências e abordagens metodológicas mais recorrentes na literatura sobre SDL, contribuindo para um processo de síntese mais eficiente.
+
+A seleção dos artigos seguirá critérios de inclusão e exclusão rigorosos para garantir a relevância e qualidade das fontes analisadas. Os critérios adotados são:
+
+**Critérios de Inclusão:**
+
+- Estudos publicados nos últimos cinco anos (para garantir atualidade);
+- Pesquisas que abordem **aprendizagem autodirigida no ensino superior**;
+- Trabalhos relacionados à formação de professores de Computação;
+- Estudos que apresentem metodologias ou modelos aplicáveis ao ensino de computação e tecnologia.
+
+**Critérios de Exclusão:**
+
+- Trabalhos não revisados por pares (_preprints_ e artigos sem validação científica);
+- Estudos que tratam de autodidatismo sem vínculo com práticas educacionais formais;
+- Artigos que não tenham acesso ao texto completo.
+
+A utilização desses instrumentos de coleta de dados visa garantir uma revisão de literatura **abrangente, estruturada e metodologicamente rigorosa**, facilitando a identificação das melhores práticas e metodologias de SDL aplicáveis ao ensino da Computação. Além disso, o uso de ferramentas tecnológicas na pesquisa reflete a própria proposta do estudo, demonstrando como a automação e a inteligência artificial podem otimizar processos acadêmicos e contribuir para a aprendizagem autodirigida.
+
+# **4. PERFIL DO LICENCIADO EM CIÊNCIA DA COMPUTAÇÃO**
+
+# **5. DESENVOLVIMENTO / ANÁLISE E DISCUSSÃO**
 
 Este capítulo apresenta a análise dos dados coletados em quatro diferentes estudos de caso, nos quais foram aplicadas metodologias ativas para promover a aprendizagem autodirigida (Self-Directed Learning \- SDL). A seguir, são apresentados os resultados obtidos em cada contexto investigado.
 
@@ -940,7 +992,7 @@ A falta de infraestrutura e de suporte institucional foi um dos principais desaf
 
 A comparação com outros estudos demonstra **fortes convergências entre os achados desta pesquisa e a literatura existente sobre metodologias ativas e aprendizagem autodirigida**. Os resultados obtidos nesta investigação reforçam a **validade e aplicabilidade das metodologias ativas no ensino superior**, ao mesmo tempo em que evidenciam desafios estruturais que precisam ser superados para que essas abordagens possam ser implementadas de maneira ampla e eficaz.
 
-# **5\. CONCLUSÃO**
+# **6\. CONCLUSÃO**
 
 Nesta seção, apresentamos um resumo das principais descobertas desta pesquisa, analisamos as respostas ao problema de pesquisa e discutimos as limitações do estudo, além de sugerir caminhos para pesquisas futuras. O objetivo é consolidar os achados e propor reflexões sobre a aplicação das metodologias ativas e da aprendizagem autodirigida no ensino superior.
 
@@ -1109,55 +1161,3 @@ Com base nos achados, recomenda-se que **as instituições de ensino superior in
 Estudos futuros podem **aprofundar a análise da SDL especificamente na formação docente em Computação**, contribuindo para a construção de um modelo de ensino inovador e alinhado às demandas contemporâneas da educação e da tecnologia.
 
 **REFERÊNCIAS**
-
-# **1.3 METODOLOGIA**
-
-Este capítulo descreve os procedimentos metodológicos adotados para a realização desta pesquisa, incluindo a abordagem, os métodos de coleta e análise de dados e a justificativa para a escolha dessas estratégias. O estudo busca compreender como a aprendizagem autodirigida pode auxiliar na formação dos alunos da Licenciatura em Computação, identificando metodologias eficazes e os impactos dessa abordagem no ensino superior.
-
-## 3.1 Tipo de Pesquisa e Justificativa
-
-Este estudo adota uma abordagem **qualitativa** e **exploratória**, uma vez que busca compreender de maneira aprofundada o fenômeno da aprendizagem autodirigida no ensino superior, especificamente no contexto da Licenciatura em Computação.
-
-A pesquisa **qualitativa** é apropriada porque permite a análise detalhada de conceitos, percepções e práticas relacionadas à autodireção no aprendizado. Em vez de medir dados numéricos, o foco está na compreensão dos significados, estratégias e desafios envolvidos no desenvolvimento da autonomia dos estudantes. Segundo **Creswell (2014)**, estudos qualitativos são essenciais para investigar fenômenos complexos, proporcionando uma visão mais rica e interpretativa da realidade analisada.
-
-Além disso, a pesquisa tem um caráter **exploratório**, pois busca aprofundar o conhecimento sobre metodologias de aprendizagem autodirigida e suas aplicações na formação de licenciandos. Como a SDL é uma abordagem que pode ser aplicada de diferentes formas, este estudo pretende mapear as estratégias mais eficazes e compreender seus impactos no desempenho acadêmico e na preparação profissional dos estudantes.
-
-A escolha desse tipo de pesquisa se justifica pela necessidade de investigar um fenômeno educacional que ainda carece de estudos aplicados especificamente à formação de professores de Computação. O ensino de computação na Educação Básica e Profissional está em constante transformação devido ao avanço das tecnologias e das metodologias ativas de ensino. Dessa forma, compreender como a aprendizagem autodirigida pode ser incorporada à formação desses licenciandos é fundamental para melhorar a qualidade do ensino e preparar professores mais adaptáveis às mudanças educacionais e tecnológicas.
-
-Além disso, considerando que a pesquisa envolve a análise de conteúdos acadêmicos e metodologias aplicadas na educação, a escolha da abordagem qualitativa permite uma maior profundidade na interpretação dos dados coletados. O uso de **ferramentas tecnológicas** para auxiliar a revisão de literatura e a síntese de artigos acadêmicos também contribui para que a pesquisa seja conduzida de forma mais eficiente e abrangente.
-
-Assim, ao adotar uma abordagem qualitativa e exploratória, este estudo pretende oferecer uma contribuição relevante para a área de ensino de Computação, fornecendo subsídios teóricos e metodológicos para que docentes e instituições possam implementar estratégias de aprendizagem autodirigida na formação de futuros professores.
-
-## 3.2 Instrumentos de Coleta de Dados
-
-Para garantir um embasamento teórico e metodológico sólido, a coleta de dados desta pesquisa será realizada por meio de **análise documental e revisão sistemática da literatura**. O objetivo é identificar, organizar e analisar os principais estudos sobre aprendizagem autodirigida (_Self-Directed Learning_ – SDL) e sua aplicabilidade na formação de licenciandos em Computação.
-
-A **análise documental** será baseada na revisão de artigos científicos, livros acadêmicos, dissertações e teses que abordam metodologias autodirigidas no ensino superior, com foco na área da Computação. Os documentos serão selecionados a partir de bases de dados acadêmicas reconhecidas, tais como:
-
-- **Google Scholar** (Scholar.google.com)
-- **SciELO** (Scientific Electronic Library Online)
-- **Scopus**
-- **IEEE Xplore**
-- **SpringerLink**
-- **ACM Digital Library**
-
-Para tornar o processo mais eficiente, será utilizado um **software automatizado** para realizar a busca e listagem dos artigos encontrados no **Google Scholar**. Esse software extrairá informações essenciais, como título, autor, ano de publicação, resumo e link para o documento, organizando os resultados em uma tabela para facilitar a seleção dos estudos mais relevantes. Além disso, a ferramenta permitirá o **download automatizado dos PDFs**, otimizando a coleta e organização dos materiais de pesquisa.
-
-Após a obtenção dos documentos, será empregado um **software baseado em inteligência artificial (IA)** para **gerar resumos automáticos dos artigos baixados**. Essa tecnologia auxiliará na triagem dos textos, destacando as principais informações de cada estudo, reduzindo o tempo necessário para a leitura e facilitando a análise dos dados. A IA ajudará a identificar padrões, tendências e abordagens metodológicas mais recorrentes na literatura sobre SDL, contribuindo para um processo de síntese mais eficiente.
-
-A seleção dos artigos seguirá critérios de inclusão e exclusão rigorosos para garantir a relevância e qualidade das fontes analisadas. Os critérios adotados são:
-
-**Critérios de Inclusão:**
-
-- Estudos publicados nos últimos cinco anos (para garantir atualidade);
-- Pesquisas que abordem **aprendizagem autodirigida no ensino superior**;
-- Trabalhos relacionados à formação de professores de Computação;
-- Estudos que apresentem metodologias ou modelos aplicáveis ao ensino de computação e tecnologia.
-
-**Critérios de Exclusão:**
-
-- Trabalhos não revisados por pares (_preprints_ e artigos sem validação científica);
-- Estudos que tratam de autodidatismo sem vínculo com práticas educacionais formais;
-- Artigos que não tenham acesso ao texto completo.
-
-A utilização desses instrumentos de coleta de dados visa garantir uma revisão de literatura **abrangente, estruturada e metodologicamente rigorosa**, facilitando a identificação das melhores práticas e metodologias de SDL aplicáveis ao ensino da Computação. Além disso, o uso de ferramentas tecnológicas na pesquisa reflete a própria proposta do estudo, demonstrando como a automação e a inteligência artificial podem otimizar processos acadêmicos e contribuir para a aprendizagem autodirigida.
