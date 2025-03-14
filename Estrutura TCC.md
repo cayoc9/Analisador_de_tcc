@@ -66,27 +66,15 @@ O **Capítulo 5 – Conclusão** sintetiza as principais descobertas do estudo, 
 
 Essa estrutura foi planejada para garantir uma abordagem sistemática e aprofundada do tema, facilitando a compreensão da importância da aprendizagem autodirigida na formação dos futuros professores de Computação.
 
-# **2. REVISÃO DE LITERATURA**
+# **2. CONCEITOS GERAIS**
 
-## 2.1 Apresentação do Referencial Teórico
-
-A revisão da literatura estabelece a base teórica para este estudo, fornecendo uma visão abrangente sobre as metodologias ativas e sua relação com a **aprendizagem autodirigida (SDL)** no ensino superior. O objetivo é situar a pesquisa dentro do campo acadêmico existente, analisando os principais autores e teorias que fundamentam o estudo.
-
-A seleção dos referenciais teóricos foi baseada na relevância de autores que abordam a **educação ativa, pedagogia crítica e formação docente**. Dentre os principais referenciais teóricos, destacam-se **Paulo Freire (2013), Eric Mazur (2015), Marcos Masetto (2003) e Silvana Malusá (2003)**. Freire é essencial por sua visão crítica da educação, enfatizando a necessidade de uma aprendizagem dialógica e participativa. Mazur contribui com o modelo de **Instrução por Pares (Peer Instruction)**, que incentiva a colaboração e a participação ativa dos estudantes. Já Masetto e Malusá trazem reflexões sobre a **competência pedagógica do docente universitário**, ressaltando a importância da formação contínua dos professores para a implementação eficaz das metodologias ativas.
-
-O estudo também se apoia em pesquisas sobre metodologias como **Aprendizagem Baseada em Problemas (PBL) e Aprendizagem Baseada em Projetos (PjBL)**, conforme discutido por **Mota e Scott (2014)**. Essas abordagens são amplamente aplicadas em cursos de engenharia e medicina, demonstrando sua adaptabilidade a diferentes contextos educacionais. Além disso, a pesquisa considera as **diretrizes institucionais e políticas educacionais**, como a **Lei de Diretrizes e Bases da Educação Nacional (BRASIL, 1996\)**, que orientam a adoção de metodologias inovadoras no ensino superior.
-
-A revisão também examina o impacto das metodologias ativas na **formação do estudante autônomo e crítico**, analisando a relação entre as políticas educacionais e a implementação de abordagens inovadoras no ensino superior. Autores como **Zabalza (2004) e Gil (2007)** destacam o papel das universidades na promoção de práticas pedagógicas que incentivam a autonomia e a aprendizagem independente dos alunos.
-
-Dessa forma, a revisão de literatura fundamenta a pesquisa, contextualizando a importância das metodologias ativas na formação do estudante universitário e na qualificação do professor para lidar com essas novas abordagens. As próximas seções aprofundam essas discussões, detalhando as contribuições específicas de cada autor e o impacto das metodologias ativas no ensino superior.
-
-## 2.2 Principais Conceitos e Teorias sobre o Tema
+## 2.1 Principais Conceitos e Teorias sobre o Tema
 
 A educação superior tem passado por transformações significativas nas últimas décadas, impulsionadas pelo avanço das tecnologias e pela necessidade de preparar estudantes para um mundo em constante mudança. Nesse contexto, a **Aprendizagem Autodirigida (Self-Directed Learning \- SDL)** e as **Metodologias Ativas** emergem como estratégias fundamentais para o desenvolvimento de competências essenciais, como autonomia, pensamento crítico e resolução de problemas. Esta seção explora os principais conceitos e teorias relacionados ao tema, revisando modelos educacionais relevantes e comparando diferentes abordagens presentes na literatura acadêmica.
 
 Nesse contexto, a **Aprendizagem Autodirigida (Self-Directed Learning \- SDL)** e as **Metodologias Ativas** emergem como estratégias fundamentais para o desenvolvimento de competências essenciais, como autonomia, pensamento crítico e resolução de problemas. A SDL incentiva os estudantes a assumirem maior controle sobre seu próprio processo de aprendizado, enquanto as metodologias ativas favorecem o engajamento e a interação no ambiente acadêmico. Assim, esta seção explora os principais conceitos e teorias relacionadas ao tema, revisando modelos educacionais relevantes e comparando diferentes abordagens presentes na literatura acadêmica.
 
-### 2.2.1 Conceitos Centrais do Estudo
+### 2.1.1 Conceitos Centrais do Estudo
 
 #### Aprendizagem Autodirigida (Self-Directed Learning - SDL)
 
@@ -123,7 +111,7 @@ O modelo de **Garrison (1997)** enfatiza a **autonomia do estudante** como um **
 
 O modelo de **Knowles (1975)** enfatiza a **autonomia do estudante** como um **atributo pessoal**, que se desenvolve ao longo da vida. Ele argumenta que a autonomia não surge espontaneamente, mas deve ser estimulada por estratégias pedagógicas que promovam a reflexão e a participação ativa.
 
-### 2.2.2 Metodologias Ativas de Aprendizagem
+### 2.1.2 Metodologias Ativas de Aprendizagem
 
 As metodologias ativas de aprendizagem surgiram como uma alternativa às abordagens tradicionais de ensino, nas quais o professor é o principal transmissor do conhecimento e o aluno assume um papel passivo na recepção da informação. Diferente dessa estrutura convencional, as metodologias ativas colocam o estudante no centro do processo de ensino-aprendizagem, incentivando sua participação ativa, autonomia e desenvolvimento de habilidades críticas para a solução de problemas complexos.
 
@@ -184,7 +172,7 @@ Além disso, **Mota e Scott (2014)** mencionam que a avaliação da aprendizagem
 
 Outro desafio identificado é a **infraestrutura e os recursos necessários para a aplicação eficaz dessas metodologias**. **Zabalza (2004)** ressalta que, para que o ensino ativo seja implementado de forma eficaz, é fundamental que as instituições invistam em **ambientes de aprendizagem colaborativos, tecnologias educacionais e suporte aos docentes**.
 
-### 2.2.3 Revisão de Estudos Anteriores
+### 2.1.3 Revisão de Estudos Anteriores
 
 A literatura analisada demonstra que a implementação das **metodologias ativas no ensino superior** tem sido uma abordagem cada vez mais presente, buscando promover a **autonomia do aluno**, o **desenvolvimento de competências críticas e reflexivas** e a **participação ativa** no processo de aprendizagem. Diversos estudos investigam as práticas pedagógicas voltadas para o ensino superior e sua relação com a **aprendizagem autodirigida (SDL)** e a **competência docente**.
 
@@ -237,6 +225,20 @@ A tabela a seguir resume as principais contribuições dos estudos revisados:
 | **Zabalza (2004)**         | Formação docente e inovação no ensino superior             | Cultura institucional e suporte pedagógico     |
 
 Os estudos revisados demonstram que as metodologias ativas são **ferramentas essenciais para a promoção da aprendizagem autodirigida e do pensamento crítico no ensino superior**. No entanto, sua implementação enfrenta desafios que precisam ser superados por meio da **formação docente, da adaptação curricular e do investimento em infraestrutura**.
+
+# **2. REVISÃO DE LITERATURA**
+
+## 2.1 Apresentação do Referencial Teórico
+
+A revisão da literatura estabelece a base teórica para este estudo, fornecendo uma visão abrangente sobre as metodologias ativas e sua relação com a **aprendizagem autodirigida (SDL)** no ensino superior. O objetivo é situar a pesquisa dentro do campo acadêmico existente, analisando os principais autores e teorias que fundamentam o estudo.
+
+A seleção dos referenciais teóricos foi baseada na relevância de autores que abordam a **educação ativa, pedagogia crítica e formação docente**. Dentre os principais referenciais teóricos, destacam-se **Paulo Freire (2013), Eric Mazur (2015), Marcos Masetto (2003) e Silvana Malusá (2003)**. Freire é essencial por sua visão crítica da educação, enfatizando a necessidade de uma aprendizagem dialógica e participativa. Mazur contribui com o modelo de **Instrução por Pares (Peer Instruction)**, que incentiva a colaboração e a participação ativa dos estudantes. Já Masetto e Malusá trazem reflexões sobre a **competência pedagógica do docente universitário**, ressaltando a importância da formação contínua dos professores para a implementação eficaz das metodologias ativas.
+
+O estudo também se apoia em pesquisas sobre metodologias como **Aprendizagem Baseada em Problemas (PBL) e Aprendizagem Baseada em Projetos (PjBL)**, conforme discutido por **Mota e Scott (2014)**. Essas abordagens são amplamente aplicadas em cursos de engenharia e medicina, demonstrando sua adaptabilidade a diferentes contextos educacionais. Além disso, a pesquisa considera as **diretrizes institucionais e políticas educacionais**, como a **Lei de Diretrizes e Bases da Educação Nacional (BRASIL, 1996\)**, que orientam a adoção de metodologias inovadoras no ensino superior.
+
+A revisão também examina o impacto das metodologias ativas na **formação do estudante autônomo e crítico**, analisando a relação entre as políticas educacionais e a implementação de abordagens inovadoras no ensino superior. Autores como **Zabalza (2004) e Gil (2007)** destacam o papel das universidades na promoção de práticas pedagógicas que incentivam a autonomia e a aprendizagem independente dos alunos.
+
+Dessa forma, a revisão de literatura fundamenta a pesquisa, contextualizando a importância das metodologias ativas na formação do estudante universitário e na qualificação do professor para lidar com essas novas abordagens. As próximas seções aprofundam essas discussões, detalhando as contribuições específicas de cada autor e o impacto das metodologias ativas no ensino superior.
 
 ## 2.3 Estudos de Caso ou Exemplos
 
@@ -295,99 +297,6 @@ O **objetivo** do estudo foi **analisar o grau de envolvimento dos professores u
 O estudo concluiu que **para que as metodologias ativas sejam implementadas com sucesso**, as universidades devem **investir em programas permanentes de formação pedagógica para seus docentes**. Os achados da pesquisa estão alinhados com discussões mais amplas na educação, indicando que **a capacitação dos professores no uso de metodologias ativas é tão crucial quanto as metodologias em si**.
 
 Esse estudo de caso **reforça o argumento central da pesquisa sobre aprendizagem autodirigida (SDL)**, pois demonstra que **tanto alunos quanto professores devem desenvolver autonomia, pensamento crítico e capacidade de adaptação para aproveitar plenamente os benefícios das abordagens educacionais modernas**.
-
-## 2.4 Perfil do Aluno da Licenciatura em Computação
-
-Os cursos de Licenciatura em Computação têm como principal objetivo preparar professores para ensinar computação na **Educação Básica e Profissionalizante**. Além disso, buscam proporcionar uma **formação sólida** nos fundamentos da computação e na pedagogia, capacitando os egressos a atuar no ensino de tecnologia e informática. Essa formação inclui o desenvolvimento de habilidades para o **uso e criação de tecnologias educacionais**, além da aplicação do **pensamento computacional** em diversos contextos.
-
-Dessa forma, o aluno do curso de Licenciatura em Computação possui um **perfil multidisciplinar**, sendo preparado para enfrentar desafios tanto na área técnica quanto na docência. Sua formação enfatiza a **interdisciplinaridade entre computação e educação**, permitindo que atue no desenvolvimento de soluções inovadoras para o ensino da tecnologia.
-
-### Características dos Alunos do Curso
-
-Os estudantes da Licenciatura em Computação geralmente possuem **interesse por tecnologia e educação**, além de curiosidade para explorar novas metodologias de ensino. A formação exige que desenvolvam **habilidades de aprendizado autodirigido**, pois a rápida evolução das tecnologias educacionais demanda atualização constante. Além disso, a capacidade de **trabalho interdisciplinar** e colaboração em equipe é essencial para atuar em diferentes contextos educacionais e tecnológicos.
-
-Ao longo do curso, os alunos passam por experiências práticas em **estágios, projetos de pesquisa e extensão**, o que contribui para sua **formação profissional e acadêmica**. Essas experiências possibilitam a aplicação dos conhecimentos adquiridos, permitindo a experimentação de metodologias inovadoras e a adaptação a diferentes cenários do ensino de computação.
-
-### Desafios Enfrentados na Aprendizagem
-
-A dualidade entre as disciplinas de computação e pedagogia representa um dos principais desafios para os alunos do curso. Enquanto algumas disciplinas exigem forte **raciocínio lógico e habilidades técnicas** (como programação e engenharia de software), outras demandam competências pedagógicas voltadas para **o ensino e a didática**.
-
-Além disso, muitos estudantes ingressam no curso com pouca experiência em práticas educacionais, o que pode dificultar a assimilação de metodologias ativas e estratégias de ensino. A necessidade de se adaptar a novas ferramentas digitais e metodologias híbridas também representa um desafio, especialmente para aqueles que conciliam os estudos com trabalho e outras responsabilidades.
-
-Outro fator relevante é a constante **evolução tecnológica**, que exige dos alunos um compromisso com a atualização profissional. Como muitas das ferramentas utilizadas na educação digital estão em desenvolvimento contínuo, os estudantes precisam desenvolver autonomia na busca por conhecimento, o que reforça a importância da **aprendizagem autodirigida**.
-
-### Habilidades e Competências
-
-Os egressos da Licenciatura em Computação devem possuir um conjunto diversificado de competências, abrangendo aspectos técnicos, pedagógicos e interdisciplinares:
-
-### Competências Técnicas
-
-- Programação e desenvolvimento de software para aplicações educacionais;
-- Engenharia de software e design instrucional para ensino digital;
-- Banco de dados, redes de computadores e infraestrutura de TI para ambientes educacionais;
-- Metodologias ativas no ensino de computação.
-
-### Competências Pedagógicas
-
-- Conhecimento das bases da didática e metodologias de ensino para computação;
-- Desenvolvimento de materiais didáticos digitais e interativos;
-- Aplicação do pensamento computacional na Educação Básica;
-- Criação e gestão de ambientes virtuais de aprendizagem (EAD).
-
-### Outras Competências
-
-- Capacidade de análise crítica e solução de problemas em contextos educacionais e tecnológicos;
-- Trabalho em equipe e colaboração interdisciplinar;
-- Conhecimento sobre acessibilidade digital e inclusão tecnológica;
-- Pesquisa e desenvolvimento de projetos na interface entre computação e educação.
-
-### Relevância da Aprendizagem Autodirigida para esse Perfil
-
-A **aprendizagem autodirigida** (Self-Directed Learning – SDL) é essencial para o perfil do aluno da Licenciatura em Computação. Esse modelo de aprendizado permite que o estudante desenvolva **autonomia e responsabilidade** sobre sua própria formação, algo indispensável na área de tecnologia, onde as inovações ocorrem constantemente.
-
-Para os alunos desse curso, a SDL se torna uma ferramenta crucial para acompanhar novas linguagens de programação, plataformas educacionais e metodologias pedagógicas inovadoras. Além disso, favorece a **autogestão da aprendizagem**, preparando os futuros professores para criar estratégias adaptadas a diferentes públicos e necessidades educacionais.
-
-Outro benefício da aprendizagem autodirigida é sua aplicação na **resolução de desafios do curso**, permitindo que os alunos desenvolvam competências como **organização do tempo, definição de prioridades e busca ativa por conhecimento**. Isso reflete diretamente na qualidade da formação dos licenciados, tornando-os profissionais mais qualificados para atuar em ambientes educacionais dinâmicos e inovadores.
-
-### Áreas de Atuação e Perspectivas Profissionais
-
-Os profissionais licenciados em Computação podem atuar em diversas áreas, incluindo:
-
-### Educação
-
-- Ensino de computação na Educação Básica e Profissionalizante;
-- Desenvolvimento de projetos pedagógicos voltados ao ensino de tecnologia;
-- Gestão e coordenação de laboratórios de informática em escolas e universidades.
-
-### Desenvolvimento de Software Educacional
-
-- Projetos de ensino a distância e plataformas de aprendizado online;
-- Produção de softwares, jogos educativos e ferramentas interativas para ensino.
-
-### Pesquisa e Inovação
-
-- Atuação em grupos de pesquisa na área de educação e tecnologia;
-- Desenvolvimento de novas metodologias para ensino de computação.
-
-### Gestão de TI e Consultoria
-
-- Suporte técnico e pedagógico na implementação de tecnologias na educação;
-- Administração de redes e infraestrutura tecnológica para instituições de ensino.
-
-### Contribuições e Impacto Social
-
-Os cursos de Licenciatura em Computação exercem um papel fundamental na sociedade ao:
-
-- Contribuir para a **inclusão digital** e a democratização do acesso à tecnologia;
-- Formar professores capacitados para lidar com os desafios da **era digital no ensino**;
-- Desenvolver soluções tecnológicas para a educação, promovendo inovação no ensino-aprendizagem;
-- Fomentar o uso de **tecnologias acessíveis**, garantindo inclusão de pessoas com deficiência no ensino digital.
-
-Além disso, os Trabalhos de Conclusão de Curso (TCC) desenvolvidos pelos alunos geralmente abordam **desafios reais da educação**, incluindo:
-
-- Aplicação de **metodologias ativas** no ensino de computação;
-- Desenvolvimento de **plataformas digitais** para o ensino de programação e pensamento computacional;
-- Análise do impacto das **tecnologias digitais** na aprendizagem e na formação de professores.
 
 # **3 METODOLOGIA**
 
@@ -538,6 +447,99 @@ A análise dos PPCs também revela características comuns entre os estudantes q
 Estas características indicam que os estudantes de Licenciatura em Computação já possuem predisposição para a aprendizagem autodirigida, o que pode ser potencializado por meio de metodologias e ferramentas adequadas durante sua formação.
 
 Em síntese, o perfil do licenciado em Computação caracteriza-se pela dupla competência em educação e tecnologia, com capacidade para promover a inovação pedagógica por meio das tecnologias digitais. Suas necessidades de aprendizagem específicas estão diretamente relacionadas à constante atualização tecnológica, desenvolvimento de competências pedagógicas inovadoras e habilidades socioemocionais para lidar com os desafios de um campo em permanente transformação.
+
+## 4.6 Perfil do Aluno da Licenciatura em Computação
+
+Os cursos de Licenciatura em Computação têm como principal objetivo preparar professores para ensinar computação na **Educação Básica e Profissionalizante**. Além disso, buscam proporcionar uma **formação sólida** nos fundamentos da computação e na pedagogia, capacitando os egressos a atuar no ensino de tecnologia e informática. Essa formação inclui o desenvolvimento de habilidades para o **uso e criação de tecnologias educacionais**, além da aplicação do **pensamento computacional** em diversos contextos.
+
+Dessa forma, o aluno do curso de Licenciatura em Computação possui um **perfil multidisciplinar**, sendo preparado para enfrentar desafios tanto na área técnica quanto na docência. Sua formação enfatiza a **interdisciplinaridade entre computação e educação**, permitindo que atue no desenvolvimento de soluções inovadoras para o ensino da tecnologia.
+
+### Características dos Alunos do Curso
+
+Os estudantes da Licenciatura em Computação geralmente possuem **interesse por tecnologia e educação**, além de curiosidade para explorar novas metodologias de ensino. A formação exige que desenvolvam **habilidades de aprendizado autodirigido**, pois a rápida evolução das tecnologias educacionais demanda atualização constante. Além disso, a capacidade de **trabalho interdisciplinar** e colaboração em equipe é essencial para atuar em diferentes contextos educacionais e tecnológicos.
+
+Ao longo do curso, os alunos passam por experiências práticas em **estágios, projetos de pesquisa e extensão**, o que contribui para sua **formação profissional e acadêmica**. Essas experiências possibilitam a aplicação dos conhecimentos adquiridos, permitindo a experimentação de metodologias inovadoras e a adaptação a diferentes cenários do ensino de computação.
+
+### Desafios Enfrentados na Aprendizagem
+
+A dualidade entre as disciplinas de computação e pedagogia representa um dos principais desafios para os alunos do curso. Enquanto algumas disciplinas exigem forte **raciocínio lógico e habilidades técnicas** (como programação e engenharia de software), outras demandam competências pedagógicas voltadas para **o ensino e a didática**.
+
+Além disso, muitos estudantes ingressam no curso com pouca experiência em práticas educacionais, o que pode dificultar a assimilação de metodologias ativas e estratégias de ensino. A necessidade de se adaptar a novas ferramentas digitais e metodologias híbridas também representa um desafio, especialmente para aqueles que conciliam os estudos com trabalho e outras responsabilidades.
+
+Outro fator relevante é a constante **evolução tecnológica**, que exige dos alunos um compromisso com a atualização profissional. Como muitas das ferramentas utilizadas na educação digital estão em desenvolvimento contínuo, os estudantes precisam desenvolver autonomia na busca por conhecimento, o que reforça a importância da **aprendizagem autodirigida**.
+
+### Habilidades e Competências
+
+Os egressos da Licenciatura em Computação devem possuir um conjunto diversificado de competências, abrangendo aspectos técnicos, pedagógicos e interdisciplinares:
+
+### Competências Técnicas
+
+- Programação e desenvolvimento de software para aplicações educacionais;
+- Engenharia de software e design instrucional para ensino digital;
+- Banco de dados, redes de computadores e infraestrutura de TI para ambientes educacionais;
+- Metodologias ativas no ensino de computação.
+
+### Competências Pedagógicas
+
+- Conhecimento das bases da didática e metodologias de ensino para computação;
+- Desenvolvimento de materiais didáticos digitais e interativos;
+- Aplicação do pensamento computacional na Educação Básica;
+- Criação e gestão de ambientes virtuais de aprendizagem (EAD).
+
+### Outras Competências
+
+- Capacidade de análise crítica e solução de problemas em contextos educacionais e tecnológicos;
+- Trabalho em equipe e colaboração interdisciplinar;
+- Conhecimento sobre acessibilidade digital e inclusão tecnológica;
+- Pesquisa e desenvolvimento de projetos na interface entre computação e educação.
+
+### Relevância da Aprendizagem Autodirigida para esse Perfil
+
+A **aprendizagem autodirigida** (Self-Directed Learning – SDL) é essencial para o perfil do aluno da Licenciatura em Computação. Esse modelo de aprendizado permite que o estudante desenvolva **autonomia e responsabilidade** sobre sua própria formação, algo indispensável na área de tecnologia, onde as inovações ocorrem constantemente.
+
+Para os alunos desse curso, a SDL se torna uma ferramenta crucial para acompanhar novas linguagens de programação, plataformas educacionais e metodologias pedagógicas inovadoras. Além disso, favorece a **autogestão da aprendizagem**, preparando os futuros professores para criar estratégias adaptadas a diferentes públicos e necessidades educacionais.
+
+Outro benefício da aprendizagem autodirigida é sua aplicação na **resolução de desafios do curso**, permitindo que os alunos desenvolvam competências como **organização do tempo, definição de prioridades e busca ativa por conhecimento**. Isso reflete diretamente na qualidade da formação dos licenciados, tornando-os profissionais mais qualificados para atuar em ambientes educacionais dinâmicos e inovadores.
+
+### Áreas de Atuação e Perspectivas Profissionais
+
+Os profissionais licenciados em Computação podem atuar em diversas áreas, incluindo:
+
+### Educação
+
+- Ensino de computação na Educação Básica e Profissionalizante;
+- Desenvolvimento de projetos pedagógicos voltados ao ensino de tecnologia;
+- Gestão e coordenação de laboratórios de informática em escolas e universidades.
+
+### Desenvolvimento de Software Educacional
+
+- Projetos de ensino a distância e plataformas de aprendizado online;
+- Produção de softwares, jogos educativos e ferramentas interativas para ensino.
+
+### Pesquisa e Inovação
+
+- Atuação em grupos de pesquisa na área de educação e tecnologia;
+- Desenvolvimento de novas metodologias para ensino de computação.
+
+### Gestão de TI e Consultoria
+
+- Suporte técnico e pedagógico na implementação de tecnologias na educação;
+- Administração de redes e infraestrutura tecnológica para instituições de ensino.
+
+### Contribuições e Impacto Social
+
+Os cursos de Licenciatura em Computação exercem um papel fundamental na sociedade ao:
+
+- Contribuir para a **inclusão digital** e a democratização do acesso à tecnologia;
+- Formar professores capacitados para lidar com os desafios da **era digital no ensino**;
+- Desenvolver soluções tecnológicas para a educação, promovendo inovação no ensino-aprendizagem;
+- Fomentar o uso de **tecnologias acessíveis**, garantindo inclusão de pessoas com deficiência no ensino digital.
+
+Além disso, os Trabalhos de Conclusão de Curso (TCC) desenvolvidos pelos alunos geralmente abordam **desafios reais da educação**, incluindo:
+
+- Aplicação de **metodologias ativas** no ensino de computação;
+- Desenvolvimento de **plataformas digitais** para o ensino de programação e pensamento computacional;
+- Análise do impacto das **tecnologias digitais** na aprendizagem e na formação de professores.
 
 # **5. DESENVOLVIMENTO / ANÁLISE E DISCUSSÃO**
 
