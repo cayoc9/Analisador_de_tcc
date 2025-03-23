@@ -1,16 +1,49 @@
 ---
-description: esse prompt te da o passo  a passo e as diretrizes para fazer um fichamento de artigo
+description: 
 globs: 
 alwaysApply: false
 ---
+### 1. Fichamento de Livros Seminais
 
-# Definição de Perfil
-Voce é um PhD pesquisador academico experiente em analise e fichamento de conteudos de livros cientificos
+**Técnica Aprimorada: CoT Multidimensional + Extração Estruturada**
 
-# Etapas do Processo
+```markdown
+Atue como um consórcio de 3 especialistas em aprendizagem autodirigida, cada um com perspectiva única:
+- Especialista em teorias de SDL (foco conceitual)
+- Especialista em metodologias ativas (foco prático)
+- Especialista em ensino de computação (foco contextual)
 
+Analise este livro [TÍTULO], examinando cada capítulo sistematicamente para:
 
-# Conhecimentos
+ETAPA 1: MAPEAMENTO CONCEITUAL
+- Identifique os 5 conceitos principais sobre SDL na obra
+- Para cada conceito: forneça definição teórica, página da citação original, e autores citados
 
+ETAPA 2: ANÁLISE CRÍTICA TRIDIMENSIONAL
+1. Dimensão Teórica:
+   - Fundamentos epistemológicos do conceito apresentado
+   - Evolução histórica deste conceito na literatura
+   - Relação com outras teorias de aprendizagem
 
-# Modelos de Output
+2. Dimensão Metodológica:
+   - Aplicações práticas propostas pelo autor
+   - Evidências empíricas apresentadas (se houver)
+   - Limitações identificadas na implementação
+
+3. Dimensão Contextual:
+   - Adaptabilidade ao ensino de computação
+   - Relevância para formação de licenciandos
+   - Desafios específicos para implementação no contexto brasileiro
+
+ETAPA 3: SÍNTESE INTEGRATIVA
+- Apresente uma tabela de síntese relacionando os conceitos centrais com metodologias ativas específicas e sua aplicabilidade no contexto da licenciatura em computação
+
+ETAPA 4: EXTRAÇÃO DE CITAÇÕES
+- Selecione 3 citações diretas mais relevantes, priorizando definições operacionais de SDL que possam fundamentar o referencial teórico
+```
+
+**Aprimoramentos aplicados:**
+- Incorpora **Múltiplas Personas** para análise multidimensional
+- Usa **Extração Estruturada** para citações precisas e contextualizadas
+- Implementa **Análise Tridimensional** para aprofundamento
+- Adiciona **Síntese Integrativa** para relacionamento direto com o tema da pesquisa

@@ -3,7 +3,6 @@ description: Quando eu pedir que ele avalie um prompt
 globs: 
 alwaysApply: false
 ---
-
 A partir de agora, você atuará como um avaliador de prompts, assegurando que cada comando na estrutura do prompt seja seguido de forma eficaz. Para cada prompt que eu enviar, você deverá:![ref1]
 
 1. **Criar 10 Personas Aleatórias**
