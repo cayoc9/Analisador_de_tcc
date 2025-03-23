@@ -3,36 +3,83 @@ description:
 globs: 
 alwaysApply: false
 ---
-Atue como um consórcio de 3 especialistas em aprendizagem autodirigida, cada um com perspectiva única:
-- Especialista em teorias de SDL (foco conceitual)
-- Especialista em metodologias ativas (foco prático)
-- Especialista em ensino de computação (foco contextual)
+**Instrução Geral:**  
+Atue como um consórcio de três especialistas em aprendizagem autodirigida, cada um com uma perspectiva única:  
+- **Especialista em Teorias de SDL (Foco Conceitual):** Analise os fundamentos teóricos e referências conceituais.  
+- **Especialista em Metodologias Ativas (Foco Prático):** Explore aplicações e evidências empíricas para a prática pedagógica.  
+- **Especialista em Ensino de Computação (Foco Contextual):** Considere a aplicabilidade dos conceitos no contexto da formação de licenciandos e no ensino de computação.
 
-Analise este livro [TÍTULO], examinando cada capítulo sistematicamente para:
+**Livro a Ser Analisado: {enviado junto do prompt}**  
+Forneça os detalhes completos do livro (título, autor, edição, etc.) para contextualização. 
+Caso o conteúdo completo não esteja disponível, utilize referências secundárias e indique “não aplicável” quando necessário.
 
-ETAPA 1: MAPEAMENTO CONCEITUAL
-- Identifique os 7 conceitos principais sobre SDL na obra
-- Para cada conceito: forneça definição teórica, página da citação original, e autores citados
+---
 
-ETAPA 2: ANÁLISE CRÍTICA TRIDIMENSIONAL
-1. Dimensão Teórica:
-   - Fundamentos epistemológicos do conceito apresentado
-   - Evolução histórica deste conceito na literatura
-   - Relação com outras teorias de aprendizagem
+### ETAPA 1: Mapeamento Conceitual
+1. **Identificação dos Conceitos:**  
+   - Identifique os 5 principais conceitos sobre aprendizagem autodirigida (SDL) apresentados na obra.
 
-2. Dimensão Metodológica:
-   - Aplicações práticas propostas pelo autor
-   - Evidências empíricas apresentadas (se houver)
-   - Limitações identificadas na implementação
+2. **Para Cada Conceito, Forneça:**
+   - **Definição Teórica Descritiva:** Explique o conceito de forma detalhada.  
+   - **Referência Específica:** Indique a página da citação original e os autores citados.
 
-3. Dimensão Contextual:
-   - Adaptabilidade ao ensino de computação
-   - Relevância para formação de licenciandos
-   - Desafios específicos para implementação no contexto brasileiro
+> **Exemplo Didático:**  
+> Se o livro abordar "Autonomia na Aprendizagem", descreva-a como a capacidade do aluno de definir seus próprios objetivos e métodos, indicando a página e os autores que fundamentam essa definição.
 
-ETAPA 3: SÍNTESE INTEGRATIVA
-- Apresente uma tabela de síntese relacionando os conceitos centrais com metodologias ativas específicas e sua aplicabilidade no contexto da licenciatura em computação
+---
 
-ETAPA 4: EXTRAÇÃO DE CITAÇÕES
-- Selecione 3 citações diretas mais relevantes, priorizando definições operacionais de SDL que possam fundamentar o referencial teórico
+### ETAPA 2: Análise Crítica Tridimensional
+Para cada um dos 5 conceitos, realize uma análise crítica estruturada nas seguintes dimensões:
 
+#### 1. Dimensão Teórica
+- **Fundamentos Epistemológicos:** Explique a base teórica e os pressupostos do conceito.  
+- **Evolução Histórica:** Descreva como o conceito evoluiu na literatura e sua trajetória histórica.  
+- **Relação com Outras Teorias:** Relacione o conceito com outras teorias de aprendizagem.
+
+#### 2. Dimensão Metodológica
+- **Aplicações Práticas:** Identifique as propostas práticas do autor para implementar o conceito.  
+- **Evidências Empíricas:** Indique se há evidências experimentais ou estudos de caso que suportam a aplicação.  
+- **Limitações:** Discuta eventuais dificuldades ou limitações na implementação prática do conceito.
+
+#### 3. Dimensão Contextual
+- **Adaptabilidade ao Ensino de Computação:** Avalie como o conceito pode ser adaptado para o contexto de ensino de computação.  
+- **Relevância para a Formação de Licenciandos:** Comente sobre a importância do conceito na formação de futuros professores.  
+- **Desafios no Contexto Brasileiro:** Destaque os desafios específicos que podem ser enfrentados na implementação do conceito no Brasil.
+
+> **Exemplo Prático:**  
+> Ao analisar "Autorregulação", o especialista em metodologias ativas pode sugerir a aplicação de uma "Sala de Aula Invertida", enquanto o especialista em ensino de computação discute como essa estratégia pode preparar os licenciandos para enfrentar desafios reais em laboratórios.
+
+---
+
+### ETAPA 3: Síntese Integrativa
+- **Elaboração de Tabela:**  
+  Crie uma tabela que sintetize os 5 conceitos centrais, relacionando cada conceito com:
+  - A definição teórica resumida.
+  - Uma metodologia ativa sugerida para a aplicação do conceito.
+  - A aplicabilidade prática no contexto da licenciatura em computação.
+
+> **Formato da Tabela (Sugestão):**
+
+| Conceito Central            | Definição Teórica (Resumo)                               | Metodologia Ativa Sugerida         | Aplicabilidade na Licenciatura em Computação                     |
+|-----------------------------|----------------------------------------------------------|------------------------------------|------------------------------------------------------------------|
+| Exemplo: Autonomia na Aprendizagem | Capacidade do aluno de gerir seu próprio processo... | Aprendizagem Baseada em Problemas | Estimula a iniciativa e a inovação em projetos de software.        |
+
+---
+
+### ETAPA 4: Extração de Citações
+- **Seleção de Citações:**  
+  Selecione as 3 citações diretas mais relevantes que ofereçam definições operacionais de SDL e fundamentem o referencial teórico.  
+- **Para Cada Citação, Inclua:**
+  - O texto da citação.
+  - A página da citação.
+  - Os autores e/ou referências bibliográficas.
+
+> **Nota Didática:**  
+> Caso o livro não contenha os dados específicos solicitados (por exemplo, número da página), indique de forma clara a limitação e, se possível, recorra a referências secundárias.
+
+---
+
+**Notas Finais e Considerações:**
+- Utilize uma estrutura clara e segmentada, com títulos e subtítulos para cada etapa, garantindo uma análise lógica e detalhada.
+- Caso haja ambiguidade ou ausência de dados, indique as limitações e sugira alternativas de interpretação.
+- Lembre-se de que o objetivo é integrar a perspectiva teórica, prática e contextual dos três especialistas, proporcionando uma análise robusta e aplicável para professores, pesquisadores e formadores de licenciandos.
