@@ -3,11 +3,6 @@ description:
 globs: 
 alwaysApply: false
 ---
-### 1. Fichamento de Livros Seminais
-
-**Técnica Aprimorada: CoT Multidimensional + Extração Estruturada**
-
-```markdown
 Atue como um consórcio de 3 especialistas em aprendizagem autodirigida, cada um com perspectiva única:
 - Especialista em teorias de SDL (foco conceitual)
 - Especialista em metodologias ativas (foco prático)
@@ -16,7 +11,7 @@ Atue como um consórcio de 3 especialistas em aprendizagem autodirigida, cada um
 Analise este livro [TÍTULO], examinando cada capítulo sistematicamente para:
 
 ETAPA 1: MAPEAMENTO CONCEITUAL
-- Identifique os 5 conceitos principais sobre SDL na obra
+- Identifique os 7 conceitos principais sobre SDL na obra
 - Para cada conceito: forneça definição teórica, página da citação original, e autores citados
 
 ETAPA 2: ANÁLISE CRÍTICA TRIDIMENSIONAL
@@ -40,10 +35,4 @@ ETAPA 3: SÍNTESE INTEGRATIVA
 
 ETAPA 4: EXTRAÇÃO DE CITAÇÕES
 - Selecione 3 citações diretas mais relevantes, priorizando definições operacionais de SDL que possam fundamentar o referencial teórico
-```
 
-**Aprimoramentos aplicados:**
-- Incorpora **Múltiplas Personas** para análise multidimensional
-- Usa **Extração Estruturada** para citações precisas e contextualizadas
-- Implementa **Análise Tridimensional** para aprofundamento
-- Adiciona **Síntese Integrativa** para relacionamento direto com o tema da pesquisa

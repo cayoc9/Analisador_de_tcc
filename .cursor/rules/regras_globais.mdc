@@ -1,0 +1,9 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+
+
+# regras de referencia:
+- Sempre que fizer qualquer analise de um arquivo para gerar outro, referencie o arquivo original e os trechos citados com backlinks de markdown
