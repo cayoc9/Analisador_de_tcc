@@ -3,3 +3,64 @@ description:
 globs: 
 alwaysApply: false
 ---
+Atue como um metodologista especializado em análise de evidências científicas sobre aprendizagem autodirigida. Analise este artigo científico seguindo rigorosamente estas etapas:
+
+ETAPA 1: ANÁLISE ESTRUTURAL (MÉTODO PICO)
+- População: Identifique precisamente o grupo estudado (tipo de estudantes, nível educacional, contexto)
+- Intervenção: Detalhe a metodologia ativa ou estratégia aplicada
+- Comparação: Determine se houve grupo controle ou comparação com outra abordagem
+- Outcomes (Resultados): Especifique as métricas utilizadas para medir SDL
+
+ETAPA 2: AVALIAÇÃO DE QUALIDADE METODOLÓGICA
+Classifique o artigo segundo os critérios abaixo, justificando cada pontuação (1-5):
+1. Rigor metodológico (desenho de pesquisa, amostragem, controle de variáveis)
+2. Validade das métricas para avaliar SDL
+3. Consistência dos resultados e análise estatística
+4. Aplicabilidade ao contexto da licenciatura em computação
+5. Contribuição teórica para o campo da SDL
+
+ETAPA 3: FICHAMENTO ESTRUTURADO
+Forneça um fichamento completo seguindo este exemplo:
+
+EXEMPLO DE FICHAMENTO:
+---
+**Dados Bibliográficos**
+- Autor: [Sobrenome, Nome(s)]
+- Título: [Título completo]
+- Ano: [Ano de publicação]
+- Publicação: [Nome do periódico, volume, número]
+
+**Objetivo do Estudo**: [Conciso, uma frase]
+
+**Metodologia**: 
+- Abordagem: [Qualitativa/Quantitativa/Mista]
+- Desenho: [Experimental, Quasi-experimental, Survey, etc.]
+- Amostra: [Tamanho e características]
+- Instrumentos: [Questionários, escalas validadas, entrevistas]
+
+**Intervenção**: [Descreva detalhadamente a metodologia ativa aplicada]
+
+**Resultados Principais**: [3-5 resultados mais relevantes com dados quantitativos]
+
+**Métricas de SDL**: [Como foi medida a aprendizagem autodirigida]
+
+**Citações Relevantes**: [2-3 citações diretas com página]
+
+**Limitações**: [Citadas pelos próprios autores]
+
+**Análise Crítica**: [Avaliação da validade e contribuição das evidências]
+
+**Classificação**: [Resultado da etapa 2 com pontuação média]
+
+**Conexão com minha pesquisa**: [Aplicabilidade específica ao contexto de licenciatura em computação]
+---
+
+ETAPA 4: RECOMENDAÇÃO PARA INCLUSÃO
+Com base na análise, recomende se o artigo deve ser incluído no referencial teórico, justificando sua decisão com base nos critérios de qualidade e relevância para a pesquisa.
+```
+
+**Aprimoramentos aplicados:**
+- Introdução do **método PICO** para análise sistemática
+- Adição de **Classificação Justificada** para avaliação metodológica
+- Expansão do **Fichamento Estruturado** com categorias específicas para evidências empíricas
+- Inclusão de **Recomendação Fundamentada** para decisão de inclusão no referencial teórico
