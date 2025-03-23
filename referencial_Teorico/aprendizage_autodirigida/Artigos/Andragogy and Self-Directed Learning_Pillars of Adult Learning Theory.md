@@ -1,0 +1,166 @@
+Andragogy and self-directed learning continue to be important to our present-day understanding of adult learning.
+
+## Andragogy and Self-Directed Learning: Pillars of Adult Learning Theory
+
+Sharan B. Merriam
+
+The central question of how adults learn has occupied the attention of scholars and practitioners since the founding of adult education as a professional field of practice in the 1920s. Some eighty years later, we have no single answer, no one theory or model of adult learning that explains all that we know about adult learners, the various contexts where learning takes place, and the process of learning itself.
+
+What we do have is a mosaic of theories, models, sets of principles, and explanations that, combined, compose the knowledge base of adult learning. T wo important pieces of that mosaic are andragogy and self-directed learning. Other chapters in this volume focus on some of the newer approaches to understanding learning; the purpose of this chapter is to revisit two of the foundational theories of adult learning with an eye to assessing their 'staying power' as important components of our present-day understanding of adult learning.
+
+## Early Research on Adult Learning
+
+While we have known for centuries that adults learn as part of their daily lives, it wasn't until the early decades of the twentieth century that learning was studied systematically . The question that framed much of the early research on adult learning was whether or not adults could learn. The first book to report the results of research on this topic, Thorndike, Bregman, Tilton, and Woodyard's Adult Learning (1928), was published just two years after the founding of adult education as a professional field of practice. Thorndike and others approached adult learning from a behavioral psychological perspective. That is, people were tested under timed conditions on various learning and memory tasks.
+
+Findings from much of the early research were a function of research design. Tests of older adults against young people under timed conditions made it appear that being younger meant being a better learner. Lorge (1944, 1947) later pointed out that adult test scores were related to previous education and skills, not to age per se. Since older adults had less formal education and less opportunity to develop test-taking skills, it only appeared that they were less-capable learners. Moreover, when Lorge focused on adults' ability to learn rather than on the speed or rate of learning (that is, when time pressure was removed), adults up to age seventy did as well as younger adults.
+
+The development of intelligence tests also came during this period. As with learning tasks, students scored well when compared to adults, as did young adults when compared to older adults. As the measurement of intelligence became more complex, scores indicated declines on some subtests but not on others. Today it is recognized that adults score better on some aspects of intelligence as they age and worse on others, resulting in a fairly stable composite measure of intelligence until very old age (Schaie and Willis, 1986).
+
+In addition to intelligence, other aspects of human learning such as problem solving and cognitive development have been the focus of study by educational psychologists since the 1950s. Much of this research has not differentiated adults from children. When adults are included as part of the sample, the emphasis has been on how advancing age influences the ability to recall, to process information, and to problem solve. Generalizations from this set of literature are difficult to make, as much of the research has been conducted in laboratories or other artificial settings, making its applicability to real-life situations questionable. Further, deficits and declines are often shown to be functions of noncognitive factors such as level of education, training, health, and speed of response (Merriam and Caffarella, 1999).
+
+Until mid-twentieth century , adult educators relied on research in psychology and educational psychology for an understanding of adult learning. As described, this research was behavioristic in design, and often insights about  adult  learning  were  extrapolated  from  research  with  children  or research that placed adults under the same conditions as children. But as part of the drive to differentiate adult education from other forms of education, adult educators began to consider whether adult learning could be distinguished from learning in childhood. A new inquiry drove this effort. The question of whether adults could learn was put to rest, and the new focus of what was different about adult learning emerged. Thus, the drive to professionalize, which included the need to develop a knowledge base unique to adult education, was the context in which two of the field's most important theory-building efforts-andragogy and self-directed learning-emerged.
+
+## Andragogy
+
+In 1968, Malcolm Knowles proposed 'a new label and a new technology' of adult learning to distinguish it from preadult schooling (p. 351). The
+
+European concept of andragogy , which he defined as 'the art and science of helping adults learn,' was contrasted with pedagogy, the art and science of helping children learn (Knowles, 1980, p. 43). Andragogy became a rallying point for those trying to define the field of adult education as separate from other areas of education.
+
+The five assumptions underlying andragogy describe the adult learner as someone who (1) has an independent self-concept and who can direct his or her own learning, (2) has accumulated a reservoir of life experiences that is a rich resource for learning, (3) has learning needs closely related to changing social roles, (4) is problem-centered and interested in immediate application of knowledge, and (5) is motivated to learn by internal rather than external factors. From these assumptions, Knowles proposed a programplanning model for designing, implementing, and evaluating educational experiences with adults. For example, with regard to the first assumption that as adults mature they become more independent and self-directing, Knowles suggested that the classroom climate should be one of 'adultness,' both physically and psychologically. In an 'adult' classroom, adults 'feel accepted, respected, and supported'; further, there exists 'a spirit of mutuality between teachers and students as joint inquirers' (1980, p. 47). And because adults manage other aspects of their lives, they are capable of directing, or at least assisting in planning, their own learning.
+
+The 1970s and early 1980s witnessed much writing, debate, and discussion about the validity of andragogy as a theory of adult learning. At first the main point of contention was whether andragogy could be considered a 'theory' of adult learning. Davenport and Davenport (1985, p. 157), in their chronicle of the debate, note that andragogy has been classified 'as a theory of adult education, theory of adult learning, theory of technology of adult learning, method of adult education, technique of adult education, and a set of assumptions.' Hartree (1984) questioned whether there was a theory at all, suggesting that perhaps these were just principles of good practice, or descriptions of 'what the adult learner should be like' (p. 205). Knowles himself came to concur that andragogy is less a theory of adult learning than 'a model of assumptions about learning or a conceptual framework that serves as a basis for an emergent theory' (1989, p. 112).
+
+The second area of criticism, ongoing to this day , is the extent to which the assumptions are characteristic of adult learners only . Some adults are highly dependent on a teacher for structure, while some children are independent, self-directed learners. The same is true for motivation; adults may be externally motivated to learn, as in attending training sessions to keep their job, for example, while children may be motivated by curiosity or the internal pleasure of learning. Even the most obvious assumption that adults have more and deeper life experiences may or may not function positively in a learning situation. Indeed, certain life experiences can act as barriers to learning (Merriam, Mott, and Lee, 1996). Further, children in certain situations may have a range of experiences qualitatively richer than some adults (Hanson, 1996).
+
+That  these  assumptions  were  not  necessarily  true  of  all  adults  led Knowles himself to revise his thinking as to whether andragogy was just for adults and pedagogy just for children. Between 1970 and 1980 he moved from an andragogy versus pedagogy position to representing them on a continuum ranging from teacher-directed to student-directed learning. He acknowledged that both approaches are appropriate with children and adults, depending on the situation. For example, an adult who knows little or nothing about a topic will be more dependent on the teacher for direction; at the other extreme, children who are naturally curious and who are 'very self-directing in their learning outside of school . . . could also be more self-directed in school' (Knowles, 1984, p. 13). This acknowledgment by Knowles resulted in andragogy being defined more by the learning situation than by the learner.
+
+Focusing on the teaching-learning situation seems to be the position taken by Cyril Houle, Knowles's mentor and author of a number of books on adult education. For Houle (1996, pp. 29-30), 'education is fundamentally the same wherever and whenever it occurs. It deals with such basic concerns as the nature of the learner, the goals sought, the social and physical milieu in which instruction occurs, and the techniques of learning or teaching used. These and other components may be combined in infinite ways. . . . Andragogy remains as the most learner-centered of all patterns of adult educational programming.' What is significant, Houle writes, is that andragogy has alerted educators to the fact that they 'should involve learners in as many aspects of their education as possible and in the creation of a climate in which they can most fruitfully learn' (p. 30).
+
+The scholarship on andragogy since 1990 has taken two directions. Some have analyzed the origins of the concept or its usage in different parts of the world. Another group of scholars has critiqued andragogy for its lack of attention to the context in which learning occurs.
+
+Science, Discipline, or Technology? The ongoing international discussion and research on the concept of andragogy serves as a touchstone in the continued effort to professionalize through the establishment of a scientific discipline. Henschke (1998), citing several others, makes a point that andragogy with its humanistic philosophical underpinnings is well suited to democratically oriented societies. He suggests that the term can be illuminated  through  an  analysis  of  Hebrew  words  that  expand  'and  are  also antecedent to the emergence of' the term. Andragogy , informed by humanism and Hebraic language, could be defined as 'a scientific discipline' that studies everything related to learning and teaching 'which would bring adults to their full degree of humaneness' (Henschke, 1998, p. 8). In another example of this thrust, Pastuovic (1995) explores the problems inherent in forming a scientific system for adult education. He finds andragogy to be the technological application of psychological and sociological knowledge, and not in itself 'a science of the system of adult education' (p. 289).
+
+Dusan Savicevic, who introduced Knowles to the term andragogy, has compared the concept in Europe and America. Andragogy originated in
+
+nineteenth-century Germany, where the educational programs of the workers' movement sought to differentiate themselves from children and schooling (Savicevic, 1998). In the second half of the twentieth century , andragogy was connected with the professionalization of adult education in both Europe and America. Out of the move to professionalize, as many as five conceptions of andragogy can be identified (Savicevic, 1991). For example, in some Central and Eastern European countries, where 'pedagogy is an integrating science of education,' andragogy is one of the disciplines of pedagogy (Savicevic, 1991, p. 197); in other countries andragogy and pedagogy are subsumed under the general science of education, and in yet other countries, andragogy is considered an independent scientific discipline.
+
+Today the term andragogy is used in Poland, Germany , the Netherlands, Czechoslovakia, Russia, Yugoslavia, and other central and eastern European countries to refer to what the British and Americans call adult education (Draper, 1998). That is, andragogy as it has evolved in Europe is equivalent to our North American understanding of adult education as a professional field of practice (of which andragogy is but one prescriptive model of 'how teachers and students should behave' [Savicevic, 1991, p. 198]). Even with these differences, Savicevic points out that both usages have several elements in common: roots in European culture; a 'philosophy of lifelong education in which education and learning of adults is of primary importance'; increasing professionalism where andragogy , 'under different names, has found its place in universities' as a discipline; and the emergence of professional organizations and publications (1998, p. 116). At the heart of the enterprise, whether it' s called andragogy or adult education, is 'the understanding of the position of a grown person in the process of education' (p. 114).
+
+Context-Free Andragogy? The second stream of work in the 1990s has been a critique of the psychological focus of North American andragogy (Grace, 1996; Little, 1994; Pearson and Podeschi, 1997; Pratt, 1993). In the 1993 edition of Update on Adult Learning Theory, Pratt predicted that scholarship  on  andragogy  would  be  characterized  by  the  'tension  between human agency and social structures as the most potent influences on adult learning. Here, andragogy is unconditionally on the side of human agency and the power of the individual to shed the shackles of history and circumstance in pursuit of learning' (p. 22).
+
+Based in humanistic psychology, Knowles's version of andragogy presents the individual learner as one who is autonomous, free, and growthoriented. Critics have pointed out that there is little or no acknowledgment that every person has been shaped by his or her culture and society, that every person has a history , and that social institutions and structures define, to a large extent, the learning transaction irrespective of the individual learner. Grace (1996, p. 383) notes that andragogy was introduced into North America in the late 1960s, 'when action-oriented curricula that valued individual experience were advocated. The individual had to keep up and self-improvement was in vogue. ' And even though Knowles promoted
+
+andragogy for the next thirty years, he never considered 'the organizational and social impediments to adult learning; he never painted the 'big picture.' He chose the mechanistic over the meaningful' (Grace, 1996, p. 386). Grace predicts that because 'Knowles has reduced the adult learner to a technically proficient droid, operating in a world where formulaic social planning and self-directed learning mantras are the order of the day ,' he 'is in danger of being left behind' (p. 391).
+
+Discussions of andragogy in the decade of the 1990s demonstrate both its usefulness for exploring some of the definitional and philosophical issues related to the evolution of adult education as a scientific discipline, and its strengths and weaknesses as a guide to practice. And it is as a guide to practice that andragogy has had its biggest impact. As Pratt (1993, p. 21) in his assessment of andragogy writes, 'andragogy has been adopted by legions of adult educators around the world. . . . Very likely , it will continue to be the window through which adult educators take their first look into the world of adult education.' However, 'while andragogy may have contributed to our understanding of adults as learners, it has done little to expand or clarify our understanding of the process of learning,' nor has it achieved the status of 'a theory of adult learning'(Pratt, 1993, p. 21).
+
+## Self-Directed Learning (SDL)
+
+About the same time that Knowles introduced andragogy to North American adult educators, self-directed learning appeared as another model that helped define adult learners as different from children. Knowles (1975) himself contributed to the self-directed learning literature with a book explaining  the  concept  and  outlining  how  to  implement  it  through  learning contracts. And it might be recalled that the first assumption underlying Knowles's view of andragogy is that learners become increasingly selfdirected as they mature. However, it was Tough (1967, 1971), building on the work of Houle (1961), who provided the first comprehensive description of self-directed learning as a form of study . T ough studied and described the self-planned learning projects of sixty-six Canadians. The uncovering and documenting of this type of learning-learning that is widespread, that occurs as part of adults' everyday life, and that is systematic yet does not depend on an instructor or a classroom-generated one of the major thrusts of research in the field of adult education.
+
+Based on the pioneering work of Houle, Tough, and Knowles, early research in self-directed learning was descriptive, verifying the widespread presence of self-directed learning among adults and documenting the process by which it occurred. Overlapping with descriptive research, and continuing today , is work on model-building, discussions of the goals and ethics of SDL, clarifications of the nature of self-direction, and ways of assessing self-direction in learning. I will first summarize the literature according to the three categories presented in Merriam and Caffarella's 1999 review-the goals, the
+
+process, and the learner. This section is followed by an appraisal of the current status of self-directed learning research.
+
+The Goals, the Process, the Learner. Depending on the philosophical orientation  of  the  writer,  the  goals  of  self-directed  leaning  vary .  Those grounded in a humanistic philosophy posit that self-directed learning should have as its goal the development of the learner's capacity to be self-directed. Knowles and Tough wrote from this perspective as do Brockett and Hiemstra (1991). In their Personal Responsibility Orientation (PRO) model of selfdirected learning, human nature that is 'basically good . . . accepting responsibility for one's own learning' and being proactive drive their model (p. 26).
+
+A second goal is the fostering of transformational learning (Brookfield, 1986, Mezirow, 1985). Transformational learning as presented by Mezirow (see Chapter Two) posits critical reflection by the learner as central to the process (2000). This critical reflection is an 'understanding of the historical, cultural, and biographical reasons for one's needs, wants, and interests. . . . Such self-knowledge is a prerequisite for autonomy in self-directed learning' (Mezirow, 1985, p. 27). Further, it is our job as adult educators 'to assist adults to learn in a way that enhances their capability to function as selfdirected learners' (Mezirow , 1981, p. 137).
+
+The third goal for self-directed learning is the promotion of emancipatory learning and social action. Just as andragogy has been critiqued for ignoring the context of learning, so too some writers would like to see selfdirected learning positioned more for social and political action than individual learning. Both Brookfield (1993) and Collins (1996) call for a more critical, political analysis of SDL. An example of this orientation is a recent study by Andruske (2000), wherein she investigated the self-directed learning projects of women on welfare. She found that the women became 'political change agents as they attempt[ed] to control and to initiate change in their everyday worlds in response to oppressive external structures' (p. 11).
+
+How one actually works through a self-directed learning experience has generated a number of models of the process. The earliest models proposed by Tough (1971) and Knowles (1975) are the most linear, moving from diagnosing needs to identifying resources and instructional formats to evaluating outcomes. Models developed in the late 1980s and the 1990s are less linear and more interactive; in such models not only the learner but the context  of  the  learning  and  the  nature  of  the  learning  itself  are  taken  into account. In Danis's (1992) model, for example, learning strategies, phases of the learning process, the content, the learner, and the environmental factors in the context must all be taken into account in mapping the process of SDL.
+
+What Merriam and Caffarella (1999) term 'instructional' models of the process focus on what instructors can do in the formal classroom setting to foster self-direction and student control of learning. The best known of these is Grow's (1991, 1994) Staged Self-Directed Learning (SSDL) model. Grow presents a matrix whereby learners can locate themselves in terms of their readiness for and comfort with being self-directed, and instructors can match the
+
+learner's stage with appropriate instructional strategies. For example, whereas a dependent learner needs more introductory material and appreciates lecture, drill, and immediate correction, a self-directed learner can engage in independent projects, student-directed discussions, and discovery learning.
+
+In addition to goals and process, the literature can be categorized according to the learner and the extent to which self-directedness is an a priori personal characteristic and associated with other variables such as educational level, creativity , learning style, and so on. T wo scales of self-directedness, one measuring readiness (Guglielmino, 1997), and one measuring personal characteristics (Oddi, 1986), have been used in a number of studies. In addition to these empirical studies, the relationship between autonomy and self-directedness has been explored. Candy (1991, p. 309) writes that since a learner's autonomy is likely to 'vary from situation to situation,' educators should not assume that because a person has been self-directed in one situation, 'he or she will be able to succeed in a new area: Orientation, support and guidance may all be required in the first stages of a learning project.'
+
+Current Assessment of SDL. The preceding brief overview of selfdirected learning draws from a very broad literature base. Contributing to the literature has been fourteen years of meetings of the annual International Symposium on Self-Directed Learning. As the continuing existence of this conference attests, self-directed learning remains a viable arena for theory building related to adult learning. However, self-directed learning appears to be at a juncture in terms of which direction research and theory building should take in order to advance our understanding of this important dimension of adult learning. In an attempt to address this issue, Brockett et al. (2000) conducted a content analysis of 122 articles on self-directed learning published in fourteen periodicals between 1980 and 1998. They found that there has been a steady decline in the number of articles on SDL since the mid-1980s. Brockett (2000, p. 543) comments that this indicator, along with the shift away from 'the individual adult learner toward looking at the sociopolitical context of adult education,' might suggest that SDL has no future as a means for understanding adult learning. However, he makes the case that rather than move away from thirty years of scholarship on SDL, 'the real challenge . . . is how to take the study of self-direction to a new level' (p. 543). The development of another instrument, a focus on the quality of the experience, studying how people engage and manage their self-directed learning, and asking about the ethical use or misuse of SDL are suggestions for this new work (Brockett, personal communication, September 28, 2000). Merriam and Caffarella (1999) list the following areas for investigation, all of which could expand our understanding of adult learning through SDL:
+
+- · How some adults remain self-directed in their learning over long periods of time
+- · How the process changes as learners move from novice to expert in subject matter and learning strategies
+
+- · How issues of power and control interact with the use of SDL in formal settings
+- · Whether being self-directed as a learner has an impact on one's instructional and planning activities
+- • What the role is of public policy in SDL
+- • What the critical practice of SDL looks like in practice
+- · How contextual factors interact with the personal characteristics of selfdirected learners
+
+Clearly, there are numerous possibilities for how future research on selfdirected learning might enrich adult education practice as well as contribute to theory in adult learning.
+
+## Conclusion
+
+This chapter began by explaining the context in which andragogy and SDL emerged. Appearing at about the same time, andragogy and self-directed learning were the first two attempts by adult educators to define adult education as a unique field of practice, one that could be differentiated from learning in general and childhood education in particular. Ironically , both have been criticized for a blinding focus on the individual learner while ignoring the sociohistorical context in which it occurs. However, both andragogy and SDL have become so much a part of adult education's identity , and have had such an impact on practice, that relegating them to the status of historical artifact is inconceivable. And, as we've seen in this chapter, today's scholars in both andragogy and self-directed learning are grappling with the tough issues. A more likely scenario is that both of these 'pillars' of adult learning theory will continue to engender debate, discussion, and research, and in so doing, further enrich our understanding of adult learning.
+
+## References
+
+Andruske, C. L. 'Self-Directed Learning as a Political Act: Learning Projects of Women on Welfare.' Proceedings of the 41st Annual Adult Education Research Conference,Vancouver, British Columbia, 2000.
+
+Brockett, R. B. 'Is It Time to Move On? Reflections on a Research Agenda for SelfDirected Learning in the 21st Century.' Proceedings of the 41st Annual Adult Education Research Conference, Vancouver, British Columbia, 2000.
+
+Brockett, R. B., and Hiemstra, R. Self-Direction in Adult Learning: Perspectives on Theory, Research, and Practice. London and New York: Routledge, 1991.
+
+Brockett, R. B., et al. 'Two Decades of Literature on SDL: A Content Analysis.' Paper presented at the 14th International SDL Symposium, Boynton Beach, Florida, 2000.
+
+Brookfield, S. Understanding and Facilitating Adult Learning. San Francisco: Jossey-Bass, 1986.
+
+Brookfield, S. 'Self-Directed Learning, Political Clarity, and the Critical Practice of Adult Education.' Adult Education Quarterly, 1993, 43 (4), 227-242.
+
+Candy, P. C. Self-Direction for Lifelong Learning. San Francisco: Jossey-Bass, 1991.
+
+Collins, M. 'On Contemporary Practice and Research: Self-Directed Learning to Critical Theory.' In R. Edwards, A. Hanson, and P. Raggatt (eds.), Boundaries of Adult Learning: Adult Learners, Education and Training. New York: Routledge, 1996.
+
+Danis, C. 'A Unifying Framework for Data-Based Research into Adult Self-Directed Learning.' In H. B. Long and others (eds.), Self-Directed Learning: Application and Research. Norman: Oklahoma Research Center for Continuing Professional and Higher Education, University of Oklahoma, 1992.
+
+Davenport, J., and Davenport, J., 'A Chronology and Analysis of the Andragogy Debate.' Adult Education Quarterly, 1985, 35 (3), 152-159.
+
+- Draper, J. A. 'The Metamorphoses of Andragogy.' The Canadian Journal for the Study of Adult Education, 1998, 12 (1), 3-26.
+- Grace, A. P. 'Taking a Critical Pose: Andragogy-Missing Links, Missing Values.' International Journal of Lifelong Education, 1996, 15 (5), 382-392.
+- Grow, G. 'Teaching Learners to Be Self-Directed: A Stage Approach.' Adult Education
+- Quarterly, 1991, 41 (3), 125-149.
+- Grow, G. 'In Defense of the Staged Self-Directed Learning Model.' Adult Education Quarterly, 1994, 44 (2), 109-114.
+- Guglielmino, L. M. 'Reliability and Validity of the Self-Directed Learning Readiness Scale and the Learning Preference Assessment (LPA).' In H. B. Long and others (eds.), Expanding Horizons in Self-Directed Learning. Norman: Public Managers Center, University of Oklahoma, 1997.
+
+Hanson, A. 'The Search for a Separate Theory of Adult Learning: Does Anyone Really Need Andragogy?' In R. Edwards, A. Hanson, and P. Raggatt (eds.), Boundaries of Adult Learning. New York: Routledge, 1996.
+
+Hartree, A. 'Malcolm Knowles' Theory of Androgogy: A Critique.' International Journal of Lifelong Education, 1984, 3 (3), 203-210.
+
+- Henschke, J. A. 'Historical Antecedents Shaping Conceptions of Andragogy: A Comparison of Sources and Roots.' Paper presented at the International Conference on Research in Comparative Andragogy, Radovljica, Slovenia, 1998.
+
+Houle, C. O. The Inquiring Mind. Madison: University of Wisconsin Press, 1961.
+
+- Houle, C. O. The Design of Education. (2nd ed.) San Francisco: Jossey-Bass, 1996.
+- Knowles, M. S. 'Andragogy, Not Pedagogy.' Adult Leadership, 1968, 16 (10), 350-352, 386. Knowles, M. S. Self-Directed Learning. New York: Association Press, 1975.
+- Knowles, M. S. The Modern Practice of Adult Education: From Pedagogy to Androgogy. (2nd ed.) New York: Cambridge Books, 1980.
+- Knowles, M. S. The Adult Learner: A Neglected Species. (3rd ed.) Houston: Gulf, 1984.
+- Knowles, M. S. The Making of an Adult Educator. San Francisco: Jossey-Bass, 1989.
+- Knowles, M. S., and Associates. Andragogy in Action: Applying Modern Principles of Adult Learning. San Francisco: Jossey-Bass, 1985.
+- Little, D. 'Toward Recovering and Reconstructing Andragogy.' In Proceedings of the
+- Adult Education Research Conference, Knoxville: University of Tennessee, May, 1994.
+- Lorge, I. 'Intellectual Changes During Maturity and Old Age,' Review of Educational Research, 1944, 14 (4), 438-443.
+- Lorge, I. 'Intellectual Changes During Maturity and Old Age,' Review of Educational Research, 1947, 17 (5), 326-330.
+
+Merriam, S. B., and Caffarella, R. S. Learning in Adulthood (2nd ed.), San Francisco: Jossey-Bass, 1999.
+
+- Merriam, S. B., Mott, V. W., and Lee, M. 'Learning That Comes from the Negative Interpretation of Life Experience.' Studies in Continuing Education, 1996, 18 (1), 1-23.
+
+Mezirow, J. 'A Critical Theory of Adult Learning and Education.' Adult Education, 1981, 32 (1), 3-27.
+
+Mezirow, J. 'A Critical Theory of Self-Directed Learning.' In S. Brookfield (ed.), SelfDirected Learning: From Theory to Practice. New Directions for Continuing Education, no. 25. San Francisco: Jossey-Bass, 1985.
+
+Mezirow, J., and Associates. Learning as Transformation: Critical Perspectives on a Theory in Progress. San Francisco: Jossey-Bass, 2000.
+
+- Oddi, L. F. 'Development and Validation of an Instrument to Identify Self-Directed Continuing Learners.' Adult Education Quarterly, 1986, 36 (2), 97-107.
+- Pastuovic, N. 'The Science(s) of Adult Education.' International Journal of Lifelong Education, 1995, 14 (4), 273-291.
+
+Pearson, E., and Podeschi, R. 'Humanism and Individualism: Maslow and His Critics.' Proceedings of the Adult Education Research Conference, no. 38, Stillwater: Oklahoma State University, May, 1997.
+
+Pratt, D. D. 'Andragogy After Twenty-Five Years.' In S. B. Merriam (ed.), Update on Adult Learning Theory. New Directions for Adult and Continuing Education, no. 57, San Francisco: Jossey-Bass, 1993.
+
+- Savicevic, D. M. 'Modern Conceptions of Andragogy: A European Framework.' Studies in the Education of Adults, 1991, 23 (2), 179-201.
+- Savicevic, D. M. 'Understanding Andragogy in Europe and America: Comparing and Contrasting. In J. Reischmann, B. Michal, and J. Zoran (eds.), Comparative Adult Education 1998: The Contribution of ISCAE to an Emerging Field of Study. Ljubljan, Slovenia: Slovenian Institute for Adult Education, 1998.
+- Schaie, K. W., and Willis, S. L. Adult Development and Aging. (2nd ed.) Boston: Little, Brown, 1986.
+- Thorndike, E. L., Bregman, E. O., Tilton, J. W., and Woodyard, E. Adult Learning. New York: Macmillan, 1928.
+- Tough, A. Learning Without a Teacher. Educational Research Series, no. 3. Toronto: Ontario Institute for Studies in Education, 1967.
+- Tough, A. The Adult's Learning Projects: A Fresh Approach to Theory and Practice in Adult Learning. Toronto: Ontario Institute for Studies in Education, 1971.

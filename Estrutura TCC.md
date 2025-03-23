@@ -24,16 +24,19 @@ Analisar de que forma metodologias ativas de ensino podem contribuir para o dese
 
 ### Objetivos Específicos
 
-- Identificar as principais metodologias ativas de ensino e estategias de aprendizagem que podem auxiliar o desenvolvimento da aprendizagem autodirigida.
-- Caracterizar as habilidades e competências necessárias para formação dos alunos da licenciatura em Computação.
-- Analisar as evidências que possam auxiliar o desenvolvimento da aprendizagem autodirigida e discutir as implicações dessas estratégias na formação dos alunos da licenciatura em Computação.
+Mapear os principais conceitos e modelos teóricos sobre aprendizagem autodirigida (SDL) aplicados ao ensino superior.
+
+Identificar metodologias ativas utilizadas em cursos de Computação e sua relação com o estímulo à autonomia dos estudantes.
+
+Analisar estudos de caso e evidências empíricas sobre o impacto de metodologias ativas no desenvolvimento da aprendizagem autodirigida.
+
+Caracterizar o perfil e as competências esperadas do aluno de Licenciatura em Computação frente às demandas da SDL.
 
 ## 1.3 Estrutura do Trabalho
 
 Para chegar ao objetivo proposto, o trabalho está organizado em sete capítulos que se complementam para oferecer uma visão abrangente sobre a aprendizagem autodirigida na formação de licenciandos em Computação.
-Começando com esta introdução, onde apresentamos o tema, o problema de pesquisa e nossos objetivos. Na sequência, exploramos os fundamentos teóricos da aprendizagem autodirigida e das metodologias ativas de ensino.
-No terceiro capítulo, revisamos o que outros pesquisadores já descobriram sobre o tema, trazendo exemplos práticos de como essas metodologias foram aplicadas. Depois, explicamos como conduzimos nossa pesquisa, detalhando as ferramentas tecnológicas que utilizamos para coletar e analisar os dados.
-O quinto capítulo é dedicado a entender quem é o licenciado em Computação - sua formação, habilidades e desafios no mercado de trabalho atual. Em seguida, compartilhamos os resultados que encontramos, discutindo como a aprendizagem autodirigida pode transformar a formação desses profissionais.
+Começando com esta introdução, onde apresentamos o tema, o problema de pesquisa e nossos objetivos. Na sequência, exploramos os fundamentos teóricos da aprendizagem autodirigida, sua relação com as metodologias ativas de ensino e a indentificação das necessidades e perfil do aluno de Licenciatura em Computação.
+No terceiro capítulo, revisamos o que outros pesquisadores já descobriram sobre o tema, trazendo exemplos práticos de como essas metodologias foram aplicadas. Depois, explicamos como conduzimos nossa pesquisa, detalhando as ferramentas tecnológicas que utilizamos para coletar e analisar os dados, alem do perfil do aluno de Licenciatura em Computação como recorte da pesquisa. Em seguida, compartilhamos os resultados que encontramos, discutindo como desenvolver a aprendizagem autodirigida na formação desses profissionais.
 Finalizamos com nossas conclusões, onde resumimos as descobertas mais importantes, respondemos à nossa pergunta inicial e sugerimos caminhos para novas pesquisas sobre o tema.
 
 # **2\. Fundamentação Teórica** {#2.-fundamentação-teórica}

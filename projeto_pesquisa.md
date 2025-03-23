@@ -4,26 +4,26 @@
 **conhecimento prévio:(REFERENCIA TEORICO**
 
 - O que é aprendizagem autodirigida?
-
-  > é uma abordagem educacional onde o aluno é o responsável pelo seu processo de aprendizagem e utiliza os recurso necessarios para desenvolver novas habilidades e conhecimentos
-
-- Qual suas relevancia
+- Qual suas relevancia/
 - quais elementos à compoe?
-  - Caracteristicas e Habilidades..
-- Principais autores do tema
-- O que é a escala de prontidão?
-- O que é andragogia?
+  - Caracteristicas, Habilidades..
+- Principais autores do tema?
+- Como avaliar a SDL
+  - O que é a escala de prontidão para SDL?
+- Contexto da SDL
+  - O que é andragogia?
+  - O que lifelong learning?
 - Qual o Papel do professor na aprendizagem autodirigida?
-- O que Estrategias/Metodologias de Ensino?
+- O que Estrategia/Metodologia de Ensino?
 - Qual a relação de metodologias ativas com aprendizagem autodirigida?
+- Quais outras praticas alem da metodologia ativa melhora a aprendizagem autodirigida?
 - Quais as metodologias mais relevantes nesse contexto?
-- O que sao agencias de ensino-aprendizagem
-- O que Estrategias/Metodologias de Ensino?
+- O que sao agencias de ensino-aprendizagem?
 - O que é um perfil de aprendizagem?
-- Quais as caracteristicas de um Aluno influenciam na aprendizagem dele?
+- Quais as caracteristicas de um Aluno Adulto influenciam na aprendizagem dele?
 - Qual o perfil referente ao licenciado
 - Qual o perfil referente ao Cientista da Computação
-- Como os dois perfis se mesclam?
+- Como os dois perfis se mesclam no licenciado em computação?
 
 pra responder essa pergunta, vou atras das evidencias de estrategias de ensino e metodologias que aumentaram a aprendizagem autodirigida em alunos do ensino superior
 
