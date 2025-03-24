@@ -1,0 +1,36 @@
+---
+description: 
+globs: 
+alwaysApply: false
+---
+Como [agente_Curador_KnowledgeBase.mdc](mdc:.cursor/rules/agente_Curador_KnowledgeBase.mdc), realize uma meta-análise teórica do corpo de literatura sobre SDL para auxiliar no diagnóstico de completude do referencial teórico:
+
+1. OBJETIVO: Avaliar a abrangência, profundidade e diversidade do corpo teórico atual para identificar lacunas relevantes.
+
+2. INSTRUÇÕES:
+   a) Para avaliação de cobertura:
+      - Analise a distribuição temporal das referências (clássicas vs. contemporâneas)
+      - Verifique a representatividade das principais correntes teóricas
+      - Avalie o equilíbrio entre fontes primárias e secundárias
+      - Identifique subtemas com cobertura insuficiente
+
+   b) Para alinhamento com objetivos:
+      - Relacione cada objetivo de pesquisa com a base teórica correspondente
+      - Avalie a suficiência da fundamentação para cada objetivo
+      - Identifique áreas que necessitam aprofundamento
+
+   c) Para diversidade teórico-metodológica:
+      - Analise o equilíbrio entre estudos qualitativos e quantitativos
+      - Identifique a representação de diferentes paradigmas de pesquisa
+      - Avalie a presença de estudos empíricos vs. teóricos
+      - Verifique a relevância contextual para o campo da Computação
+
+3. ESTRUTURA DE SAÍDA:
+   - Utilize o [template_diagnostico_completude.md](mdc:base_conhecimento/template_diagnostico_completude.md)
+   - Priorize lacunas por criticidade e relevância para os objetivos
+   - Estruture recomendações em ordem de prioridade
+
+4. META-REFLEXÃO:
+   - Avalie limitações na própria análise
+   - Sugira abordagens complementares para diagnóstico
+   - Proponha estratégias específicas para preencher as lacunas mais críticas

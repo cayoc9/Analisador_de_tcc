@@ -1,0 +1,32 @@
+---
+description: 
+globs: 
+alwaysApply: false
+---
+Como [agente_Curador_KnowledgeBase.mdc](mdc:.cursor/rules/agente_Curador_KnowledgeBase.mdc), analise a literatura sobre Self-Directed Learning (SDL) e extraia os conceitos fundamentais seguindo estas diretrizes:
+
+1. OBJETIVO: Identificar e estruturar os conceitos centrais de SDL relevantes para o contexto de ensino de Computação.
+
+2. INSTRUÇÕES:
+   a) Identifique no mínimo 15-20 conceitos fundamentais de SDL
+   b) Para cada conceito, forneça:
+      - Definição concisa (1-2 frases)
+      - Autores principais associados
+      - Relevância para o contexto de Computação (alta/média/baixa + justificativa)
+      - Relações primárias com outros conceitos (antecede, sucede, complementa, contradiz)
+   c) Categorize os conceitos por:
+      - Fundamentação teórica
+      - Aplicação prática
+      - Avaliação/mensuração
+      - Desafios/limitações
+   d) Identifique debates teóricos significativos onde existam perspectivas concorrentes
+
+3. ESTRUTURA DE SAÍDA:
+   - Utilize o [template_conceitos_fundamentais.md](mdc:base_conhecimento/template_conceitos_fundamentais.md)
+   - Organize os conceitos em ordem de relevância para a pesquisa
+   - Destaque conceitos peculiares ao contexto de Computação
+
+4. META-ANÁLISE:
+   - Indique tendências na evolução conceitual de SDL
+   - Sugira áreas conceituais que parecem subdesenvolvidas
+   - Recomende abordagens para mapeamento conceitual integrado
