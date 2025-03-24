@@ -1,0 +1,239 @@
+![][image1]  
+**MINISTÉRIO DA EDUCAÇÃO**
+
+**UNIVERSIDADE FEDERAL RURAL DA AMAZÔNIA**
+
+**INSTITUTO CIBERESPACIAL**
+
+**CURSO DE GRADUAÇÃO EM LICENCIATURA EM COMPUTAÇÃO**
+
+**Cayo Murilo Pereira Figueiredo**
+
+**Wallace Patrick Batista Da Cruz**
+
+**A aprendizagem autodirigida como ferramenta de auxílio no Curso de Licenciatura em Computação**
+
+**Belém – PA**
+
+**2025**
+
+**Cayo Murilo Pereira Figueiredo**
+
+**Wallace Patrick Batista Da Cruz**
+
+**A aprendizagem autodirigida como ferramenta de auxílio no Curso de Licenciatura em Computação**
+
+Trabalho de Conclusão de Curso II apresentado ao  Curso de Licenciatura Plena em Computação do  Instituto Ciberespacial da Universidade Federal  Rural da Amazônia, como requisito parcial para a  obtenção do grau de Licenciado Pleno em  Computação.  
+
+Orientadora: Prof.ª Msc. Larissa Sato Farias.
+
+**Belém – PA**
+
+**2025**
+
+**SUMÁRIO**
+
+**[1 INTRODUÇÃO	4](#1-introdução)**
+
+[1.1 Problema de Pesquisa e Justificativa	4](#1.1-problema-de-pesquisa-e-justificativa)
+
+[1.2 Objetivos	5](#1.2-objetivos)
+
+[Objetivo geral	5](#heading=h.te1zr8b0wkgj)
+
+[Objetivos Específicos	5](#objetivos-específicos)
+
+[**2 REFERENCIAL TEÓRICO	5**](#2-referencial-teórico)
+
+[Aprendizagem autodirigida	5](#aprendizagem-autodirigida)
+
+[**3 REVISÃO DE LITERATURA	7**](#3-revisão-de-literatura)
+
+[**4 METODOLOGIA	15**](#4-metodologia)
+
+[4.1 O perfil do Aluno de Licenciatura em Computação	17](#4.1-o-perfil-do-aluno-de-licenciatura-em-computação)
+
+[**5 ANÁLISE E DISCUSSÃO DOS RESULTADOS	17**](#5-análise-e-discussão-dos-resultados)
+
+[**REFERÊNCIAS	18**](#referências)
+
+# 
+
+# 1 INTRODUÇÃO {#1-introdução}
+
+No cenário atual da educação superior, especialmente nos cursos de Licenciatura em Computação, a necessidade de desenvolver a autonomia do estudante se torna cada vez mais evidente diante das constantes mudanças tecnológicas e pedagógicas. A aprendizagem autodirigida (*Self-Directed Learning* – SDL) surge como uma abordagem fundamental para capacitar futuros professores a se adaptarem e inovarem continuamente. Segundo Knowles (1975), essa abordagem estimula a autonomia, o pensamento crítico e a capacidade de resolver problemas de forma independente.  
+A educação tradicional, baseada na centralização do professor, tem sido desafiada pela necessidade de preparar estudantes para ambientes de aprendizado mais dinâmicos. Nos cursos de Licenciatura em Computação, essa necessidade é amplificada pela rápida evolução do conhecimento na área, exigindo que os licenciandos estejam constantemente atualizados com novas linguagens de programação, ferramentas e metodologias de ensino.  
+Além da relevância acadêmica, o desenvolvimento da SDL apresenta impactos significativos para o mercado de trabalho. Um relatório do *World Economic Forum* (2020) aponta que a capacidade de aprendizagem ao longo da vida é uma das competências mais valorizadas atualmente, especialmente em setores tecnológicos. Preparar licenciados em Computação que dominam essa abordagem pode contribuir para a formação de alunos mais preparados para os desafios do século XXI.
+
+## 1.1 Problema de Pesquisa e Justificativa {#1.1-problema-de-pesquisa-e-justificativa}
+
+Muitos estudantes de Licenciatura em Computação ainda apresentam dificuldades para desenvolver autonomia em seu processo de aprendizagem, o que impacta diretamente sua formação e futura atuação profissional. A rápida evolução tecnológica exige profissionais capazes de aprender continuamente, e se a formação continua pautada majoritariamente em métodos tradicionais, a lacuna entre a educação formal e as demandas da sociedade tenderá a aumentar.  
+Caso essa questão não seja abordada, o ensino de Computação poderá continuar defasado em relação às inovações tecnológicas, prejudicando tanto os licenciandos quanto seus futuros alunos. A falta de estímulo à autonomia pode gerar profissionais dependentes de instrução externa para atualização, comprometendo sua capacidade de inovação e adaptação.
+
+Esta pesquisa beneficiará diretamente estudantes e professores da Licenciatura em Computação, instituições de ensino superior, pesquisadores da área educacional e, em última instância, a sociedade, através da formação de professores mais preparados para promover a inclusão digital. Diante desse contexto, este estudo busca responder à seguinte questão: "Quais são as metodologias de ensino e estratégias de aprendizagem, que podem auxiliar o desenvolvimento da aprendizagem autodirigida nos alunos da licenciatura em Computação?"
+
+## 1.2 Objetivos {#1.2-objetivos}
+
+## Objetivo geral
+
+Analisar como as metodologias ativas de ensino contribuem para o desenvolvimento da aprendizagem autodirigida gerando mais autonomia nos alunos da Licenciatura em Computação.
+
+### Objetivos Específicos {#objetivos-específicos}
+
+- Identificar as principais metodologias ativas de ensino e estratégias de aprendizagem que podem auxiliar o desenvolvimento da aprendizagem autodirigida.  
+- Caracterizar as habilidades e competências necessárias para formação dos alunos da licenciatura em Computação.  
+- Relacionar os estudos de aprendizagem autodirigida com a formação do licenciado em Computação
+
+# 2 REFERENCIAL TEÓRICO {#2-referencial-teórico}
+
+Parágrafo de introdução
+
+### Aprendizagem autodirigida {#aprendizagem-autodirigida}
+
+A aprendizagem autodirigida (Self-Directed Learning \- SDL) é um conceito essencial nos estudos sobre ensino e aprendizagem, especialmente no ensino superior, pois permite que os estudantes desenvolvam autonomia e se adaptem a diferentes desafios acadêmicos e profissionais. Nesse modelo, o estudante identifica suas próprias necessidades educacionais, estabelece metas, escolhe estratégias de estudo e avalia seu progresso de maneira independente, sem depender exclusivamente da instrução direta do professor (Merriam & Caffarella, 1999).  
+Diferentes abordagens teóricas explicam a SDL sob distintas perspectivas. O modelo de Brockett e Hiemstra (1991) diferencia a autodireção em duas dimensões interdependentes. A primeira é o processo de autodireção no aprendizado, que se refere à maneira como os estudantes organizam e controlam seu aprendizado, definindo metas e ajustando estratégias. A segunda é o atributo pessoal de autodireção, relacionado às características individuais, como motivação, iniciativa e autodisciplina, fundamentais para a aprendizagem contínua.  
+Complementando essa visão, Candy (1991) considera a SDL um processo dinâmico e influenciado pelo ambiente educacional e pelas interações sociais. Segundo o autor, metodologias pedagógicas que incentivam a participação ativa dos alunos contribuem para o desenvolvimento da autonomia e para a construção do conhecimento de maneira crítica e reflexiva.  
+Garrison (1997) apresenta um modelo para a SDL baseado na interdependência de três dimensões fundamentais: autogestão, automonitoramento e motivação. Enquanto a autogestão envolve o planejamento da aprendizagem, o automonitoramento permite ajustes contínuos no processo. A motivação, por sua vez, é essencial para o engajamento do estudante. Esse modelo reforça a importância de metodologias que estimulem a participação ativa dos alunos, criando um ambiente propício à aprendizagem autodirigida.  
+Knowles (1975) insere a aprendizagem autodirigida no contexto da andragogia, que analisa como os adultos aprendem. Ele argumenta que, à medida que os estudantes amadurecem, necessitam de maior autonomia no processo de aprendizagem. Nesse contexto, o professor assume o papel de facilitador, auxiliando os alunos no desenvolvimento de estratégias eficazes de aprendizado. Além disso, Knowles destaca que a aprendizagem deve estar conectada a experiências práticas, garantindo a aplicabilidade dos conhecimentos adquiridos.  
+A partir desses modelos, a aprendizagem autodirigida pode ser compreendida como um fenômeno multidimensional, envolvendo tanto habilidades individuais, como planejamento e autodisciplina, quanto fatores externos, como o ambiente educacional e a interação social. Assim, a SDL constitui um conceito fundamental para a educação, fornecendo aos estudantes maior autonomia e preparando-os para um aprendizado contínuo ao longo da vida.  
+A aprendizagem autodirigida é essencial no ensino superior, pois permite que os estudantes desenvolvam autonomia e enfrentam desafios acadêmicos e profissionais. Além disso, sua relação com metodologias ativas possibilita um ambiente estruturado para o desenvolvimento dessa independência, tornando o estudante protagonista do seu aprendizado.
+
+Nesse sentido, as metodologias ativas desempenham um papel crucial ao oferecer estratégias didáticas que incentivam a autonomia e o engajamento dos alunos no processo de aprendizagem. As metodologias ativas de aprendizagem oferecem uma alternativa ao ensino tradicional, no qual o professor transmite conhecimento e o aluno assume um papel passivo. Essas metodologias colocam o estudante no centro do aprendizado, incentivando sua participação ativa e promovendo autonomia, pensamento crítico e colaboração na resolução de problemas reais. A aprendizagem ativa envolve os alunos diretamente, incentivando-os a refletir, discutir e aplicar conceitos. Esse modelo melhora a retenção de conhecimento porque conecta novos conteúdos às experiências anteriores dos estudantes (Mazur, 2015).
+
+Diferentes abordagens sustentam esses princípios. Eric Mazur desenvolveu a Instrução por Pares na década de 1990, incentivando estudantes a discutir conceitos e construir conhecimento em colaboração. Howard Barrows introduziu a Aprendizagem Baseada em Problemas nos anos 1960, desafiando alunos a resolver problemas do mundo real para adquirir conhecimento de forma aplicada. John Dewey inspirou a Aprendizagem Baseada em Projetos, que promove o desenvolvimento de projetos interdisciplinares para conectar teoria e prática.
+
+Novak, Patterson, Gavrin e Christian criaram o Just-in-Time Teaching no final da década de 1990, adaptando os conteúdos das aulas conforme as dificuldades identificadas previamente nos alunos. Bergmann e Sams popularizaram a Sala de Aula Invertida em 2007, permitindo que os alunos estudassem a teoria antes das aulas presenciais, reservando o tempo em sala para aprofundamento e interação. A Gamificação, por sua vez, utiliza elementos de jogos, como desafios e recompensas, para engajar os estudantes no processo de aprendizagem.
+
+Apesar dos benefícios, a implementação dessas metodologias enfrenta desafios. Muitos professores resistem à mudança, seja por falta de formação específica, seja pela ausência de suporte institucional, como destaca Masetto (2003). Mota e Scott (2014) apontam que as avaliações tradicionais nem sempre capturam a complexidade do aprendizado ativo, dificultando a mensuração do progresso dos alunos. A implementação eficaz de metodologias ativas impulsiona a aprendizagem autodirigida, preparando os alunos para desafios acadêmicos e profissionais. No entanto, sua adoção exige adaptação docente e suporte institucional para garantir um ambiente educacional inovador e alinhado às demandas do século XXI.
+
+# 3 REVISÃO DE LITERATURA {#3-revisão-de-literatura}
+
+A seleção dos artigos foi conduzida com base em critérios de inclusão e exclusão, com o objetivo de garantir a relevância e a qualidade das fontes analisadas. Foram incluídos estudos publicados nos últimos dez anos, assegurando a atualidade das informações, além de pesquisas que tratam da aprendizagem autodirigida no ensino superior e aquelas que apresentam metodologias ou modelos aplicáveis ao ensino de computação e tecnologia. Também foram considerados artigos que abordam a SDL dentro de contextos em que suas abordagens possam ser vistas como metodologias ativas, ampliando a compreensão do impacto dessas metodologias no ensino. Por outro lado, foram excluídos trabalhos não revisados por pares, como preprints e artigos sem validação científica, estudos que tratam de autodidatismo sem vínculo com práticas educacionais formais e artigos cujo texto completo não estava acessível.  Dos 58 artigos adquiridos na aquisição de literatura, serão abordados 12 para a referência, na qual estão no quadro 01\.  
+Quadro 1 \- Artigos Revisados
+
+| Nome do Artigo | Autor(es) | Ano | Fonte | Resumo |
+| ----- | ----- | ----- | ----- | ----- |
+| Student Perception of Active Learning Group in a Problem-Based Learning Curricular Environment | Cheryl Melovitz-Vasan, Matthew Gentile, Susan Huff, Nagaswami Vasan | 2018 | Medical Science Educator | Explora a percepção dos alunos sobre grupos de aprendizagem ativa em um currículo de aprendizagem baseada em problemas (PBL), destacando a aprendizagem autodirigida e colaboração. |
+| The Influence of Blended Learning Environment on Self-Regulated and Self-Directed Learning Skills of Learners | Ruchan Uz, Adem Uzun | 2018 | European Journal of Educational Research | Compara o impacto de ambientes de aprendizagem híbridos nas habilidades de auto-regulação e aprendizagem autodirigida, em comparação com métodos tradicionais. |
+| Teaching and Instructional Design Approaches to Enhance Students’ Self-Directed Learning in Blended Learning Environments | Dina Adinda, Najoua Mohib | 2020 | The Electronic Journal of e-Learning | Investiga abordagens de ensino e design instrucional que melhoram a aprendizagem autodirigida em ambientes híbridos, enfatizando métodos centrados no aluno. |
+| Self-study enhances the learning effect of discussions | Jaeseo Lim & Jooyong Park | 2023 | Journal of the Learning Sciences | Investiga como o autoestudo melhora os efeitos de aprendizagem nas discussões, com ênfase em métodos de aprendizagem ativa. |
+| Fostering Self-Directed Learning in Higher Education: The Efficacy of Guided Learning Approach among First-Year University Students in Malaysia | Ida Juliana Hutasuhut, Mohamad Azhari Abu Bakar, Kartini Abdul Ghani, Dorkas Ping Bilong  | 2023 | Journal of Cognitive Sciences and Human Development | Analisa a eficácia de uma abordagem guiada para fomentar a aprendizagem autodirigida entre estudantes universitários de primeiro ano na Malásia. |
+| Lessons from Self-Directed Learning Activities and Helping University Students Think Critically | Orjika Paschal Chukwunemerem | 2023 | Journal of Education and Learning | Apresenta os benefícios das atividades de aprendizagem autodirigida como ferramentas para aprimorar o pensamento crítico dos estudantes universitários. |
+| Self-study in Teaching and Teacher Education: Characteristics and contributions | Kathleen Pithouse-Morgan | 2022 | Teaching and Teacher Education | Analisa a pesquisa de autoestudo no ensino e educação de professores, destacando as contribuições para o desenvolvimento profissional e a aprendizagem colaborativa. |
+| Introducing cooperative learning: students’ attitudes towards learning and the implications for self-directed learning | Elsa Mentz, Sukie van Zyl | 2016 | Journal of Education | Explora as atitudes dos alunos em relação à aprendizagem cooperativa e as implicações para a aprendizagem autodirigida. |
+| Comparative study of self-directed learning and traditional teaching method in understanding cardio- respiratory physiology among medical undergraduates | Suchitra Palve , Sachin Palve | 2022 | Biomedicine V42 | Compara o impacto dos métodos de aprendizagem autodirigida e do ensino tradicional. |
+| Cooperative Learning Strategies for Promotion of Student’s self-direction | Gunārs Strods, Rēzeknes Augstskola  | 2015 | Education Reform in Comprehensive School: Education Content Research and Implementation Problems  | Aborda as estratégias de aprendizagem cooperativa para promover o aprendizado autodirigido e as habilidades colaborativas. |
+| Evaluation of Self-Directed Learning Readiness Among Medical Students in Sharjah, the United Arab Emirates | Emad A. Nosair , Mohammad Omar , Ghaith AlWawi  | 2024 | Careus Part pf Springer Nature | Avalia a prontidão para aprendizagem autodirigida entre estudantes de medicina em Sharjah, Emirados Árabes Unidos. |
+| In Search of Intellectual Stimulation: Understanding the Relationship Between Motivation, Deep Learning and Stimulation in the Higher Education Classroom | Sandeep Chowdhry, Renata Osowska | 2017 | Journal on Today’s Ideas Tomorrow’s Technologies,  | Investiga a relação entre motivação, aprendizagem profunda e estimulação no contexto da sala de aula universitária. |
+
+  Fonte: Elaborado Pelo Autor
+
+O artigo de Melovitz-Vasan et al. (2018) analisa a percepção dos estudantes sobre o uso de *Active Learning Group* (ALG), uma forma híbrida de *Problem-Based Learning* (PBL), dentro do currículo médico da Cooper Medical School of Rowan University. O estudo tem como objetivo avaliar a eficácia desse modelo de aprendizagem, o qual apresenta características de metodologias ativas, em termos de profissionalismo, experiência positiva de aprendizagem e colaboração entre os alunos. O ALG é uma metodologia colaborativa, que mistura a aprendizagem baseada em problemas com elementos de ensino tradicional, e envolve discussões de grupo guiadas por facilitadores que não atuam como professores ativos, mas orientam os alunos no processo de resolução de problemas clínicos.
+
+A pesquisa realizada na Cooper Medical School teve como foco a aplicação de um questionário a um grupo de estudantes de medicina para avaliar suas percepções sobre o modelo *Active Learning Group* (ALG). O questionário foi estruturado em três domínios principais: profissionalismo, experiência positiva de aprendizagem e parceria na colaboração. A análise dos dados revelou uma avaliação bastante positiva dos estudantes em relação ao impacto do ALG em seu aprendizado. Em especial, os alunos destacaram os benefícios do modelo no que diz respeito à colaboração entre eles e ao desenvolvimento de habilidades de resolução de problemas clínicos.
+
+Em relação ao profissionalismo, 95% dos estudantes consideraram a capacidade de trabalhar em equipe como um aspecto crucial, ressaltando a importância do trabalho colaborativo no ambiente acadêmico e profissional. Quanto à experiência positiva de aprendizagem, os alunos relataram que o ALG contribuiu significativamente para o aumento de sua compreensão do material do curso, além de melhorar suas habilidades de síntese de informações. No que tange à colaboração, a maioria dos estudantes expressou alta satisfação com o trabalho em equipe, enfatizando sua importância para o sucesso na resolução de problemas durante as atividades do ALG.
+
+Contudo, o estudo também identificou que uma parcela dos estudantes ainda prefere métodos de ensino mais tradicionais, como as palestras, e apontou que o modelo ALG precisa de ajustes na qualidade dos casos apresentados e no papel dos facilitadores para se tornar mais eficaz. Esses ajustes são necessários para garantir que o ALG atenda melhor às necessidades dos estudantes e maximize seu potencial de aprendizagem.
+
+A pesquisa conclui que o modelo ALG é eficaz para promover uma aprendizagem colaborativa e a construção de competências profissionais, especialmente no que diz respeito ao trabalho em equipe e à resolução de problemas clínicos. Os estudantes apreciaram a abordagem de aprendizagem ativa, mas a pesquisa também mostrou que ainda há espaço para melhorias na qualidade dos casos discutidos e na formação dos facilitadores. O estudo sugere que, para que o modelo seja mais eficaz, ele deve ser continuamente ajustado com base no feedback dos alunos e nas observações dos facilitadores. Além disso, os autores apontam que a próxima fase da pesquisa incluirá itens no questionário que abordem mais diretamente a prática reflexiva dos estudantes.
+
+O artigo demonstra que o ALG é eficaz na promoção da compreensão do conteúdo. Isso pode ser explicado pelo fato de a metodologia ser baseada no PBL, uma abordagem ativa reconhecida por fomentar habilidades relacionadas à aprendizagem autodirigida como a autonomia dos alunos e a criação de ambientes nos quais os estudantes participam ativamente.
+
+Seguindo esse raciocínio, os estudos de Adinda e Mohib (2020) e de Uz e Uzun (2018) compartilham pontos fundamentais sobre o papel dos ambientes de aprendizagem híbridos (blended learning) no desenvolvimento das habilidades de autodireção na aprendizagem, O artigo de Adinda e Mohib (2020) foca em como as abordagens de design instrucional influenciam a SDL, enquanto o segundo artigo observa que o ambiente híbrido oferece mais oportunidades para melhorar essas habilidades. O artigo de Adinda e Mohib (2020) foca em como as abordagens de design instrucional influenciam a aprendizagem autodirigida (SDL), enquanto o segundo artigo destaca que o ambiente híbrido oferece mais oportunidades para o desenvolvimento dessas habilidades. 
+
+Adinda e Mohib (2020) investigam como as abordagens de design instrucional centradas no aluno impactam diretamente a aprendizagem autodirigida (SDL). O estudo destaca que, em ambientes híbridos, os professores que utilizam atividades interativas, como discussões em fóruns online e revisões entre pares, promovem um ambiente em que os alunos se tornam mais responsáveis por seu próprio processo de aprendizagem. Essas atividades não apenas incentivam a reflexão crítica sobre o conteúdo, mas também fornecem feedback imediato que ajuda os estudantes a avaliarem seu próprio progresso. Ao envolver os alunos em atividades colaborativas, os professores facilitam a construção de estratégias de aprendizagem mais eficazes, promovendo a autonomia dos alunos na busca e aplicação de recursos para seu desenvolvimento acadêmico. O estudo conclui que essas práticas contribuem significativamente para o aprimoramento das habilidades de autoavaliação, crucial para a SDL, pois permitem que os alunos identifiquem suas forças e áreas a melhorar durante o processo de aprendizagem.
+
+Por outro lado, o estudo de Uz e Uzun (2018) concentra-se na eficácia do ambiente híbrido em sua estrutura, destacando como o ensino híbrido oferece aos alunos maior flexibilidade no acesso ao conteúdo e aos recursos de aprendizagem. A utilização de plataformas como Moodle, associada à disponibilidade de materiais interativos e ao uso de feedback contínuo, facilita significativamente o processo de auto-regulação e o planejamento estratégico da aprendizagem por parte dos estudantes. O estudo também revela que, ao ter controle sobre seu próprio ritmo de aprendizagem, os alunos podem adaptar seu processo de estudo conforme suas necessidades individuais, um aspecto central para o desenvolvimento da SDL. Além disso, ao envolver os alunos em atividades colaborativas online, o ambiente híbrido fortalece a responsabilidade individual e o compromisso com o aprendizado, ao mesmo tempo em que aumenta a motivação intrínseca dos alunos para alcançar seus objetivos educacionais. O estudo conclui que essas características do ensino híbrido potencializam significativamente as habilidades de aprendizagem autodirigida, permitindo que os alunos se tornem mais autônomos e engajados em seu aprendizado.
+
+Em conjunto, ambos os estudos evidenciam como as características da aprendizagem ativa — como interação, reflexão e feedback contínuo — desempenham um papel fundamental no desenvolvimento da SDL, ajudando os alunos a se tornarem mais autônomos e responsáveis por seu próprio aprendizado. Esses resultados ressaltam a relevância de se aprofundar em estratégias que potencializem a aprendizagem autodirigida, especialmente diante das demandas atuais da educação superior.
+
+Nesse sentido, consolidam-se estratégias que ampliam a autonomia e responsabilidade dos estudantes, respondendo às demandas atuais da educação superior. Diante dessa perspectiva, diversos estudos têm analisado formas de implementar estratégias eficazes para incentivar esse tipo de aprendizagem, alcançando resultados promissores que reforçam a importância de metodologias ativas e abordagens guiadas como ferramentas pedagógicas.
+
+No estudo realizado por Lim e Park (2023), foi investigada a eficácia da combinação entre o estudo individual (autodirigido) e a discussão em grupo, comparada a estratégias mais tradicionais, como a exposição por vídeo-aula seguida de revisão. Essa pesquisa, desenvolvida com alunos universitários na Coreia do Sul, constatou que grupos que realizaram estudo individual prévio à discussão obtiveram desempenho significativamente superior em testes de conteúdo, especialmente em itens que exigiam transferência do conhecimento para contextos novos. A análise qualitativa das discussões revelou que estudantes que tiveram momentos prévios de autodireção no aprendizado conseguiram interagir mais ativamente e realizar comentários mais construtivos durante as discussões em grupo, sugerindo que a autorreflexão proporcionada pela autodireção prepara os alunos para uma participação mais produtiva em atividades colaborativas (Lim & Park, 2023).
+
+Complementando essas descobertas, Hutasuhut et al. (2023) investigaram o impacto de uma abordagem guiada no desenvolvimento da aprendizagem autodirigida de alunos universitários do primeiro ano na Malásia, utilizando o modelo SECI (Socialização, Externalização, Combinação e Internalização) como referencial teórico para compreender a transferência de conhecimento entre professores e estudantes e entre os próprios alunos. Por meio de intervenções estruturadas e medições pré e pós-intervenção com um questionário específico para avaliação da aprendizagem autodirigida (SDLRS), os pesquisadores concluíram que a abordagem guiada elevou significativamente o nível de autodirecionamento dos estudantes. Cerca de 94,59% dos participantes demonstraram aumento em suas habilidades autodirigidas ao final do semestre. Os autores destacaram que a interação direta com um facilitador que atua como guia e modelo é essencial para auxiliar os estudantes no processo de desenvolver a iniciativa e a responsabilidade por sua aprendizagem (Hutasuhut et al., 2023).
+
+Adicionalmente, Chukwunemerem (2023), analisando atividades autodirigidas e o pensamento crítico de estudantes universitários no Japão, apontou benefícios importantes ao utilizar tais abordagens como ferramentas de desenvolvimento intelectual. Por meio de atividades de entrevistas com profissionais, discussões em grupo e produção textual, o estudo mostrou que os estudantes desenvolveram significativamente suas habilidades de pensamento crítico, comunicação, gestão do tempo e capacidade de buscar informações relevantes de maneira eficiente. As entrevistas qualitativas revelaram que, apesar de alguns estudantes demonstrarem certa resistência inicial em relação às interações sociais mais intensas, o envolvimento nessas atividades os levou a expandir suas perspectivas sobre aprendizagem e pensamento crítico, compreendendo melhor as contribuições e opiniões dos outros e conseguindo avaliar seu próprio desenvolvimento cognitivo (Chukwunemerem, 2023).
+
+Esses três estudos, embora realizados em contextos culturais distintos – Coreia do Sul, Malásia e Japão –, convergem para a importância do papel ativo do estudante no processo educacional e do suporte estratégico fornecido por facilitadores (professores e tutores) para incentivar a autonomia. Os resultados obtidos sugerem, consistentemente, que as estratégias pedagógicas baseadas em aprendizagem autodirigida promovem não apenas um melhor desempenho acadêmico imediato, mas também desenvolvem competências críticas e reflexivas essenciais ao sucesso acadêmico e profissional futuro. Ao considerar essas evidências internacionais, surge a necessidade de refletir sobre a aplicabilidade e a relevância dessas estratégias no cenário educacional brasileiro.
+
+Pois pesar da riqueza de evidências internacionais apresentadas, observa-se uma lacuna significativa na produção acadêmica nacional, especialmente no que se refere a estudos empíricos sobre aprendizagem autodirigida aplicados à formação docente no contexto brasileiro. Essa ausência é ainda mais acentuada quando se considera a diversidade regional do país, em especial a região Norte, marcada por desafios específicos relacionados ao acesso, à permanência e à qualidade da formação de professores. Nesse cenário, torna-se essencial refletir sobre como os achados desses estudos internacionais podem dialogar com a realidade brasileira, respeitando suas particularidades socioculturais e estruturais. A adaptação e aplicação crítica dessas estratégias em contextos locais diversos são passos fundamentais para o fortalecimento de práticas pedagógicas que promovam a autonomia, a reflexão e o engajamento dos futuros educadores em sua própria trajetória formativa.
+
+Nesse contexto, torna-se relevante explorar de que forma a aprendizagem autodirigida contribui para o desenvolvimento de competências críticas e reflexivas. Com as constantes mudanças na formação docente e no processo de ensino, torna-se essencial preparar estudantes e futuros professores para contextos educacionais cada vez mais dinâmicos e complexos. Diante desse cenário, métodos como a aprendizagem autodirigida vêm ganhando destaque, sobretudo por seu impacto no desenvolvimento profissional dos professores.
+
+Nesse contexto de transformações na educação, torna-se relevante investigar de que forma o autoestudo, ou aprendizagem autodirigida, pode contribuir para o desenvolvimento de competências críticas e reflexivas, fundamentais à formação docente. Diante das constantes mudanças nos processos de ensino e nas demandas educacionais, cresce a necessidade de preparar estudantes e futuros professores para atuarem em ambientes cada vez mais dinâmicos e complexos. Assim, metodologias como o autoestudo ganham destaque por favorecerem o desenvolvimento profissional dos docentes, estimulando a autonomia, a autorreflexão e a capacidade de adaptação às novas realidades pedagógicas.
+
+O estudo conduzido por Kathleen Pithouse-Morgan (2022) ressalta as contribuições significativas do auto estudo para a formação docente e o desenvolvimento profissional de professores. Este método se caracteriza pela busca constante do educador em refletir criticamente sobre suas próprias práticas pedagógicas, suas escolhas e seus processos de tomada de decisão no contexto educacional. A autora defende que o auto estudo promove uma melhor compreensão do professor sobre si mesmo e sobre sua prática, levando a transformações profundas em seu comportamento profissional. A pesquisa apontou, como resultado fundamental, que professores engajados no autoestudo adquirem maior capacidade para promover aprendizagens mais significativas e reflexivas, compartilhando seus conhecimentos e experiências com colegas e, assim, impulsionando uma aprendizagem colaborativa e coletiva.
+
+Essas ideias dialogam diretamente com o conceito da aprendizagem cooperativa, também apontada como elemento promissor no fomento à aprendizagem autodirigida dos estudantes. Mentz e Van Zyl (2016) investigaram como a implementação de estratégias cooperativas impactam as atitudes e percepções de alunos ingressantes em um curso de formação de professores em relação ao próprio aprendizado. Os autores identificaram que o uso sistemático dessas estratégias resultou em melhorias significativas nas atitudes dos alunos em relação à aprendizagem, ampliando não apenas sua motivação, mas também sua autonomia e responsabilidade individual no processo educativo. Observou-se que o contexto cooperativo potencializou nos estudantes o desenvolvimento de habilidades interpessoais e comunicativas, além de reforçar a consciência sobre a importância do engajamento pessoal na construção do conhecimento, resultando assim numa maior prontidão para a aprendizagem autodirigida.
+
+Complementando essa perspectiva, o estudo realizado por Gunārs Strods (2012) confirmou que estratégias cooperativas, quando aplicadas à formação de professores, promovem efetivamente melhorias na prontidão para a aprendizagem autodirigida. Em um contexto experimental com estudantes universitários, foi possível perceber que todos os estudantes apresentaram ganhos na capacidade de autodireção, especialmente aqueles inicialmente classificados com níveis médios ou baixos de prontidão. Entretanto, em contextos tradicionais, esse benefício foi significativamente restrito aos estudantes que possuíam dificuldades de aprendizagem, enquanto aqueles com alto desempenho acadêmico tiveram sua prontidão reduzida. O estudo, portanto, concluiu que a aprendizagem cooperativa, ao promover responsabilidades compartilhadas e interação ativa entre alunos, cria um ambiente propício à autonomia e corresponsabilidade na aprendizagem, reforçando competências essenciais para o aprendizado autônomo.
+
+Essa reflexão acerca da comparação entre métodos tradicionais e metodologias mais centradas no aluno também é abordada na pesquisa de Suchitra e Sachin Palve (2022). Os autores analisaram a eficácia do aprendizado autodirigido frente ao método tradicional em cursos de fisiologia médica. O estudo demonstrou que alunos expostos a metodologias autodirigidas exibiram desempenho significativamente superior aos que tiveram aulas tradicionais, especialmente no que se refere à retenção de conhecimentos, ao desenvolvimento de habilidades críticas e à capacidade de aplicar conceitos teóricos em situações práticas. Tais resultados evidenciam o potencial do aprendizado autodirigido para formar estudantes mais preparados para enfrentar desafios práticos da vida profissional, capazes de aprofundar autonomamente seu entendimento sobre os conteúdos abordados.
+
+Prosseguindo nesse debate, Emad Nosair, Mohammad Omar e Ghaith AlWawi (2024) realizaram um importante estudo sobre prontidão para a aprendizagem autodirigida entre estudantes de medicina em Sharjah, Emirados Árabes Unidos. A pesquisa buscou identificar se existiam diferenças significativas na prontidão para aprendizado autodirigido entre alunos participantes de programas baseados na aprendizagem por problemas (PBL) e os de programas tradicionais. Os achados revelaram que não houve diferenças significativas na pontuação global de prontidão entre os dois grupos, entretanto, destacaram que alunos com alto desempenho acadêmico apresentaram níveis superiores de prontidão para o aprendizado autodirigido. Esse resultado chamou a atenção para o papel crucial dos fatores intrínsecos aos próprios estudantes, como motivação interna e compromisso pessoal, independentemente da metodologia utilizada. Destacou-se, ainda, que o investimento em estratégias pedagógicas que estimulem o desenvolvimento pessoal e fortaleçam a autonomia e responsabilidade individual dos estudantes pode contribuir significativamente para melhores níveis de prontidão ao aprendizado autodirigido, independentemente da abordagem pedagógica predominante.
+
+Finalmente, a conexão entre motivação, aprendizagem profunda e estímulo intelectual foi estudada por Chowdhry e Osowska (2017) com estudantes universitários na Escócia. A pesquisa identificou correlações positivas entre o nível de estímulo intelectual proporcionado nas aulas, o grau de motivação intrínseca dos alunos e a adoção por estes de abordagens mais profundas e reflexivas de aprendizagem. Os autores concluíram que um ambiente educacional intelectualmente estimulante, caracterizado por desafios cognitivos, feedback oportuno e incentivo ao pensamento crítico independente, é essencial para que os estudantes adotem abordagens mais profundas em sua aprendizagem. Além disso, o estudo sugere que estratégias pedagógicas ativas, que envolvem diretamente o estudante no processo de construção do conhecimento, podem aumentar sua motivação interna e, consequentemente, melhorar significativamente seu desempenho acadêmico e sua capacidade de aprendizado ao longo da vida.
+
+Analisando de forma integrada os estudos apresentados, observa-se que métodos ativos e reflexivos, como o autoestudo docente, as estratégias de aprendizagem cooperativa, as abordagens autodirigidas e a criação de ambientes intelectualmente estimulantes, são fundamentais para a formação de estudantes e futuros professores capazes de aprender continuamente e de se adaptar às demandas da contemporaneidade. Ao promover competências essenciais como autonomia, colaboração, pensamento crítico e responsabilidade pessoal, essas metodologias oferecem caminhos concretos e eficazes para uma educação que vai além da simples transmissão de conteúdos, preparando educadores e aprendizes para responder, de maneira propositiva, aos desafios complexos do cenário educacional atual e futuro.
+
+# 4 METODOLOGIA {#4-metodologia}
+
+Este capítulo apresenta os procedimentos metodológicos adotados para a realização da pesquisa, descrevendo a abordagem escolhida, os métodos de coleta e análise de dados, bem como as justificativas para as decisões metodológicas ao longo do processo investigativo. O objetivo central do estudo é compreender como a aprendizagem autodirigida (Self-Directed Learning – SDL) pode contribuir para a formação dos estudantes do curso de Licenciatura em Computação, identificando metodologias eficazes e os impactos dessa abordagem no contexto do ensino superior.
+
+A pesquisa foi conduzida sob uma perspectiva qualitativa e exploratória. A escolha pela abordagem qualitativa se justifica pelo interesse em compreender, de forma aprofundada, as percepções, os significados e as práticas relacionadas à autodireção no processo de aprendizagem. A proposta não é quantificar dados, mas interpretar os discursos, os métodos e os desafios relatados na literatura acadêmica, explorando de maneira contextualizada o fenômeno investigado. A abordagem exploratória, por sua vez, foi adotada devido à relativa escassez de estudos aplicados especificamente à aprendizagem autodirigida na formação de professores de Computação, área que passa por constantes transformações em função do avanço das tecnologias e das metodologias ativas de ensino. Assim, o estudo visa preencher essa lacuna, mapeando estratégias eficazes de SDL e seus impactos na preparação dos licenciandos.
+
+A coleta de dados foi realizada por meio de uma revisão sistemática da literatura e análise documental, com foco em produções acadêmicas que abordam a aprendizagem autodirigida no ensino superior, especialmente no campo da Computação. A seleção de fontes envolveu o levantamento de artigos científicos, livros, dissertações e teses disponíveis em bases de dados acadêmicas, no caso o Google Scholar.
+
+Para otimizar o processo de busca e coleta dos documentos, foi desenvolvido um software de uso próprio que permitiu automatizar a extração de dados diretamente do Google Scholar. Este programa foi responsável por realizar buscas com operadores booleanos, extrair informações bibliográficas relevantes — como título, autores, ano de publicação, resumo e link — e organizar esses dados em uma tabela estruturada, além de realizar o download automático dos PDFs. Esta automação foi fundamental para garantir maior eficiência, abrangência e organização durante a etapa de coleta, desta forma foram selecionados 58 artigos considerados mais relevantes para os objetivos do estudo.
+
+Para a análise detalhada desses artigos, utilizou-se a plataforma SciSpace, a qual possibilitou a realização de fichamentos estruturados, identificando o objetivo de cada estudo, os métodos empregados, as conclusões obtidas e suas contribuições para a área. A partir desses fichamentos, os artigos foram organizados por categorias metodológicas, considerando critérios como o tipo de abordagem (estudos de caso, revisão sistemática, pesquisa-ação, entre outros), o que permitiu uma análise comparativa das diferentes formas de aplicação da aprendizagem autodirigida.
+
+Visando ampliar a visualização dos dados coletados, foi utilizada a ferramenta Litmaps para estruturar graficamente as referências bibliográficas e suas conexões. Esse recurso permitiu uma visualização em rede dos principais autores, temas e relações entre os estudos, facilitando a compreensão das tendências teóricas e metodológicas predominantes na literatura.
+
+A adoção dessa metodologia tecnológica e automatizada não apenas reforçou a consistência e confiabilidade do processo de revisão de literatura, como também refletiu, na prática, os princípios da autodireção no aprendizado — uma vez que o próprio processo de pesquisa foi orientado por estratégias de autonomia, organização e uso eficiente de recursos tecnológicos. Assim, ao conjugar uma abordagem qualitativa com ferramentas inovadoras, esta pesquisa oferece uma contribuição significativa para os estudos sobre aprendizagem autodirigida na formação de professores de Computação, promovendo uma perspectiva que alia teoria, prática e inovação no campo educacional.
+
+## 4.1 O perfil do Aluno de Licenciatura em Computação {#4.1-o-perfil-do-aluno-de-licenciatura-em-computação}
+
+O aluno da Licenciatura em Computação integra conhecimento técnico em computação com uma formação pedagógica voltada para o ensino. Durante sua trajetória acadêmica, desenvolve pensamento computacional, analisa e implementa algoritmos e utiliza tecnologias educacionais para aprimorar o processo de ensino-aprendizagem, garantindo inovação e eficiência no ambiente escolar.
+
+Além da base técnica, constrói habilidades pedagógicas essenciais para a prática docente, abrangendo metodologias de ensino, planejamento educacional e estratégias avaliativas. Com essa formação, é capaz de criar ambientes de aprendizagem dinâmicos e inclusivos, explorando recursos digitais para tornar o ensino mais acessível, interativo e eficaz.
+
+A pesquisa e a investigação científica são componentes fundamentais de sua formação. O aluno analisa criticamente o impacto da tecnologia no ensino, identifica desafios educacionais e propõe soluções inovadoras que contribuam para a evolução das práticas pedagógicas, fortalecendo a relação entre computação e educação.
+
+A atuação ética e social também se destaca em sua formação. O futuro professor de computação assume um papel ativo na promoção da inclusão digital, incentivando o uso consciente e responsável da tecnologia. Além disso, desenvolve uma comunicação clara e eficaz, essencial para interagir com diferentes públicos e colaborar em projetos multidisciplinares voltados à educação e à tecnologia.
+
+Por fim, o aluno mantém uma postura curiosa, investigativa e proativa. Diante da constante evolução da computação, ele se adapta às transformações tecnológicas, busca aprendizado contínuo e aprimora suas práticas para garantir um ensino de qualidade, alinhado às demandas contemporâneas da sociedade.
+
+# 5 ANÁLISE E DISCUSSÃO DOS RESULTADOS {#5-análise-e-discussão-dos-resultados}
+
+# 
+
+# REFERÊNCIAS {#referências}
+
+**BARROWS, Howard S.** Problem-based learning in medicine and beyond: A brief overview. *New Directions for Teaching and Learning*, v. 1996, n. 68, p. 3-12, 1996\.
+
+**BERGMANN, Jonathan; SAMS, Aaron.** Flip your classroom: Reach every student in every class every day. Washington, DC: International Society for Technology in Education, 2012\.
+
+**BROCKETT, Ralph G.; HIEMSTRA, Roger.** Self-direction in adult learning: Perspectives on theory, research, and practice. New York: Routledge, 1991\.
+
+**CANDY, Philip C.** Self-direction for lifelong learning: A comprehensive guide to theory and practice. San Francisco: Jossey-Bass, 1991\.
+
+**DEWEY, John.** Experience and education. New York: Macmillan, 1938\.
+
+**GARRISON, D. Randy.** Self-directed learning: Toward a comprehensive model. *Adult Education Quarterly*, v. 48, n. 1, p. 18-33, 1997\.
+
+**KNOWLES, Malcolm S.** Self-directed learning: A guide for learners and teachers. Chicago: Association Press, 1975\.
+
+**MASETTO, Marcos Antonio.** *Competência pedagógica do professor universitário.* São Paulo: Summus, 2003\.
+
+**MAZUR, Eric.** Peer Instruction: A User’s Manual. Upper Saddle River, NJ: Prentice Hall, 1997\.
+
+**MERRIAM, Sharan B.; CAFFARELLA, Rosemary S.** Learning in adulthood: A comprehensive guide. 2\. ed. San Francisco: Jossey-Bass, 1999\.
+
+**MOTA, Guilherme da Silva; SCOTT, Liane Margarida Rockenbach Tarouco.** Metodologias ativas e gamificação no ensino superior: desafios e perspectivas. *Revista de Ensino de Engenharia*, v. 33, n. 1, p. 79-89, 2014\.
+
+**NOVAK, Gregor M.; PATTERSON, Evelyn T.; GAVRIN, Andrew D.; CHRISTIAN, Wolfgang.** Just-in-time teaching: blending active learning with web technology. Upper Saddle River, NJ: Prentice Hall, 1999\.
+
+[image1]: <data:image/png;base64,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>

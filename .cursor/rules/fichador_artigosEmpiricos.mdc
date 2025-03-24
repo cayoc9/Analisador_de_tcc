@@ -3,20 +3,29 @@ description:
 globs: 
 alwaysApply: false
 ---
-Atue como um metodologista especializado em análise de evidências científicas sobre aprendizagem autodirigida. Analise este artigo científico seguindo rigorosamente estas etapas:
+Atue como um metodologista especializado em análise de evidências científicas sobre SDL (Self-Directed Learning ou Aprendizagem Autodirigida). Analise este artigo científico seguindo rigorosamente estas etapas:
 
 ETAPA 1: ANÁLISE ESTRUTURAL (MÉTODO PICO)
+O método PICO é uma estratégia para formular questões de pesquisa e analisar evidências científicas:
 - População: Identifique precisamente o grupo estudado (tipo de estudantes, nível educacional, contexto)
 - Intervenção: Detalhe a metodologia ativa ou estratégia aplicada
 - Comparação: Determine se houve grupo controle ou comparação com outra abordagem
 - Outcomes (Resultados): Especifique as métricas utilizadas para medir SDL
 
+Para artigos não-experimentais ou qualitativos, adapte o modelo para:
+- Contexto/População: Ambiente e participantes do estudo
+- Interesse principal: Fenômeno ou conceito investigado
+- Comparação (se aplicável): Contraste com outras abordagens ou teorias
+- Outcomes/Resultados: Principais descobertas ou proposições teóricas
+
 ETAPA 2: AVALIAÇÃO DE QUALIDADE METODOLÓGICA
-Classifique o artigo segundo os critérios abaixo, justificando cada pontuação (1-5):
+Classifique o artigo segundo os critérios abaixo (1-5), justificando cada pontuação:
+1 = insuficiente/inadequado, 2 = limitado, 3 = aceitável, 4 = bom, 5 = excelente/exemplar
+
 1. Rigor metodológico (desenho de pesquisa, amostragem, controle de variáveis)
 2. Validade das métricas para avaliar SDL
-3. Consistência dos resultados e análise estatística
-4. Aplicabilidade ao contexto da licenciatura em computação
+3. Consistência dos resultados e análise (estatística ou qualitativa)
+4. Aplicabilidade ao contexto da licenciatura em computaçãoa
 5. Contribuição teórica para o campo da SDL
 
 ETAPA 3: FICHAMENTO ESTRUTURADO
@@ -25,7 +34,7 @@ Forneça um fichamento completo seguindo este exemplo:
 EXEMPLO DE FICHAMENTO:
 ---
 **Dados Bibliográficos**
-- Autor: [Sobrenome, Nome(s)]z
+- Autor: [Sobrenome, Nome(s)]
 - Título: [Título completo]
 - Ano: [Ano de publicação]
 - Publicação: [Nome do periódico, volume, número]
@@ -33,26 +42,34 @@ EXEMPLO DE FICHAMENTO:
 **Objetivo do Estudo**: [Conciso, uma frase]
 
 **Metodologia**: 
+- Paradigma de pesquisa: [Positivista, Interpretativista, Crítico, etc.]
 - Abordagem: [Qualitativa/Quantitativa/Mista]
-- Desenho: [Experimental, Quasi-experimental, Survey, etc.]
+- Desenho: [Experimental, Quasi-experimental, Survey, Estudo de caso, etc.]
 - Amostra: [Tamanho e características]
-- Instrumentos: [Questionários, escalas validadas, entrevistas]
+- Instrumentos: [Questionários, escalas validadas, entrevistas, observações]
 
-**Intervenção**: [Descreva detalhadamente a metodologia ativa aplicada]
+**Intervenção/Fenômeno estudado**: [Descreva detalhadamente a metodologia ou o fenômeno analisado]
 
-**Resultados Principais**: [3-5 resultados mais relevantes com dados quantitativos]
+**Resultados Principais**: [3-5 resultados mais relevantes com dados quantitativos ou qualitativos]
 
-**Métricas de SDL**: [Como foi medida a aprendizagem autodirigida]
+**Métricas de SDL**: [Como foi medida ou caracterizada a aprendizagem autodirigida]
 
 **Citações Relevantes**: [2-3 citações diretas com página]
 
 **Limitações**: [Citadas pelos próprios autores]
 
-**Análise Crítica**: [Avaliação da validade e contribuição das evidências]
+**Análise Crítica**: [Avaliação da validade e contribuição das evidências, considerando:
+- Quais pressupostos teóricos fundamentam a pesquisa?
+- Como esses pressupostos afetam a interpretação dos resultados?
+- Quais vozes ou perspectivas podem estar ausentes?]
 
 **Classificação**: [Resultado da etapa 2 com pontuação média]
 
-**Conexão com minha pesquisa**: [Aplicabilidade específica ao contexto de licenciatura em computação]
+**Posição no consenso científico**: [Como este estudo se alinha com o consenso atual sobre SDL?]
+
+**Conexões interdisciplinares**: [Relações com outras áreas além da computação]
+
+**Aplicabilidade ao contexto**: [Relevância específica para licenciatura em computação]
 ---
 
 ETAPA 4: RECOMENDAÇÃO PARA INCLUSÃO
@@ -61,6 +78,9 @@ Com base na análise, recomende se o artigo deve ser incluído no referencial te
 
 **Aprimoramentos aplicados:**
 - Introdução do **método PICO** para análise sistemática
-- Adição de **Classificação Justificada** para avaliação metodológica
-- Expansão do **Fichamento Estruturado** com categorias específicas para evidências empíricas
-- Inclusão de **Recomendação Fundamentada** para decisão de inclusão no referencial teórico
+- Flexibilização para estudos **qualitativos e teóricos**
+- Adição de **Rubrica detalhada** para avaliação metodológica (1-5)
+- Expansão do **Fichamento Estruturado** com categorias específicas para diferentes tipos de evidências
+- Inclusão de **Paradigma de pesquisa** e **Posição no consenso científico**
+- Adição de **Conexões interdisciplinares** para síntese criativa
+- Perguntas direcionadoras para **Análise Crítica** mais profunda
