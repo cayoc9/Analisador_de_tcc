@@ -71,6 +71,8 @@ Existe coerência entre os objetivos de autonomia e as metodologias propostas, u
 
 A interdisciplinaridade também é destacada como um elemento importante da abordagem metodológica, favorecendo a articulação entre diferentes áreas do conhecimento e a aplicação dos saberes em contextos diversificados. Esta perspectiva contribui para o desenvolvimento da autonomia ao estimular os estudantes a estabelecerem conexões entre os conteúdos e a buscarem soluções para problemas complexos.
 
+No entanto, falta maior detalhamento sobre como as metodologias mencionadas seriam efetivamente implementadas nas disciplinas. O documento poderia oferecer orientações mais específicas para os docentes sobre como utilizar as metodologias ativas de forma progressiva, promovendo gradualmente maior autonomia dos estudantes ao longo do curso.
+
 ### Perspectiva 3: Formação do Perfil Profissional
 
 O PPC caracteriza o licenciado em Computação ideal como um profissional capaz de "conceber, construir e administrar situações de aprendizagens" (p. 23), evidenciando a importância da autonomia e da capacidade de gestão no perfil desejado. As competências relacionadas à SDL (Self-Directed Learning) são detalhadas na seção 3.2.1, destacando-se a habilidade de "gerir a sua própria aprendizagem e desenvolvimento, incluindo a gestão de tempo e competências organizacionais" (p. 24).
@@ -121,6 +123,8 @@ No entanto, o documento poderia ser mais explícito quanto aos mecanismos de ava
 
 5. **Pouca clareza sobre o papel do tutor no desenvolvimento da autonomia**: Embora o tutor seja mencionado como mediador, não fica explícito como sua atuação contribuirá para o desenvolvimento da capacidade de autodireção dos estudantes.
 
+6. **Falta de orientações sobre implementação das metodologias**: O documento menciona diversas metodologias, mas não oferece diretrizes específicas sobre como implementá-las de forma a promover progressivamente a autonomia dos estudantes.
+
 ### Recomendações
 
 1. **Desenvolver instrumentos para avaliação da SDL**: Implementar ferramentas específicas para avaliar o desenvolvimento da capacidade de autodireção dos estudantes ao longo do curso, como portfólios reflexivos, autoavaliações e planos de desenvolvimento pessoal.
@@ -132,6 +136,14 @@ No entanto, o documento poderia ser mais explícito quanto aos mecanismos de ava
 4. **Desenvolver guias de estudo autônomo**: Elaborar materiais específicos que orientem os estudantes sobre como organizar seus estudos, definir objetivos de aprendizagem e monitorar seu progresso.
 
 5. **Capacitar tutores para promoção da SDL**: Implementar programa de formação continuada para tutores, com foco no desenvolvimento de estratégias para promoção da autonomia dos estudantes, gradualmente reduzindo o suporte à medida que os estudantes ganham independência.
+
+6. **Implementar matriz de progressão de autonomia**: Desenvolver uma matriz que explicite como cada semestre e disciplina contribui para níveis crescentes de autonomia, desde atividades mais estruturadas nos primeiros semestres até projetos mais independentes nos últimos.
+
+7. **Incorporar práticas metacognitivas**: Incluir em diversas disciplinas elementos de reflexão sobre o próprio processo de aprendizagem, com instrumentos específicos como diários reflexivos, portfólios de aprendizagem e autoavaliações estruturadas.
+
+8. **Criar Ambientes Pessoais de Aprendizagem (PLEs)**: Implementar o uso sistemático de ambientes digitais onde os estudantes possam organizar seus próprios recursos, definir metas e acompanhar seu progresso, com orientação docente gradualmente reduzida.
+
+9. **Desenvolver programa de formação docente específico para SDL**: Criar diretrizes e formação específica para os professores sobre como promover a aprendizagem autodirigida em suas disciplinas, incluindo estratégias de scaffolding (suporte gradual) e feedback formativo.
 
 ### Classificação em escala de 1-10 quanto à ênfase em SDL
 
