@@ -1,4 +1,4 @@
-﻿**APRENDIZADO COM EXEMPLO**
+**APRENDIZADO COM EXEMPLO**
 
 **PROMPT AVANÇADO: Definir a Questão de Pesquisa**
 

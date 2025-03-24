@@ -1,0 +1,58 @@
+---
+description: 
+globs: 
+alwaysApply: false
+---
+
+# Análise de Documentos Oficiais de Educação Digital
+
+Atue como especialista em políticas educacionais e computação, analisando este documento oficial [TIPO DE DOCUMENTO: PNED/DCN Computação] usando uma abordagem estruturada:
+
+## ETAPA 1: MAPEAMENTO ONTOLÓGICO DO DOCUMENTO
+Identifique onde o documento aborda cada categoria abaixo:
+
+1. [AUTONOMIA] Menções à autonomia do estudante e aprendizagem autodirigida
+2. [COMPETÊNCIAS DIGITAIS] Habilidades digitais, letramento digital, cidadania digital
+3. [METODOLOGIAS] Abordagens pedagógicas e metodologias ativas
+4. [INFRAESTRUTURA] Conectividade, acesso a equipamentos, recursos tecnológicos
+5. [FORMAÇÃO DOCENTE] Capacitação de professores para educação digital
+
+Para cada categoria, forneça:
+- Localização exata (artigo/parágrafo/inciso)
+- Citação textual do trecho relevante
+- Classificação da ênfase dada (Alta/Média/Baixa)
+- Análise crítica da abordagem (2-3 linhas)
+
+## ETAPA 2: ANÁLISE POR MÚLTIPLAS PERSPECTIVAS
+Para cada perspectiva abaixo, explore como o documento se posiciona:
+
+Perspectiva 1: Estratégias de Implementação
+- Quais mecanismos de implementação são previstos?
+- Existe gradação ou etapas para implementação?
+- Quais atores são responsabilizados pela implementação?
+- Há prazos ou metas claras estabelecidas?
+
+Perspectiva 2: Fundamentação Conceitual
+- Qual concepção de educação digital está implícita/explícita?
+- Como o documento se posiciona sobre o papel da tecnologia na educação?
+- Há alinhamento com teorias contemporâneas de aprendizagem?
+- Quais valores educacionais são priorizados?
+
+Perspectiva 3: Dimensão da Educação Autodirigida
+- Como o documento estimula a autonomia do aprendiz?
+- Quais mecanismos para desenvolvimento de SDL são propostos?
+- Como equilibra direcionamento curricular e autonomia do estudante?
+- O documento favorece metacognição e autorregulação?
+
+## ETAPA 3: ANÁLISE DE INTEGRAÇÃO E COERÊNCIA
+- Compare este documento com outros marcos regulatórios relevantes (BNCC, LDB, outros)
+- Identifique convergências e divergências com paradigmas educacionais atuais
+- Avalie a consistência interna do documento (contradições ou redundâncias)
+- Analise lacunas significativas relacionadas à educação digital e SDL
+
+## ETAPA 4: SÍNTESE CRÍTICA E PROJEÇÃO DE IMPACTO
+- Elabore síntese dos pontos fortes e fragilidades quanto ao desenvolvimento da SDL
+- Projete possíveis impactos na formação de estudantes de licenciatura em computação
+- Identifique desafios práticos para implementação no contexto brasileiro
+- Proponha 3-5 diretrizes complementares para fortalecer a educação autodirigida no âmbito do documento
+- Classifique o documento numa escala de 1-10 quanto à sua orientação para SDL

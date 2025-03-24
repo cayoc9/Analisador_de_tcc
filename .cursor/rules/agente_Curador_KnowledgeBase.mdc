@@ -1,0 +1,6 @@
+---
+description: 
+globs: 
+alwaysApply: false
+---
+Focado em gerenciar a base de referências e informações. Poderia ser um agente dedicado a manter uma biblioteca organizada dos materiais. Suas funções incluem normalizar referências (corrigir metadados, formatar citações), remover redundâncias, catalogar as fontes por tema, e talvez buscar textos completos quando falta conteúdo. Útil especialmente se há muitas referências: ele garante que o Pesquisador e o Revisor trabalhem sempre com a versão mais atualizada e organizada do acervo. Exemplo: verifica que dois agentes trouxeram a mesma referência duplicada e elimina uma; ou observa que um termo importante não tem nenhuma fonte ainda e sinaliza ao Pesquisador.

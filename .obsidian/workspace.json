@@ -1,0 +1,178 @@
+{
+  "main": {
+    "id": "34527f939e136471",
+    "type": "split",
+    "children": [
+      {
+        "id": "6723f0687bee748c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e1aec7b152a4b781",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b741ae51090154e5",
+    "type": "split",
+    "children": [
+      {
+        "id": "28a709d411170fb3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b4031841cf484d8a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "8f3c7ba278bade6a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "ac8911a8135c7b49",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b69766e082d8de66",
+    "type": "split",
+    "children": [
+      {
+        "id": "f76bbf7ea1690c97",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "25c2e2c575c25e6b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "0ac6459bbc3d1ce3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída"
+            }
+          },
+          {
+            "id": "8373fdfe6ae0f72f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c480d8c128b31370",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "e1aec7b152a4b781",
+  "lastOpenFiles": [
+    "analise_fichamento/artigos/fichamento_A auto-eficácia para a aprendizagem autodirigida como pilar fundamental da educação e aprendizagem ao longo da vida.md",
+    "analise_fichamento/livros/fichamento_advances_research_practice_long.md",
+    "fichamento_ExameAprendizagemAutodirigidaRelacaoTracos.md",
+    "Estrutura TCC.md",
+    "fichamento_CaracteristicasAprendizesAutodirigidos.md",
+    "analise_fichamento/artigos/fichamento_CaracteristicasAprendizesAutodirigidos.md",
+    "Modelos de Prompts.md",
+    "projeto_pesquisa.md",
+    "notas.md",
+    "TCC 2.md",
+    "image1.md"
+  ]
+}

@@ -7,7 +7,7 @@
 ```markdown
 Atue como um especialista em aprendizagem autodirigida com PhD em Educação e vasta experiência em análise documental. Você realizará a primeira fase de um fichamento progressivo do seguinte material:
 
-[INSERIR TRECHO DO MATERIAL - máximo 8.000 tokens]
+[INSERIR TRECHO DO MATERIAL - aproximadamente 60-80 linhas]
 
 Execute as seguintes etapas:
 
@@ -39,7 +39,7 @@ ESTE É O FICHAMENTO #{NÚMERO}, PARTE DA SEQUÊNCIA DE EXTRAÇÃO DO MATERIAL [
 ```markdown
 Como especialista em metodologia científica, você irá integrar os fichamentos parciais do material [TÍTULO] para formar uma visão coerente e completa. Você tem acesso aos seguintes fichamentos parciais:
 
-[RESUMO DOS FICHAMENTOS ANTERIORES - máximo 2.000 tokens]
+[RESUMO DOS FICHAMENTOS ANTERIORES - aproximadamente 15-20 linhas por fichamento]
 
 Com base nesses fichamentos:
 
@@ -67,6 +67,51 @@ Com base nesses fichamentos:
 Esta integração deve preservar a precisão acadêmica ao mesmo tempo que sintetiza o conhecimento disponível no material analisado.
 ```
 
+### Prompt 1.3: Fichamento de Livros Seminais com Análise Multidimensional
+
+```markdown
+Atue como um consórcio de 3 especialistas em aprendizagem autodirigida, cada um com perspectiva única:
+
+- Especialista em teorias de SDL (foco conceitual)
+- Especialista em metodologias ativas (foco prático)
+- Especialista em ensino de computação (foco contextual)
+
+Analise este livro [TÍTULO], examinando cada capítulo sistematicamente:
+
+1. MAPEAMENTO CONCEITUAL:
+
+   - Identifique os 5 conceitos principais sobre SDL na obra
+   - Para cada conceito: forneça definição teórica, página da citação original, e autores citados
+
+2. ANÁLISE CRÍTICA TRIDIMENSIONAL:
+   a) Dimensão Teórica:
+
+   - Fundamentos epistemológicos do conceito apresentado
+   - Evolução histórica deste conceito na literatura
+   - Relação com outras teorias de aprendizagem
+
+   b) Dimensão Metodológica:
+
+   - Aplicações práticas propostas pelo autor
+   - Evidências empíricas apresentadas (se houver)
+   - Limitações identificadas na implementação
+
+   c) Dimensão Contextual:
+
+   - Adaptabilidade ao ensino de computação
+   - Relevância para formação de licenciandos
+   - Desafios específicos para implementação no contexto brasileiro
+
+3. SÍNTESE INTEGRATIVA:
+
+   - Apresente uma tabela de síntese relacionando os conceitos centrais com metodologias ativas específicas e sua aplicabilidade no contexto da licenciatura em computação
+
+4. EXTRAÇÃO DE CITAÇÕES:
+   - Selecione 3 citações diretas mais relevantes, priorizando definições operacionais de SDL que possam fundamentar o referencial teórico
+
+Este prompt é ideal para modelos com maior capacidade de processamento como Claude 3.5 Sonnet ou GPT-o1 para análise de livros completos.
+```
+
 ## 2. Estratégia de Análise Comparativa entre Fontes
 
 ### Prompt 2.1: Matriz de Triangulação Teórica
@@ -74,9 +119,9 @@ Esta integração deve preservar a precisão acadêmica ao mesmo tempo que sinte
 ```markdown
 Como pesquisador especializado em educação, construa uma matriz de triangulação entre as seguintes fontes sobre [TEMA ESPECÍFICO - ex: definições de SDL ou metodologias ativas]:
 
-FONTE 1: [RESUMO DO CONTEÚDO - 1.000 tokens]
-FONTE 2: [RESUMO DO CONTEÚDO - 1.000 tokens]
-FONTE 3: [RESUMO DO CONTEÚDO - 1.000 tokens]
+FONTE 1: [RESUMO DO CONTEÚDO - aproximadamente 7-10 linhas]
+FONTE 2: [RESUMO DO CONTEÚDO - aproximadamente 7-10 linhas]
+FONTE 3: [RESUMO DO CONTEÚDO - aproximadamente 7-10 linhas]
 
 Desenvolva esta análise seguindo as etapas:
 
@@ -120,13 +165,13 @@ Como pesquisador em história das ideias educacionais, analise a evolução cron
 
    - Identifique as relações de influência entre autores/correntes
    - Analise como contextos históricos moldaram o desenvolvimento do conceito
-   - Mapeia correntes paralelas e suas interseções
+   - Mapeie correntes paralelas e suas interseções
 
 3. ESTADO ATUAL DO CONCEITO:
 
    - Delineie o entendimento contemporâneo predominante
    - Identifique debates ativos e pontos de tensão teórica
-   - Projeta tendências futuras de desenvolvimento na área
+   - Projete tendências futuras de desenvolvimento na área
 
 4. RELEVÂNCIA PARA O CONTEXTO DA PESQUISA:
    - Conecte explicitamente o desenvolvimento histórico com a questão de pesquisa
@@ -134,6 +179,66 @@ Como pesquisador em história das ideias educacionais, analise a evolução cron
    - Justifique a adoção de determinado entendimento conceitual como base para o trabalho
 
 A análise deve demonstrar como o entendimento de [CONCEITO] evoluiu e se transformou, contextualizado no campo maior da educação e sua aplicação específica no ensino de computação.
+```
+
+### Prompt 2.3: Análise de Artigos Científicos Empíricos usando PICO
+
+```markdown
+Atue como um metodologista especializado em análise de evidências científicas sobre aprendizagem autodirigida. Analise este artigo científico seguindo rigorosamente estas etapas:
+
+1. ANÁLISE ESTRUTURAL (MÉTODO PICO):
+
+   - População: Identifique precisamente o grupo estudado (tipo de estudantes, nível educacional, contexto)
+   - Intervenção: Detalhe a metodologia ativa ou estratégia aplicada
+   - Comparação: Determine se houve grupo controle ou comparação com outra abordagem
+   - Outcomes (Resultados): Especifique as métricas utilizadas para medir SDL
+
+2. AVALIAÇÃO DE QUALIDADE METODOLÓGICA:
+   Classifique o artigo segundo os critérios abaixo, justificando cada pontuação (1-5):
+
+   - Rigor metodológico (desenho de pesquisa, amostragem, controle de variáveis)
+   - Validade das métricas para avaliar SDL
+   - Consistência dos resultados e análise estatística
+   - Aplicabilidade ao contexto da licenciatura em computação
+   - Contribuição teórica para o campo da SDL
+
+3. FICHAMENTO ESTRUTURADO:
+   **Dados Bibliográficos**
+
+   - Autor: [Sobrenome, Nome(s)]
+   - Título: [Título completo]
+   - Ano: [Ano de publicação]
+   - Publicação: [Nome do periódico, volume, número]
+
+   **Objetivo do Estudo**: [Conciso, uma frase]
+
+   **Metodologia**:
+
+   - Abordagem: [Qualitativa/Quantitativa/Mista]
+   - Desenho: [Experimental, Quasi-experimental, Survey, etc.]
+   - Amostra: [Tamanho e características]
+   - Instrumentos: [Questionários, escalas validadas, entrevistas]
+
+   **Intervenção**: [Descreva detalhadamente a metodologia ativa aplicada]
+
+   **Resultados Principais**: [3-5 resultados mais relevantes com dados quantitativos]
+
+   **Métricas de SDL**: [Como foi medida a aprendizagem autodirigida]
+
+   **Citações Relevantes**: [2-3 citações diretas com página]
+
+   **Limitações**: [Citadas pelos próprios autores]
+
+   **Análise Crítica**: [Avaliação da validade e contribuição das evidências]
+
+   **Classificação**: [Resultado da etapa 2 com pontuação média]
+
+   **Conexão com minha pesquisa**: [Aplicabilidade específica ao contexto de licenciatura em computação]
+
+4. RECOMENDAÇÃO PARA INCLUSÃO:
+   Com base na análise, recomende se o artigo deve ser incluído no referencial teórico, justificando sua decisão com base nos critérios de qualidade e relevância para a pesquisa.
+
+Este prompt é ideal para modelos de médio porte como GPT-3.5 Turbo ou Claude 3 Haiku.
 ```
 
 ## 3. Estratégia de Estruturação do Referencial Teórico
@@ -202,6 +307,61 @@ Como especialista em metodologia de pesquisa educacional, analise como o referen
 Este prompt visa garantir que o referencial teórico não seja apenas uma revisão de literatura, mas efetivamente fundamente e dialogue com a metodologia do estudo.
 ```
 
+### Prompt 3.3: Análise de PPCs e Documentos Institucionais
+
+```markdown
+Atue como um especialista em currículo de computação e aprendizagem autodirigida. Analise este PPC de Licenciatura em Computação usando uma abordagem exploratória e estruturada:
+
+1. MAPEAMENTO ONTOLÓGICO DO DOCUMENTO:
+
+   - Identifique explicitamente onde o documento aborda cada categoria abaixo:
+     a) [AUTONOMIA] Menções diretas ou indiretas à autonomia do estudante
+     b) [METODOLOGIAS] Abordagens pedagógicas e metodologias ativas
+     c) [COMPETÊNCIAS] Habilidades relacionadas à aprendizagem contínua
+     d) [AVALIAÇÃO] Métodos avaliativos que estimulam autodireção
+     e) [TECNOLOGIA] Uso de recursos tecnológicos para aprendizagem
+
+   Para cada categoria, forneça:
+
+   - Localização exata no documento (seção/página)
+   - Citação textual do trecho relevante
+   - Classificação da ênfase dada (Alta/Média/Baixa)
+
+2. ANÁLISE POR MÚLTIPLAS PERSPECTIVAS:
+   Para cada uma das três perspectivas abaixo, explore a fundo como o PPC se posiciona:
+
+   **Perspectiva 1: Estruturação Curricular**
+
+   - Como as disciplinas estão organizadas para promover autonomia progressiva?
+   - Existe integração entre teoria e prática que estimule SDL?
+   - Quais disciplinas específicas focam no desenvolvimento da autonomia?
+
+   **Perspectiva 2: Abordagem Metodológica**
+
+   - Quais metodologias ativas são explicitamente mencionadas?
+   - Como o documento orienta a implementação dessas metodologias?
+   - Há coerência entre os objetivos de autonomia e as metodologias propostas?
+
+   **Perspectiva 3: Formação do Perfil Profissional**
+
+   - Como o documento caracteriza o licenciado em computação ideal?
+   - Quais competências relacionadas à SDL são esperadas do egresso?
+   - Como o curso se propõe a desenvolver essas competências?
+
+3. COMPARAÇÃO COM DIRETRIZES NACIONAIS:
+
+   - Compare o PPC analisado com as Diretrizes Curriculares Nacionais para cursos de Licenciatura em Computação
+   - Identifique alinhamentos e divergências no que se refere ao estímulo à SDL
+   - Avalie se o PPC atende, supera ou fica aquém das orientações nacionais
+
+4. SÍNTESE CRÍTICA E RECOMENDAÇÕES:
+   - Elabore uma síntese dos pontos fortes e fragilidades do PPC quanto ao desenvolvimento da SDL
+   - Proponha 3-5 recomendações específicas para aprimorar a promoção da aprendizagem autodirigida no curso
+   - Classifique o PPC em uma escala de 1-10 quanto à sua ênfase em SDL, justificando a pontuação
+
+Este prompt é mais adequado para modelos com maior capacidade como GPT-4 ou Claude 3.5 Sonnet devido à complexidade da análise.
+```
+
 ## 4. Estratégia de Redação Acadêmica
 
 ### Prompt 4.1: Desenvolvimento de Seções com Argumentação Acadêmica
@@ -243,7 +403,7 @@ Desenvolva esta seção com:
    - Prepare o terreno para seções subsequentes
    - Mantenha foco na contribuição específica para a pesquisa em curso
 
-A seção deve demonstrar domínio teórico e capacidade argumentativa, mantendo padrão acadêmico rigoroso e fluidez discursiva.
+A seção deve demonstrar domínio teórico e capacidade argumentativa, mantendo padrão acadêmico rigoroso e fluidez discursiva. Produza aproximadamente 40-60 linhas de texto.
 ```
 
 ### Prompt 4.2: Revisão e Refinamento de Estilo Acadêmico
@@ -251,7 +411,7 @@ A seção deve demonstrar domínio teórico e capacidade argumentativa, mantendo
 ```markdown
 Como editor acadêmico especializado em publicações científicas de educação, revise criticamente o seguinte trecho do referencial teórico:
 
-[TRECHO A SER REVISADO - até 4.000 tokens]
+[TRECHO A SER REVISADO - aproximadamente 30-50 linhas]
 
 Realize uma revisão em três dimensões:
 
@@ -290,7 +450,7 @@ Esta revisão deve elevar a qualidade acadêmica do texto sem alterar sua essên
 ```markdown
 Como especialista em normatização acadêmica, revise e aprimore o uso de citações e referências no seguinte trecho do referencial teórico:
 
-[TRECHO A SER REVISADO - até 3.000 tokens]
+[TRECHO A SER REVISADO - aproximadamente 20-30 linhas]
 
 Execute a seguinte análise:
 
@@ -330,8 +490,8 @@ Forneça uma revisão detalhada que mantenha o rigor acadêmico e potencialize a
 ```markdown
 Como epistemólogo da educação, analise a consistência teórica global do referencial teórico em desenvolvimento:
 
-[SUMÁRIO ESTRUTURADO DO REFERENCIAL - até 2.000 tokens]
-[PRINCIPAIS DEFINIÇÕES ADOTADAS - até 1.000 tokens]
+[SUMÁRIO ESTRUTURADO DO REFERENCIAL - aproximadamente 15-20 linhas]
+[PRINCIPAIS DEFINIÇÕES ADOTADAS - aproximadamente 7-10 linhas]
 
 Realize uma análise crítica de:
 
@@ -396,31 +556,177 @@ Como especialista em transposição teórica para contextos específicos, analis
 Esta análise visa garantir que o referencial teórico não seja apenas uma revisão genérica, mas efetivamente dialogue com o contexto específico que é objeto da pesquisa.
 ```
 
-## Orientações para Implementação das Estratégias
+### Prompt 5.3: Síntese de Revisão Sistemática com Framework Integrativo
 
-1. **Sequenciamento dos Prompts:**
+```markdown
+Atue como uma equipe multidisciplinar de pesquisadores especializada em síntese de conhecimento científico. Com base nos fichamentos fornecidos sobre aprendizagem autodirigida e metodologias ativas no ensino superior de computação, desenvolva:
 
-   - Inicie com os prompts de extração (1.1 e 1.2) para cada material extenso
-   - Prossiga com análises comparativas (2.1 e 2.2) para integrar diferentes fontes
-   - Utilize os prompts de estruturação (3.1 e 3.2) para organizar o referencial
-   - Aplique os prompts de redação (4.1, 4.2 e 4.3) para cada seção
-   - Finalize com os prompts de integração (5.1 e 5.2) para verificar coerência global
+1. MAPA DO ESTADO DA ARTE:
+   Crie uma representação estruturada do conhecimento atual sobre SDL em licenciatura em computação:
 
-2. **Gestão de Limitações de Tokens:**
+   a) Categorização Teórica:
 
-   - Para o Claude 3.7 Sonnet (limite de 128.000 tokens): Priorize os prompts de integração (5.1 e 5.2)
-   - Para modelos com limite de 8.000-16.000 tokens: Utilize os prompts de extração e redação (1.x e 4.x)
-   - Para modelos com limite menor: Fragmente ainda mais os prompts 1.1 e 4.1
+   - Correntes teóricas identificadas (com principais autores)
+   - Definições operacionais predominantes de SDL
+   - Evolução cronológica dos conceitos (antes de 2000, 2000-2010, 2010-presente)
 
-3. **Abordagem Incremental:**
+   b) Mapeamento Metodológico:
 
-   - Para cada conceito principal, aplique a sequência completa de prompts
-   - Guarde outputs intermediários para alimentar prompts subsequentes
-   - Mantenha registro das fontes utilizadas em cada etapa
+   - Metodologias ativas mais estudadas (categorizar e quantificar)
+   - Métodos de avaliação da SDL (instrumentos validados, métricas)
+   - Contextos de aplicação (tipos de instituição, perfil de estudantes)
 
-4. **Documentação do Processo:**
-   - Crie um registro de quais perguntas da pesquisa foram respondidas por quais fontes
-   - Documente lacunas identificadas para posterior complementação
-   - Mantenha matriz de integração conceitual atualizada
+   c) Síntese de Evidências:
 
-Este conjunto de estratégias permite um desenvolvimento sistemático e rigoroso do referencial teórico, gerenciando as limitações de contexto dos modelos e garantindo a profundidade e qualidade acadêmica esperadas em um trabalho de conclusão de curso.
+   - Tabulação dos resultados empíricos por tipo de intervenção
+   - Níveis de evidência (forte, moderada, limitada) por metodologia
+   - Fatores moderadores identificados (características dos estudantes, contexto institucional)
+
+2. ANÁLISE DE LACUNAS E INCONSISTÊNCIAS:
+   Aplique 3 diferentes abordagens analíticas para identificar lacunas:
+
+   a) Análise de Divergências Conceituais:
+
+   - Identifique definições contraditórias ou inconsistentes
+   - Mapeie debates teóricos não resolvidos
+   - Destaque diferenças em operacionalização de variáveis
+
+   b) Análise de Vazios Metodológicos:
+
+   - Identifique populações sub-representadas nos estudos
+   - Aponte metodologias promissoras pouco estudadas
+   - Destaque limitações metodológicas recorrentes
+
+   c) Análise de Gaps Contextuais:
+
+   - Identifique especificidades da licenciatura em computação não abordadas
+   - Aponte questões culturais ou regionais negligenciadas
+   - Destaque aspectos tecnológicos emergentes não considerados
+
+3. FRAMEWORK INTEGRATIVO:
+   Desenvolva um modelo conceitual que:
+
+   a) Integre as dimensões:
+
+   - Teóricas (definições e modelos de SDL)
+   - Pedagógicas (metodologias ativas)
+   - Contextuais (formação em computação)
+
+   b) Estabeleça relações entre:
+
+   - Antecedentes (fatores que facilitam SDL)
+   - Processos (mecanismos que promovem SDL)
+   - Resultados (impactos no desenvolvimento profissional)
+
+   c) Considere níveis de análise:
+
+   - Individual (características do estudante)
+   - Pedagógico (estratégias de ensino)
+   - Institucional (cultura e políticas)
+   - Tecnológico (recursos e ferramentas)
+
+4. AGENDA DE PESQUISA:
+   Proponha 5-7 questões de pesquisa prioritárias que:
+   - Abordem as principais lacunas identificadas
+   - Sejam formuladas usando o protocolo PICO ou PEO
+   - Incluam sugestões metodológicas específicas
+   - Considerem o impacto potencial para a prática docente
+
+Este prompt é ideal para modelos de grande capacidade como Claude 3.7 Sonnet ou GPT-o1 devido à sua complexidade e necessidade de processamento de múltiplas fontes.
+```
+
+## 6. Estratégias para Análise de Perfis e Metodologias
+
+### Prompt 6.1: Análise de Metodologias Ativas para SDL
+
+```markdown
+Como especialista em metodologias ativas e aprendizagem autodirigida, realize a seguinte análise:
+
+1. CLASSIFICAÇÃO ESTRUTURADA DE METODOLOGIAS:
+   Classifique as metodologias ativas identificadas na literatura segundo:
+
+   a) Princípio pedagógico predominante:
+
+   - Aprendizagem experiencial
+   - Aprendizagem baseada em problemas
+   - Aprendizagem colaborativa
+   - Aprendizagem investigativa
+   - Aprendizagem por projetos
+
+   b) Nível de autonomia demandado/promovido:
+
+   - Inicial (estruturado, com forte orientação)
+   - Intermediário (semi-estruturado, com orientação moderada)
+   - Avançado (pouco estruturado, com mínima orientação)
+
+   c) Evidência de eficácia para SDL:
+
+   - Forte (múltiplos estudos convergentes)
+   - Moderada (alguns estudos positivos)
+   - Limitada (poucos estudos ou resultados mistos)
+   - Inconclusiva (ausência de estudos ou resultados contraditórios)
+
+2. MATRIZ DE RELAÇÃO:
+   Para cada metodologia, desenvolva uma matriz que relacione:
+
+   - Competências específicas da licenciatura em computação
+   - Dimensões da SDL que são desenvolvidas
+   - Desafios de implementação no contexto brasileiro
+   - Técnicas de avaliação recomendadas
+
+3. CATEGORIZAÇÃO POR CONTEXTO:
+   Categorize as metodologias por adequação a:
+
+   - Diferentes momentos da formação (inicial, intermediária, avançada)
+   - Tipos de conteúdo (conceitual, procedimental, atitudinal)
+   - Modalidades de ensino (presencial, híbrido, remoto)
+
+4. RECOMENDAÇÕES PRÁTICAS:
+   Para cada metodologia, forneça:
+   - Estratégias concretas de implementação
+   - Adaptações necessárias para o contexto da licenciatura em computação
+   - Exemplos de atividades específicas relacionadas a conteúdos de computação
+   - Indicadores para avaliação do desenvolvimento da SDL
+```
+
+### Prompt 6.2: Análise do Perfil do Licenciando em Computação
+
+```markdown
+Como pesquisador especializado em educação em computação e perfis de aprendizagem, desenvolva:
+
+1. ANÁLISE MULTIDIMENSIONAL DO PERFIL:
+   Realize uma análise multifacetada do perfil do licenciando em computação, considerando:
+
+   - Dimensão cognitiva (estilos de aprendizagem, pensamento computacional)
+   - Dimensão pedagógica (relação com o conhecimento pedagógico)
+   - Dimensão tecnológica (fluência e adaptabilidade tecnológica)
+   - Dimensão atitudinal (motivação, autorregulação, resiliência)
+
+2. CONSTRUÇÃO DE PERSONAS:
+   Crie 5 personas representativas de diferentes perfis de estudantes de licenciatura em computação.
+   Para cada persona, detalhe:
+
+   - Background educacional e experiências prévias
+   - Motivações para cursar licenciatura em computação
+   - Pontos fortes e desafios em relação à SDL
+   - Preferências de aprendizagem
+   - Trajetória esperada de desenvolvimento durante o curso
+
+3. TRAJETÓRIAS DE DESENVOLVIMENTO:
+   Para cada persona, projete:
+
+   - Uma trajetória de desenvolvimento da SDL ao longo da formação
+   - Metodologias ativas mais adequadas para cada etapa
+   - Estratégias de suporte e scaffolding recomendadas
+   - Desafios específicos a serem superados
+   - Indicadores de progresso a serem monitorados
+
+4. MAPA DE DESENVOLVIMENTO INTEGRADO:
+   Integre esta análise criando um mapa de desenvolvimento da SDL específico para licenciandos em computação, destacando:
+   - Competências a serem desenvolvidas progressivamente
+   - Pontos críticos de transição na autonomia
+   - Estratégias docentes diferenciadas por estágio de desenvolvimento
+   - Indicadores objetivos de progresso em cada estágio
+
+Este prompt é ideal para modelos com maior capacidade contextual como Claude 3.5 Sonnet ou GPT-4.
+```
