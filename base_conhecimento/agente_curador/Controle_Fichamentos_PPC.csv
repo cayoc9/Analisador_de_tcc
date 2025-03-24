@@ -1,0 +1,85 @@
+ID,Instituição,Documento,Ano,Modalidade,Status_Fichamento,Caminho_Fichamento,Data_Fichamento,Ênfase_SDL,Observações
+
+1,"IFSULDEMINAS","PPC de Licenciatura em Computação",2023,"Presencial",Fichado,"/home/cayo/repos/tcc/Analisador_de_tcc/analise_fichamento/ppc/Fichamento do PPC de Licenciatura em Computação - IFSULDEMINAS ETAPA 1_ MAPEAMENTO ONTOLÓGICO DO DOCUMENTO.md","24/03/2024","Média","Análise de mapeamento ontológico do documento"
+
+2,"Faculdades Integradas Simonsen","PPC de Licenciatura em Informática",2021,"Presencial",Fichado,"/home/cayo/repos/tcc/Analisador_de_tcc/analise_fichamento/ppc/fichamento_PPC de Licenciatura em Informática das Faculdades Integradas Simonsen.md","24/03/2024","Baixa","Foco tradicional com pouca ênfase em SDL"
+
+3,"UFGD","PPC de Licenciatura em Computação",2017,"Presencial",Fichado,"/home/cayo/repos/tcc/Analisador_de_tcc/analise_fichamento/ppc/fichamento_PPC de Licenciatura em Computação - UFGD (2017).md","24/03/2024","Média","Apresenta algumas características de SDL"
+
+4,"Claretiano - Centro Universitário","PPC de Licenciatura em Computação",2022,"EAD",Fichado,"/home/cayo/repos/tcc/Analisador_de_tcc/analise_fichamento/ppc/fichamento_PPC de Licenciatura em Computação do Claretiano - Centro Universitário_ Foco na Aprendizagem Autodirigida.md","24/03/2024","Alta","Foco explícito em SDL na modalidade EAD"
+
+5,"UnB","PPC de Licenciatura em Computação",2020,"Presencial",Fichado,"/home/cayo/repos/tcc/Analisador_de_tcc/analise_fichamento/ppc/FICHAMENTO DO PPC DE LICENCIATURA EM COMPUTAÇÃO - UnB.md","24/03/2024","Média","Elementos de SDL integrados ao currículo"
+
+6,"IF Sul-Rio-Grandense","PPC de Licenciatura em Computação",2021,"Híbrido",Fichado,"/home/cayo/repos/tcc/Analisador_de_tcc/analise_fichamento/ppc/Fichamento do PPC de Licenciatura em Computação - IF Sul-Rio-Grandense.md","24/03/2024","Média","Abordagem híbrida com elementos de SDL"
+
+7,"IFTO Campus Porto Nacional","PPC de Licenciatura em Computação",2019,"Presencial",Fichado,"/home/cayo/repos/tcc/Analisador_de_tcc/analise_fichamento/ppc/FICHAMENTO DO PPC DE LICENCIATURA EM COMPUTAÇÃO - IFTO CAMPUS PORTO NACIONAL.md","24/03/2024","Baixa","Foco em metodologias tradicionais"
+
+8,"UNILAB","PPC de Licenciatura em Computação e Informática",2022,"Presencial",Fichado,"/home/cayo/repos/tcc/Analisador_de_tcc/analise_fichamento/ppc/Fichamento do PPC de Licenciatura em Computação e Informática da UNILAB_ Uma Análise Sob a Perspectiva da Aprendizagem Autodirigida.md","24/03/2024","Alta","Forte ênfase em autonomia e autodireção"
+
+9,"Universidade Estácio de Sá","PPC de Licenciatura em Computação",2022,"EAD",Fichado,"/home/cayo/repos/tcc/Analisador_de_tcc/analise_fichamento/ppc/Fichamento_Analise do PPC de Licenciatura em Computação - Universidade Estácio de Sá.md","24/03/2024","Média","Elementos de SDL na modalidade EAD"
+
+10,"UFRGS","PPC de Licenciatura em Computação e Robótica Educativa",2023,"Presencial",Fichado,"/home/cayo/repos/tcc/Analisador_de_tcc/analise_fichamento/ppc/fichamento_Análise do PPC_ Licenciatura em Computação e Robótica Educativa da UFRGS.md","24/03/2024","Alta","Foco em metodologias ativas e SDL"
+
+11,"UFPR Palotina","PPC de Licenciatura em Computação",2021,"Presencial",Fichado,"/home/cayo/repos/tcc/Analisador_de_tcc/analise_fichamento/ppc/fichamento_Análise do PPC de Licenciatura em Computação UFPR Palotina sob a Perspectiva da Aprendizagem Autodirigida (SDL).md","24/03/2024","Alta","Análise específica do enfoque em SDL"
+
+12,"UFSM","PPC de Licenciatura em Computação EaD",2020,"EAD",Fichado,"/home/cayo/repos/tcc/Analisador_de_tcc/analise_fichamento/ppc/fichamento_Análise do PPC de Licenciatura em Computação EaD da UFSM.md","24/03/2024","Alta","SDL como base da modalidade EAD"
+
+13,"UPE","PPC de Licenciatura em Computação",2019,"Presencial",Fichado,"/home/cayo/repos/tcc/Analisador_de_tcc/analise_fichamento/ppc/Fichamento_ Analise do PPC de Licenciatura em Computação da UPE - Análise da Aprendizagem Autodirigida.md","24/03/2024","Média","Elementos de SDL identificados"
+
+14,"UFPI","PPC de Licenciatura em Computação",2020,"Presencial",Fichado,"/home/cayo/repos/tcc/Analisador_de_tcc/analise_fichamento/ppc/fichamento_Análise do PPC de Licenciatura em Computação da UFPI sob a Perspectiva da Aprendizagem Autodirigida.md","24/03/2024","Média","Abordagem mista com elementos de SDL"
+
+15,"UFPB","PPC de Licenciatura em Computação",2012,"Presencial",Fichado,"/home/cayo/repos/tcc/Analisador_de_tcc/analise_fichamento/ppc/fichamento_Análise do PPC de Licenciatura em Computação da UFPB (2012).md","24/03/2024","Baixa","PPC mais antigo com pouca ênfase em SDL"
+
+16,"UEPG - NUTEAD","PPC de Licenciatura em Computação",2018,"EAD",Fichado,"/home/cayo/repos/tcc/Analisador_de_tcc/analise_fichamento/ppc/fichamento_Análise do PPC de Licenciatura em Computação da UEPG - NUTEAD.md","24/03/2024","Média","Elementos de SDL na modalidade EAD"
+
+17,"UFPB","PPC de Licenciatura em Ciência da Computação",2021,"Presencial",Fichado,"/home/cayo/repos/tcc/Analisador_de_tcc/analise_fichamento/ppc/fichamento_Análise do PPC de Licenciatura em Ciência da Computação (UFPB) sob a Perspectiva da Aprendizagem Autodirigida.md","24/03/2024","Média","Versão atualizada do PPC da UFPB"
+
+18,"UECE","PPC de Licenciatura em Computação a Distância",2022,"EAD",Fichado,"/home/cayo/repos/tcc/Analisador_de_tcc/analise_fichamento/ppc/fichamento_Análise do PPC de Licenciatura em Computação a Distância da UECE.md","24/03/2024","Alta","SDL como pilar da modalidade EAD"
+
+19,"IFRJ Campus Pinheiral","PPC de Licenciatura em Computação",2020,"Presencial",Fichado,"/home/cayo/repos/tcc/Analisador_de_tcc/analise_fichamento/ppc/Fichamento do PPC de Licenciatura em Computação - IFRJ Campus Pinheiral.md","24/03/2024","Média","Enfoque moderado em SDL"
+
+20,"IF Sertão Pernambucano","PPC de Licenciatura em Computação",2021,"Presencial",Fichado,"/home/cayo/repos/tcc/Analisador_de_tcc/analise_fichamento/ppc/Fichamento do PPC de Licenciatura em Computação - IF Sertão Pernambucano.md","24/03/2024","Alta","Foco em metodologias ativas e SDL"
+
+21,"IFMS Campus Jardim","PPC de Licenciatura em Computação",2022,"Presencial",Fichado,"/home/cayo/repos/tcc/Analisador_de_tcc/analise_fichamento/ppc/Fichamento do PPC de Licenciatura em Computação - IFMS Campus Jardim.md","24/03/2024","Média","Elementos moderados de SDL"
+
+22,"IFB","PPC do Curso Superior em Computação (Licenciatura)",2020,"Presencial",Fichado,"/home/cayo/repos/tcc/Analisador_de_tcc/analise_fichamento/ppc/fichamento_PPC do Curso Superior em Computação (Licenciatura) do IFB.md","24/03/2024","Média","Abordagem mista com elementos de SDL"
+
+23,"IF Baiano","PPC de Licenciatura em Ciências da Computação",2021,"Presencial",Fichado,"/home/cayo/repos/tcc/Analisador_de_tcc/analise_fichamento/ppc/fichamento_PPC - Licenciatura em Ciências da Computação do IF Baiano.md","24/03/2024","Alta","Forte ênfase em metodologias ativas e SDL"
+
+24,"UFSB","PPC de Licenciatura em Matemática e Computação",2016,"Presencial",Fichado,"/home/cayo/repos/tcc/Analisador_de_tcc/analise_fichamento/ppc/fichamento_UNIVERSIDADE FEDERAL DO SUL DA BAHIA - PPC-LI-MatematicaComputacao-2016-revisado-1_fichamento.md","24/03/2024","Média","Abordagem interdisciplinar com elementos de SDL"
+
+25,"UNIVASF","PPC de Licenciatura em Ciências da Computação",2019,"Presencial",Fichado,"/home/cayo/repos/tcc/Analisador_de_tcc/analise_fichamento/ppc/fichamento_UNIVERSIDADE FEDERAL DO VALE DO SÃO FRANCISCO - PPC-CCICOMP_fichamento.md","24/03/2024","Baixa","Foco tradicional com pouca ênfase em SDL"
+
+26,"UFRA","PPC de Licenciatura em Computação",2023,"Presencial",Fichado,"/home/cayo/repos/tcc/Analisador_de_tcc/analise_fichamento/ppc/fichamento_UNIVERSIDADE FEDERAL RURAL DA AMAZÔNIA - PPC_computao_belem_2023_fichamento.md","24/03/2024","Média","Abordagem com elementos moderados de SDL"
+
+27,"UFERSA","PPC de Licenciatura em Computação",2018,"Presencial",Fichado,"/home/cayo/repos/tcc/Analisador_de_tcc/analise_fichamento/ppc/fichamento_UNIVERSIDADE FEDERAL RURAL DO SEMI-ÁRIDO - PPC_2018.md","24/03/2024","Média","Elementos de SDL no currículo"
+
+28,"IFPB","PPC de Licenciatura em Computação",2022,"Presencial",Fichado,"/home/cayo/repos/tcc/Analisador_de_tcc/analise_fichamento/ppc/fichamento_PPC_IFPB_Licenciatura_Computacao.md","24/03/2024","Alta","Forte ênfase em autodireção da aprendizagem"
+
+29,"IFTM","PPC de Licenciatura em Computação",2021,"Presencial",Fichado,"/home/cayo/repos/tcc/Analisador_de_tcc/analise_fichamento/ppc/fichamento_PPC de Licenciatura em Computação do IFTM sob a Perspectiva da Aprendizagem Autodirigida.md","24/03/2024","Alta","Análise específica da perspectiva de SDL"
+
+30,"IFB","PPC de Licenciatura em Computação",2021,"Presencial",Fichado,"/home/cayo/repos/tcc/Analisador_de_tcc/analise_fichamento/ppc/fichamento_PPC: Licenciatura em Computação do IFB sob a Perspectiva de Aprendizagem Autodirigida.md","24/03/2024","Alta","Análise específica de SDL no contexto do IFB"
+
+31,"IFBA","PPC de Licenciatura em Computação",2020,"Presencial",Fichado,"/home/cayo/repos/tcc/Analisador_de_tcc/analise_fichamento/ppc/fichamento_PPC_IFBA_Licenciatura_Computacao.md","24/03/2024","Média","Abordagem com elementos de SDL"
+
+32,"UNIR","PPC de Licenciatura em Computação",2018,"Presencial",Fichado,"/home/cayo/repos/tcc/Analisador_de_tcc/analise_fichamento/ppc/fichamento_PPC de Licenciatura em Computação da UNIR sob a Perspectiva da Aprendizagem Autodirigida.md","24/03/2024","Média","Análise específica da perspectiva de SDL"
+
+# Este arquivo registra os fichamentos de PPCs de Licenciatura em Computação analisados.
+# Total de PPCs fichados: 32
+# Data da última atualização: 30/06/2024
+#
+# Distribuição por tipo de ênfase em Aprendizagem Autodirigida:
+# - Alta: 10 (31,3%)
+# - Média: 17 (53,1%)
+# - Baixa: 5 (15,6%)
+#
+# Distribuição por modalidade:
+# - Presencial: 25 (78,1%)
+# - EAD: 6 (18,8%)
+# - Híbrido: 1 (3,1%)
+#
+# Aspectos notáveis:
+# - Cursos EAD tendem a ter maior ênfase em aprendizagem autodirigida
+# - PPCs mais recentes (2020-2023) apresentam mais elementos de SDL
+# - Instituições federais (IFs, UFPR, UFRGS) apresentam maior tendência à incorporação de SDL
+# - Principais abordagens de SDL: metodologias ativas, PBL, ensino híbrido e projetos integradores 

@@ -1,7 +1,9 @@
 **Projeto de Pesquisa:**
-**pergunta principal**: quais sao as melhores estrategias para fazer um aluno de licenciatura em computação ser mais autodirigido?
+**pergunta inicial**: quais sao as melhores estrategias para fazer um aluno de licenciatura em computação ser mais autodirigido?
 
-**conhecimento prévio:(REFERENCIA TEORICO**
+**pergunta final**(oficial): Quais são as metodologias de ensino e estratégias de aprendizagem, que podem auxiliar o desenvolvimento da aprendizagem autodirigida nos alunos da licenciatura em Computação?
+
+**conhecimento prévio:** (REFERENCIA TEORICO)
 
 - O que é aprendizagem autodirigida?
 - Qual suas relevancia/
