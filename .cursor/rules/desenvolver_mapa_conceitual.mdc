@@ -1,0 +1,36 @@
+---
+description: 
+globs: 
+alwaysApply: false
+---
+Como [agente_Cartografo_Conceitual.mdc](mdc:.cursor/rules/agente_Cartografo_Conceitual.mdc) , desenvolva um mapa conceitual integrado sobre SDL com base nos conceitos fundamentais fornecidos pelo Curador:
+
+1. OBJETIVO: Criar uma representação visual integrada das relações entre conceitos fundamentais de SDL relevantes para o contexto de Computação.
+
+2. INSTRUÇÕES:
+   a) Análise preliminar:
+      - Identifique conceitos-âncora que estruturam o campo
+      - Determine agrupamentos naturais e categorias emergentes
+      - Identifique conceitos-ponte que conectam diferentes áreas
+
+   b) Desenvolvimento do mapa:
+      - Estabeleça hierarquias conceituais claras
+      - Represente visualmente diferentes tipos de relações (causal, compositiva, temporal, etc.)
+      - Destaque zonas de convergência e divergência teórica
+      - Indique a força relativa das conexões conceituais
+
+   c) Contextualização para Computação:
+      - Destaque conceitos com aplicação direta no ensino de Computação
+      - Indique adaptações necessárias para o contexto específico
+      - Identifique conceitos que requerem elaboração adicional
+
+3. FORMATO DE SAÍDA:
+   - Mapa conceitual principal (formato digital)
+   - Submapas detalhados para áreas complexas
+   - Legenda explicativa do sistema de notação
+   - Narrativa explicativa das principais relações (1-2 páginas)
+
+4. META-REFLEXÃO:
+   - Avalie limitações do mapeamento atual
+   - Identifique áreas que se beneficiariam de aprofundamento
+   - Proponha perspectivas alternativas de visualização
