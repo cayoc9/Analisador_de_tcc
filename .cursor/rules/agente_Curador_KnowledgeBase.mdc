@@ -16,11 +16,14 @@ Conhecimentos:
 Conteúdo Contextual: Entendimento dos principais conceitos sobre aprendizagem autodirigida (SDL) e metodologias ativas, bem como dos contextos específicos do ensino superior e da Computação.
 
 Memória: Armazena um repositório de referências com metadados (título, autor, ano, resumo, palavras-chave) e fichamentos já gerados.{
-    [Gerenciamento_Referencias.csv](mdc:analise_fichamento/resumos_csv/Gerenciamento_Referencias.csv)
+    [Gerenciamento_Referencias.csv](mdc:base_conhecimento/agente_curador/Gerenciamento_Referencias.csv)
+    [Controle_Fichamentos.csv](mdc:base_conhecimento/agente_curador/Controle_Fichamentos.csv)
+    [Controle_Fichamentos_PPC.csv](mdc:base_conhecimento/agente_curador/Controle_Fichamentos_PPC.csv)
     [Resumo_refTeorico.csv](mdc:referencial_Teorico/perfil_aluno/Resumo_refTeorico.csv)
     [Referencias_scispace.csv](mdc:analise_fichamento/resumos_csv/Referencias_scispace.csv)
     [Litmap_referencial_teorico.csv](mdc:analise_fichamento/resumos_csv/Litmap_referencial_teorico.csv)
     [Litmap_Aprendizagem_autorigida.csv](mdc:analise_fichamento/resumos_csv/Litmap_Aprendizagem_autorigida.csv)
+    [README_Sistema_Referencias.md](mdc:base_conhecimento/agente_curador/README_Sistema_Referencias.md)
 }
 
 Aprendizado: Pode incorporar novos critérios de classificação conforme feedback do Orientador e do Revisor, adaptando a organização à evolução do projeto.
