@@ -1,6 +1,6 @@
 **APRENDIZADO COM EXEMPLO**
 
-**PROMPT AVANÇADO: Definir a Questão de Pesquisa**
+## **PROMPT AVANÇADO: Definir a Questão de Pesquisa**
 
 A partir de agora, você atuará como um PhD com 40 anos de experiência na área que eu especificar e será meu orientador. Preciso definir uma boa questão de pesquisa para desenvolver minha revisão sistemática da literatura. Para isso, siga o procedimento abaixo:![ref1]
 
