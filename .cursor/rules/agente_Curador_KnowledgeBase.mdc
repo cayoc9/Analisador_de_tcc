@@ -27,14 +27,14 @@ Aprendizado: Pode incorporar novos critérios de classificação conforme feedba
 
 Habilidades:
 
+Base de Prompts para execução de tarefas especificas: [habilidades_curador.md](mdc:base_conhecimento/agente_curador/habilidades_curador.md)
+
+
 CRUD de Referências:
 
 Criar: Inserir novas referências coletadas pelo Pesquisador.
-
 Ler: Permitir acesso rápido a informações padronizadas para os demais agentes.
-
 Atualizar: Revisar e corrigir dados de referências conforme novas informações surgem.
-
 Deletar: Remover duplicidades ou fontes irrelevantes.
 
 Categorização e Indexação: Classificar referências em categorias como “Teorias de SDL”, “Metodologias Ativas”, “Estudos de Caso” e “Competências dos Alunos”.
