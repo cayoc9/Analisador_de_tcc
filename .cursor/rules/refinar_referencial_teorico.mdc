@@ -1,0 +1,49 @@
+---
+description: 
+globs: 
+alwaysApply: false
+---
+# TAREFA: TRANSFORMAÇÃO DO REFERENCIAL TEÓRICO SOBRE APRENDIZAGEM AUTODIRIGIDA
+
+Você deve transformar o conteúdo fragmentado em tópicos dos arquivos [referencial_teorico.md](mdc:referencial_Teorico/referencial_teorico.md) e [aprendizagem_autodirigida.md](mdc:referencial_Teorico/aprendizage_autodirigida/aprendizagem_autodirigida.md) em uma narrativa dissertativa coesa e concisa, mantendo a profundidade acadêmica mas com fluidez textual.
+
+## CONTEXTO ESSENCIAL
+- O referencial teórico fundamenta uma pesquisa sobre metodologias ativas para desenvolver aprendizagem autodirigida em alunos de Licenciatura em Computação
+- O texto deve alinhar-se aos objetivos do projeto ([Plano_projeto_pesquisa.md](mdc:base_conhecimento/agente_orientador/Plano_projeto_pesquisa.md) )
+- O público-alvo são acadêmicos da área de educação e computação
+
+## DIRETRIZES ESTRUTURAIS
+1. Construa um texto dissertativo contínuo, sem fragmentação excessiva em tópicos
+2. Organize o conteúdo em seções lógicas com transições fluidas entre conceitos
+3. Cada subtópico numerado deve ter PELO MENOS uma página completa de conteúdo substantivo
+4. Estabeleça conexões explícitas entre as seções para manter coesão argumentativa
+
+## DIRETRIZES DE CONTEÚDO
+1. PRIORIZE:
+   - Definição conceitual da SDL (base sólida)
+   - Conexão com andragogia e educação de adultos
+   - Relação com metodologias ativas de ensino
+   - Contextualização para formação docente em computação
+   - Tensões conceituais, especialmente adaptação cultural ao contexto brasileiro
+
+2. EQUILÍBRIOS NECESSÁRIOS:
+   - Entre rigor teórico e aplicabilidade prática
+   - Entre perspectivas internacionais e realidade brasileira
+   - Entre formação técnica e pedagógica do licenciado em computação
+   - Entre abordagem individual e coletiva da aprendizagem
+
+## DIRETRIZES ESTILÍSTICAS
+1. Utilize linguagem acadêmica formal, mas clara e acessível
+2. Empregue transições explícitas entre parágrafos e seções ("Além disso", "Em contraste", "Esta perspectiva")
+3. Citações no formato ABNT autor-data integradas organicamente ao texto
+4. Evite listagens e marcadores dentro do texto dissertativo
+5. Utilize parágrafos introdutórios e conclusivos para cada seção principal
+
+## ABORDAGEM SUGERIDA
+1. Inicie com contextualização ampla da SDL e seus topicos correlatos (andragogia lifelong learning)
+2. Relacione a SDL com metodologias ativas e outras estrategias para melhorar apresentadas conceituralmente
+2. Desenvolva gradualmente para aplicações específicas na Licenciatura em Computação
+3. Evidencie as tensões conceituais como oportunidades de análise crítica
+4. Conclua estabelecendo bases teóricas para a investigação proposta feita na revisao de literatura 
+
+Este texto formará a fundamentação teórica essencial que sustentará toda a pesquisa subsequente. Deve ser simultaneamente abrangente em escopo e preciso em relevância contextual.
