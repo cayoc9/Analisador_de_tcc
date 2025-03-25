@@ -1,0 +1,35 @@
+---
+description: 
+globs: 
+alwaysApply: false
+---
+Como [agente_Cartografo_Conceitual.mdc](mdc:.cursor/rules/agente_Cartografo_Conceitual.mdc) , realize uma verificação cruzada entre o referencial teórico desenvolvido e as perguntas de pesquisa:
+
+1. OBJETIVO: Avaliar sistematicamente se o referencial teórico construído fornece base adequada para responder às perguntas de pesquisa.
+
+2. INSTRUÇÕES:
+   a) Para cada pergunta de pesquisa:
+      - Identifique conceitos-chave necessários para respondê-la
+      - Avalie a presença e profundidade desses conceitos no referencial
+      - Determine se existem relações conceituais necessárias estabelecidas
+      - Identifique lacunas específicas que comprometem a resposta
+
+   b) Análise de coerência global:
+      - Avalie se o referencial apresenta uma narrativa teórica coerente
+      - Identifique incongruências entre diferentes seções do referencial
+      - Determine se a estrutura lógica suporta a progressão das perguntas
+
+   c) Recomendações específicas:
+      - Para cada lacuna identificada, sugira adições ou modificações específicas
+      - Priorize recomendações por impacto nas perguntas de pesquisa
+      - Indique fontes potenciais para preencher as lacunas
+
+3. FORMATO DE SAÍDA:
+   - Utilize o [documento_verificacao_cruzada.md](mdc:base_conhecimento/documento_verificacao_cruzada.md)
+   - Apresente uma tabela de alinhamento entre perguntas e conceitos
+   - Forneça uma síntese das principais fortalezas e limitações
+
+4. META-REFLEXÃO:
+   - Avalie o grau de confiança nas conclusões do diagnóstico
+   - Identifique áreas que se beneficiariam de revisão por especialistas
+   - Sugira como o processo de verificação pode ser aprimorado

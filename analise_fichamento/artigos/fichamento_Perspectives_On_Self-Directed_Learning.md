@@ -95,4 +95,42 @@ Para uma pesquisa sobre SDL no contexto da licenciatura em computação, este ar
 
 Esses insights são especialmente relevantes para o desenvolvimento de profissionais em computação, um campo que exige aprendizagem contínua devido ao rápido avanço tecnológico.
 
+## ETAPA 5: ANÁLISE INCREMENTAL E CONTEXTUALIZAÇÃO
+
+### Contextualização Metodológica
+
+O artigo de Oddi se enquadra no paradigma interpretativista, mas com uma forte inclinação pragmática. Sua abordagem metodológica é baseada principalmente em análise conceitual e revisão crítica, sem apresentar dados empíricos novos. Esta abordagem é justificada pelo objetivo do artigo de reconceituação teórica, propondo uma mudança fundamental na forma de conceber a SDL.
+
+### Extração de Evidências Empíricas
+
+Embora o artigo em si não seja empírico, Oddi apresenta evidências secundárias:
+
+1. **Estudos de Brookfield (1981)**: Evidência robusta de que "aprendizes independentes" não dependem exclusivamente da instrução, utilizando experimentação, resolução de problemas e conversas informais. Isto sustenta a necessidade de uma concepção mais ampla de SDL.
+
+2. **Pesquisa de Gibbons et al. (1980)**: Evidência moderada de que indivíduos bem-sucedidos desenvolveram expertise sem treinamento formal, reforçando a importância de considerar modos não instrucionais de aprendizagem.
+
+3. **Limitações do SDLRS**: Evidência sugestiva dos estudos de Brockett (1983) e Long e Ageykum (1984) que indicam que o SDLRS, por seu foco escolar, pode não ser adequado para todos os contextos de SDL.
+
+### Triangulação com Outras Fontes
+
+Quando comparado com os outros artigos analisados:
+
+1. **Convergência com Garrison**: Ambos reconhecem as limitações de uma visão puramente processual da SDL, com Garrison propondo um modelo integrado que incorpora motivação.
+
+2. **Divergência de Knowles**: Enquanto Knowles enfatiza o processo de autoinstrução, Oddi propõe que a personalidade e motivação são mais fundamentais para compreender a SDL.
+
+3. **Complementaridade com Brockett e Hiemstra**: O modelo PRO posterior (1991) parece uma evolução natural da proposta de Oddi, integrando tanto aspectos processuais quanto de personalidade.
+
+### Contextualização para Licenciatura em Computação
+
+Para o contexto específico da licenciatura em computação no Brasil, esta perspectiva oferece insights valiosos:
+
+1. **Diversidade de caminhos de aprendizagem**: A ênfase em diferentes modos de aprendizagem (instrução, investigação, performance) é particularmente relevante para a tecnologia, onde a aprendizagem formal muitas vezes não acompanha o ritmo da inovação.
+
+2. **Desenvolvimento de atributos pessoais**: Para futuros professores de computação, desenvolver traços de personalidade que sustentam a aprendizagem contínua é tão importante quanto dominar técnicas específicas de autoinstrução.
+
+3. **Avaliação contextualizada**: Instrumentos de avaliação de SDL para estudantes de licenciatura em computação precisariam considerar não apenas habilidades técnicas de autodireção, mas também disposições psicológicas que sustentam a curiosidade e adaptabilidade tecnológica.
+
+4. **Implicações curriculares**: Um currículo de licenciatura em computação baseado nesta perspectiva enfatizaria experiências que desenvolvem motivação intrínseca e persistência, não apenas habilidades técnicas de autogestão da aprendizagem.
+
 [Link para o artigo original](../../referencial_Teorico/aprendizage_autodirigida/Artigos/Perspectives%20On%20Self-Directed%20Learning.md)

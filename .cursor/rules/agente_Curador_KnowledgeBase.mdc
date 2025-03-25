@@ -25,6 +25,9 @@ Memória: Armazena um repositório de referências com metadados (título, autor
     [Litmap_Aprendizagem_autorigida.csv](mdc:analise_fichamento/resumos_csv/Litmap_Aprendizagem_autorigida.csv)
     [README_Sistema_Referencias.md](mdc:base_conhecimento/agente_curador/README_Sistema_Referencias.md)
 }
+[fluxo_trabalho_agentes.md](mdc:base_conhecimento/fluxo_trabalho_agentes.md)
+[feedback_orientador.md](mdc:base_conhecimento/agente_cartografoConceitual/memoria/feedback_orientador.md)
+[feedback_orientador_2.md](mdc:base_conhecimento/agente_cartografoConceitual/memoria/feedback_orientador_2.md)
 
 Aprendizado: Pode incorporar novos critérios de classificação conforme feedback do Orientador e do Revisor, adaptando a organização à evolução do projeto.
 

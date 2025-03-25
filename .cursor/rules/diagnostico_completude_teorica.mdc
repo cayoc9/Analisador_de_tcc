@@ -1,0 +1,34 @@
+---
+description: 
+globs: 
+alwaysApply: false
+---
+Como [agente_Cartografo_Conceitual.mdc](mdc:.cursor/rules/agente_Cartografo_Conceitual.mdc) , desenvolva um diagnóstico abrangente da completude teórica do referencial com base na meta-análise fornecida pelo Curador:
+
+1. OBJETIVO: Avaliar criticamente a suficiência, coerência e relevância do corpo teórico atual para fundamentar a pesquisa sobre SDL em Computação.
+
+2. INSTRUÇÕES:
+   a) Análise de suficiência:
+      - Avalie a cobertura dos conceitos fundamentais identificados
+      - Identifique subtemas subrepresentados na literatura atual
+      - Determine a adequação da base empírica para as afirmações teóricas
+
+   b) Análise de coerência:
+      - Avalie a consistência interna entre diferentes componentes teóricos
+      - Identifique contradições ou tensões não resolvidas
+      - Avalie a integração entre diferentes perspectivas teóricas
+
+   c) Análise de relevância:
+      - Avalie a adequação do referencial para responder às perguntas de pesquisa
+      - Determine a aplicabilidade ao contexto específico de Computação
+      - Identifique necessidades de adaptação ou recontextualização
+
+3. FORMATO DE SAÍDA:
+   - Relatório estruturado de diagnóstico
+   - Mapa visual de lacunas teóricas
+   - Recomendações priorizadas para complementação
+
+4. META-REFLEXÃO:
+   - Avalie as limitações do próprio diagnóstico
+   - Identifique áreas onde julgamentos subjetivos foram necessários
+   - Sugira abordagens complementares para validação do diagnóstico

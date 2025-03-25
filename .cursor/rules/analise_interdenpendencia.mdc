@@ -1,0 +1,34 @@
+---
+description: 
+globs: 
+alwaysApply: false
+---
+Como [agente_Cartografo_Conceitual.mdc](mdc:.cursor/rules/agente_Cartografo_Conceitual.mdc) , analise as interdependências entre competências de SDL e o perfil do aluno com base nos dados fornecidos pelo Curador:
+
+1. OBJETIVO: Desenvolver uma análise sistemática das relações entre competências necessárias para SDL e características do perfil do aluno em Computação.
+
+2. INSTRUÇÕES:
+   a) Análise de alinhamento:
+      - Identifique correspondências naturais entre competências e características do perfil
+      - Avalie o grau de alinhamento (forte, moderado, fraco, conflitante)
+      - Destaque áreas de potencial sinergia e tensão
+
+   b) Análise de lacunas:
+      - Identifique competências esperadas que podem ser desafiadoras para o perfil típico
+      - Avalie a criticidade dessas lacunas para o sucesso em SDL
+      - Sugira intervenções pedagógicas para abordar as lacunas
+
+   c) Análise de oportunidades:
+      - Identifique características do perfil que podem ser aproveitadas como vantagens
+      - Sugira como as oportunidades podem ser maximizadas
+      - Indique condições contextuais necessárias para aproveitamento
+
+3. FORMATO DE SAÍDA:
+   - Matriz de interdependências (formato tabular) [template_matriz_interdependencias.md](mdc:base_conhecimento/template_matriz_interdependencias.md)
+   - Mapa visual de influências (formato diagrama)
+   - Análise narrativa das relações mais significativas (2-3 páginas)
+
+4. META-REFLEXÃO:
+   - Avalie como as interdependências podem variar em diferentes contextos
+   - Identifique pressupostos subjacentes à análise
+   - Sugira como a análise pode informar o design instrucional

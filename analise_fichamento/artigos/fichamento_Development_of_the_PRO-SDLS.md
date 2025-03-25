@@ -99,3 +99,33 @@ Recomendo fortemente a inclusão deste artigo no referencial teórico pelos segu
 Este artigo representa uma contribuição significativa tanto teórica quanto metodológica para o campo da SDL, e sua incorporação enriquecerá substancialmente o referencial teórico da pesquisa.
 
 [Artigo original](../../referencial_Teorico/aprendizage_autodirigida/Artigos/Development%20of%20the%20PRO-SDLS_%20A%20Measure%20of%20Self-Direction%20in%20Learning%20Based%20on%20the%20Personal%20Responsibility%20Orientation%20Model_.md)
+
+## ETAPA 5: CONTEXTUALIZAÇÃO ESPECÍFICA PARA LICENCIATURA EM COMPUTAÇÃO
+
+### Relevância Contextual para Formação de Professores de Computação
+
+O desenvolvimento do PRO-SDLS tem implicações diretas para a licenciatura em computação no Brasil:
+
+1. **Avaliação de competências essenciais**: Os quatro fatores do instrumento (iniciativa, controle, autoeficácia e motivação) são particularmente relevantes em um campo onde a tecnologia evolui rapidamente, exigindo que os profissionais atualizem constantemente seus conhecimentos.
+
+2. **Adaptação contextualizada**: Para uso no contexto brasileiro da licenciatura em computação, o instrumento poderia ser adaptado para incluir itens específicos relacionados à capacidade de buscar e avaliar recursos tecnológicos, participar em comunidades de desenvolvimento, e utilizar plataformas de educação continuada em tecnologia.
+
+3. **Design curricular baseado em evidências**: Os resultados do PRO-SDLS poderiam informar o design de currículos na licenciatura em computação, identificando em quais dimensões os estudantes precisam de mais suporte (por exemplo, desenvolvendo iniciativa na busca de soluções tecnológicas ou fortalecendo a autoeficácia em situações pedagógicas com tecnologia).
+
+4. **Avaliação de intervenções pedagógicas**: O instrumento poderia ser utilizado para avaliar a eficácia de abordagens pedagógicas específicas (como aprendizagem baseada em projetos, metodologias ágeis aplicadas à educação, ou hackathons pedagógicos) em desenvolver capacidades de autodireção.
+
+5. **Conexão com o desenvolvimento profissional contínuo**: O PRO-SDLS poderia servir como um indicador da preparação dos licenciandos para o desenvolvimento profissional contínuo que caracteriza a carreira em tecnologia educacional, ajudando a identificar áreas de intervenção ainda durante a formação inicial.
+
+### Considerações para Implementação
+
+Para implementação no contexto da licenciatura em computação no Brasil, seria necessário:
+
+1. **Validação transcultural**: Realizar a validação do instrumento no contexto brasileiro, verificando a equivalência conceitual, semântica e métrica.
+
+2. **Adaptação tecnológica**: Incluir itens específicos relacionados à autodireção em ambientes tecnológicos e comunidades virtuais.
+
+3. **Integração com marcos regulatórios**: Alinhar o uso do instrumento com as Diretrizes Curriculares Nacionais para formação de professores e com os referenciais específicos para licenciatura em computação.
+
+4. **Abordagem longitudinal**: Implementar avaliações em diferentes momentos do curso para acompanhar o desenvolvimento das capacidades de autodireção ao longo da formação.
+
+5. **Triangulação metodológica**: Complementar o uso do PRO-SDLS com métodos qualitativos (como portfólios reflexivos e autoavaliações narrativas) para uma compreensão mais holística do desenvolvimento da autodireção.

@@ -1,0 +1,38 @@
+Atue como um analista de evidências científicas especializado em aprendizagem autodirigida (SDL) no contexto do ensino de computação.
+
+TAREFA: Realize uma análise incremental e aprofundada deste artigo científico, focando na qualidade e relevância das evidências apresentadas.
+
+ETAPA 1: CONTEXTUALIZAÇÃO METODOLÓGICA
+- Identifique o paradigma de pesquisa e justifique sua classificação
+- Avalie a robustez do desenho metodológico considerando:
+  * Adequação à questão de pesquisa
+  * Validade interna e externa
+  * Transparência na descrição dos procedimentos
+  * Rigor na análise dos dados
+
+ETAPA 2: EXTRAÇÃO DE EVIDÊNCIAS EMPÍRICAS
+Para cada resultado significativo relacionado à SDL:
+- Transcreva o dado empírico exato (estatística, citação de participante, etc.)
+- Identifique qual aspecto específico de SDL o resultado ilumina
+- Classifique a força da evidência (robusta, moderada, sugestiva, inconclusiva)
+- Avalie possíveis limitações ou vieses nos dados apresentados
+
+ETAPA 3: TRIANGULAÇÃO COM OUTRAS FONTES
+- Compare as evidências deste artigo com outros já analisados no corpus
+- Identifique:
+  * Convergências que fortalecem o consenso científico
+  * Divergências que sugerem áreas de debate
+  * Lacunas que apontam para necessidades de pesquisas futuras
+
+ETAPA 4: CONTEXTUALIZAÇÃO PARA LICENCIATURA EM COMPUTAÇÃO
+- Extraia implicações específicas para:
+  * A formação de professores de computação no Brasil
+  * O desenvolvimento de competências técnico-pedagógicas
+  * A implementação prática em disciplinas específicas do currículo
+  * Os desafios contextuais da realidade educacional brasileira
+
+OUTPUT ESPERADO:
+1. Tabela de evidências com classificação de força e relevância
+2. Mapa de convergências/divergências com a literatura existente
+3. Conjunto de recomendações práticas derivadas das evidências
+4. Avaliação crítica da contribuição deste artigo para o corpus de conhecimento sobre SDL em computação

@@ -1,0 +1,33 @@
+---
+description: 
+globs: 
+alwaysApply: false
+---
+Como [agente_Curador_KnowledgeBase.mdc](mdc:.cursor/rules/agente_Curador_KnowledgeBase.mdc) , construa uma matriz estruturada de competências relacionadas a SDL e dados sobre o perfil do aluno no contexto de Computação:
+
+1. OBJETIVO: Organizar sistematicamente as competências associadas a SDL e características do perfil do aluno para análise de interdependências.
+
+2. INSTRUÇÕES:
+   a) Para a matriz de competências:
+      - Identifique 10-15 competências essenciais para SDL
+      - Classifique cada competência por tipo (cognitiva, metacognitiva, socioafetiva, técnica)
+      - Indique nível de desenvolvimento esperado (iniciante, intermediário, avançado)
+      - Associe evidências de desenvolvimento na literatura
+      - Relacione com resultados de aprendizagem mensuráveis
+
+   b) Para o perfil do aluno:
+      - Identifique 8-12 características relevantes do aluno
+      - Categorize por aspectos (cognitivos, motivacionais, contextuais, experienciais)
+      - Indique como cada aspecto influencia a capacidade de autodireção
+      - Associe com desafios específicos no contexto de Computação
+      - Relacione com intervenções pedagógicas recomendadas
+
+3. ESTRUTURA DE SAÍDA:
+   - Utilize o [template_matriz_interdependencias.md](mdc:base_conhecimento/template_matriz_interdependencias.md) 
+   - Organize as competências em ordem de complexidade
+   - Apresente o perfil do aluno em ordem de impacto na autodireção
+
+4. META-ANÁLISE:
+   - Identifique padrões de interdependência sugeridos na literatura
+   - Sugira relações que parecem insuficientemente estudadas
+   - Destaque tensões potenciais entre expectativas de competências e realidades do perfil do aluno

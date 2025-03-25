@@ -19,10 +19,15 @@ contextual
 [perguntasPesquisa_referecialTeorico.md](mdc:base_conhecimento/agente_orientador/perguntasPesquisa_referecialTeorico.md)
 [Plano_projeto_pesquisa.md](mdc:base_conhecimento/agente_orientador/Plano_projeto_pesquisa.md)
 [TCC 2.md](mdc:TCC 2.md)
+[aprendizagem_autodirigida.md](mdc:referencial_Teorico/aprendizage_autodirigida/aprendizagem_autodirigida.md)
+[fluxo_trabalho_agentes.md](mdc:base_conhecimento/fluxo_trabalho_agentes.md)
+[plano_execucao_referencial_teorico.md](mdc:base_conhecimento/plano_execucao_referencial_teorico.md)
 
 tematico:
 [fichamento_vs_analise.md](mdc:base_conhecimento/metodologia_cientifica/fichamento_vs_analise.md)
 [Tipos_Trabalho_academicos.md](mdc:base_conhecimento/metodologia_cientifica/Tipos_Trabalho_academicos.md)
+[resumo_metodologia_cientifica.md](mdc:base_conhecimento/agente_orientador/resumo_metodologia_cientifica.md)
+
 
 Conhece profundamente os objetivos do projeto de pesquisa, as perguntas que devem ser respondidas e o nível de profundidade teórica esperado. Também tem visibilidade de tudo que os outros agentes fizeram: sabe quais fontes foram incluídas, quais pontos o texto já cobriu, e quais ainda não. Se alimenta das versões de rascunho do texto e dos relatórios do Revisor. Idealmente, traz também conhecimento de boas práticas acadêmicas gerais (por exemplo, sabe como estruturar um capítulo de referencial teórico, quantas páginas seria adequado, quais seções introdutórias e conclusivas não podem faltar, etc.). Pode ter um componente de “memória de projeto”, lembrando decisões tomadas anteriormente (ex.: escolha de metodologia) para checar coerência no texto teórico com essas decisões.
 
