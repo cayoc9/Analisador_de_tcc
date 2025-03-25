@@ -30,6 +30,12 @@ Analisar de que forma metodologias ativas de ensino podem contribuir para o dese
   - O que lifelong learning?
 - Qual o Papel do professor na aprendizagem autodirigida?
 - O que Estrategia/Metodologia de Ensino?
+  - O que é Problem Based Learning?
+  - O que é Active Learning?
+  - O que é Game Based Learning?
+  - O que é Blended Learning?
+  - O que é Flipped Classroom?
+  - O que é Inverted Classroom?
 - Qual a relação de metodologias ativas com aprendizagem autodirigida?
 - Quais outras praticas alem da metodologia ativa melhora a aprendizagem autodirigida?
 - Quais as metodologias mais relevantes nesse contexto?
@@ -66,6 +72,8 @@ Os alunos podem ter dificuldades em tema tao, entao pode precisar ser mais refor
 Propostas e sugestoes de estretategias de ensino que aumentam a aprendizagem autodirigida adaptadas aos contextos de conhecimento de LC
 
 E por ultimo Sintetizar um compilado de sugestoes de estratégias de ensino que aumentam a aprendizagem autodirigida adaptadas aos contextos de conhecimento de LC e como implementar em LC
+por exemplo:
+utilizar programação em par com estrategias para desenvolver colaboração e autonomia nos alunos
 
 Explicar onde ate onde a pesquisa vai e o que tem de buraco ainda pra preenhcer
 
@@ -79,10 +87,26 @@ Estrutura de capitulos:
 6. Conclusão e Considerações Finais: a fazer
 7. Referências: a fazer
 
-Principios:
-o texto deve ser Discursivo e não ser uma lista de fatos
-nao podemos de jeito nenhum escrever com varios topicos curtos e superficiais
-uma pagina tem em media 5-6 paragrafos medios pra grandes
+Principios Nortedores:
+
+- o texto deve ser Discursivo e não ser uma lista de fatos
+- nao podemos de jeito nenhum escrever com varios topicos curtos e superficiais
+- uma pagina tem em media 5-6 paragrafos medios pra grandes
+- nao podemos usar frases soltas, desconectadas.
+- nao podemos usar frases repetitivas
+- nao podemos usar frases com termos vagos
+- nao podemos usar frases com termos genericos
+- nao podemos usar frases com termos subjetivos
+- nao podemos usar frases com termos excessivos
+- o Referencial teorico deve ter pelo menos 15 pagina (cada pagina com 30 linhas)
+  - 5 paginas Sobre aprendizagem autodirigida
+  - 5 paginas sobre Metodologias Ativas
+  - 5 paginas sobre Aluno do ensino superior presencial e hibrido
+    - enfazer a analise de perfil de aprendizagem do aluno de licenciatura em computação
+- a analise e discussao deve ter 10 paginas
+- Nossa pesquisa nao tem conjunto de dados tao grande focando no brasil, especialment em licenciatura em computação que é ainda menor, entao devemos fazer nossas analises baseado nos dados que temos e adicionar isso como limitacao da pesquisa
+  - Nao temos muito dados sobre licenciatura em computação, entao devemos fazer nossas analises baseado no ensino superior presencial e hibrido, deduzir o que é mais relevante para a licenciatura em computação e adicionar isso como limitacao da pesquisa
+- Todas as metodologias ativas que citarmos no texto deve ser explicada no referencial teorico
 
 ## exemplos de textos que nao sao bons:
 

@@ -86,21 +86,64 @@ ID,Título,Autores,Ano,Categoria,Relevância,Tipo_Documento,Status_Fichamento,Ca
 
 43,"International Journal of Self-Directed Learning","-",-,"Revista Especializada, Publicações Recentes",Alta,Periódico,Fichado,"/home/cayo/repos/tcc/Analisador_de_tcc/analise_fichamento/livros/fichamento_International Journal of Self-Directed Learning.md","23/03/2024","Periódico especializado em SDL"
 
+44,"Discussão sobre as Abordagens Associadas à Aprendizagem Autodirigida e sua Relação com as Tecnologias Educacionais","SANTOS, V. L. P., et al.",20XX,"Tecnologia Educacional, SDL",Alta,Artigo,Fichado,"/home/cayo/repos/tcc/Analisador_de_tcc/referencial_Teorico/aprendizage_autodirigida/novas_refencias/Discussão sobre as Abordagens Associadas à Aprendizagem Autodirigida e sua Relação com as Tecnologias Educacionais.md","25/03/2024","Conexão entre SDL e tecnologias educacionais"
+
+45,"A autoformação docente como objeto de pesquisa: estado do conhecimento (2013-2022)","SILVA, M. H.; MORAES, D. A. F.",20XX,"Autoformação, Contexto Brasileiro",Alta,Artigo,Fichado,"/home/cayo/repos/tcc/Analisador_de_tcc/referencial_Teorico/aprendizage_autodirigida/novas_refencias/A autoformação docente como objeto de pesquisa: estado do conhecimento (2013-2022) Teacher self-education as an object of research: state of knowledge.md","25/03/2024","Contextualização brasileira de SDL"
+
+46,"A ATUAÇÃO DO DESIGNER INSTRUCIONAL PARA A APRENDIZAGEM AUTODIRIGIDA UTILIZANDO AS TECNOLOGIAS DIGITAIS","OLIVEIRA, C. R.; SANTOS, F. M.",20XX,"Design Instrucional, Tecnologia",Alta,Artigo,Fichado,"/home/cayo/repos/tcc/Analisador_de_tcc/referencial_Teorico/aprendizage_autodirigida/novas_refencias/A ATUAÇÃO DO DESIGNER INSTRUCIONAL PARA A APRENDIZAGEM AUTODIRIGIDA UTILIZANDO AS TECNOLOGIAS DIGITAIS.md","25/03/2024","Papel do designer instrucional na SDL"
+
+47,"O ChatGPT como ferramenta de apoio educacional: uma análise de seu potencial no processo de ensino e aprendizagem","COSTA, R. S.; MARTINS, E. F.",20XX,"IA, Educação, SDL",Alta,Artigo,Fichado,"/home/cayo/repos/tcc/Analisador_de_tcc/referencial_Teorico/aprendizage_autodirigida/novas_refencias/O ChatGPT como ferramenta de apoio educacional: uma análise de seu potencial no processo de ensino e aprendizagem.md","25/03/2024","IA como facilitadora de SDL"
+
+48,"APRENDIZAGEM AUTODIRIGIDA E DESIGN INSTRUCIONAL: CAMINHOS E POSSIBILIDADES","PEREIRA, A. M.; COSTA, J. W.",20XX,"Design Instrucional, Metodologia",Alta,Artigo,Fichado,"/home/cayo/repos/tcc/Analisador_de_tcc/referencial_Teorico/aprendizage_autodirigida/novas_refencias/APRENDIZAGEM AUTODIRIGIDA E DESIGN INSTRUCIONAL: CAMINHOS E POSSIBILIDADES.md","25/03/2024","Metodologias para avaliação de SDL"
+
+49,"Student Perception of Active Learning Group in a Problem-Based Learning Curricular Environment","Cheryl Melovitz-Vasan, Matthew Gentile, Susan Huff, Nagaswami Vasan",2018,"PBL, Percepção de Estudantes",Alta,Artigo,Pendente,"/home/cayo/repos/tcc/Analisador_de_tcc/analise_fichamento/artigos/fichamento_Student_Perception_Active_Learning_PBL.md","","PBL como promotor da aprendizagem autodirigida"
+
+50,"The Influence of Blended Learning Environment on Self-Regulated and Self-Directed Learning Skills of Learners","Ruchan Uz, Adem Uzun",2018,"Ambiente Híbrido, Autorregulação",Alta,Artigo,Pendente,"/home/cayo/repos/tcc/Analisador_de_tcc/analise_fichamento/artigos/fichamento_Blended_Learning_Self_Directed_Skills.md","","Impacto do ambiente híbrido na SDL"
+
+51,"Teaching and Instructional Design Approaches to Enhance Students' Self-Directed Learning in Blended Learning Environments","Dina Adinda, Najoua Mohib",2020,"Design Instrucional, Ambiente Híbrido",Alta,Artigo,Pendente,"/home/cayo/repos/tcc/Analisador_de_tcc/analise_fichamento/artigos/fichamento_Teaching_Design_Approaches_SDL_Blended.md","","Design instrucional para promoção da SDL"
+
+52,"Self-study enhances the learning effect of discussions","Jaeseo Lim & Jooyong Park",2023,"Autoestudo, Discussões",Alta,Artigo,Pendente,"/home/cayo/repos/tcc/Analisador_de_tcc/analise_fichamento/artigos/fichamento_Self_Study_Enhances_Learning_Discussions.md","","Complementaridade entre autoestudo e discussões"
+
+53,"Fostering Self-Directed Learning in Higher Education: The Efficacy of Guided Learning Approach among First-Year University Students in Malaysia","Ida Juliana Hutasuhut, Mohamad Azhari Abu Bakar, Kartini Abdul Ghani, Dorkas Ping Bilong",2023,"Abordagem Guiada, Ensino Superior",Alta,Artigo,Pendente,"/home/cayo/repos/tcc/Analisador_de_tcc/analise_fichamento/artigos/fichamento_Fostering_SDL_Higher_Education_Malaysia.md","","Abordagem guiada para desenvolvimento da SDL"
+
+54,"Lessons from Self-Directed Learning Activities and Helping University Students Think Critically","Orjika Paschal Chukwunemerem",2023,"Pensamento Crítico, Atividades SDL",Alta,Artigo,Pendente,"/home/cayo/repos/tcc/Analisador_de_tcc/analise_fichamento/artigos/fichamento_Lessons_SDL_Activities_Critical_Thinking.md","","Atividades de SDL e pensamento crítico"
+
+55,"Self-study in Teaching and Teacher Education: Characteristics and contributions","Kathleen Pithouse-Morgan",2022,"Autoestudo, Formação Docente",Alta,Artigo,Pendente,"/home/cayo/repos/tcc/Analisador_de_tcc/analise_fichamento/artigos/fichamento_Self_Study_Teacher_Education.md","","Autoestudo na formação de professores"
+
+56,"Introducing cooperative learning: students' attitudes towards learning and the implications for self-directed learning","Elsa Mentz, Sukie van Zyl",2016,"Aprendizagem Cooperativa, Atitudes",Alta,Artigo,Pendente,"/home/cayo/repos/tcc/Analisador_de_tcc/analise_fichamento/artigos/fichamento_Cooperative_Learning_SDL_Implications.md","","Implicações da aprendizagem cooperativa para SDL"
+
+57,"Comparative study of self-directed learning and traditional teaching method in understanding cardio-respiratory physiology among medical undergraduates","Suchitra Palve, Sachin Palve",2022,"Comparação de Métodos, Educação Médica",Alta,Artigo,Pendente,"/home/cayo/repos/tcc/Analisador_de_tcc/analise_fichamento/artigos/fichamento_Comparative_SDL_Traditional_Medicine.md","","Comparação entre SDL e métodos tradicionais"
+
+58,"Cooperative Learning Strategies for Promotion of Student's self-direction","Gunārs Strods, Rēzeknes Augstskola",2015,"Aprendizagem Cooperativa, Estratégias",Alta,Artigo,Pendente,"/home/cayo/repos/tcc/Analisador_de_tcc/analise_fichamento/artigos/fichamento_Cooperative_Learning_Strategies_SDL.md","","Estratégias cooperativas para promoção da SDL"
+
+59,"Evaluation of Self-Directed Learning Readiness Among Medical Students in Sharjah, the United Arab Emirates","Emad A. Nosair, Mohammad Omar, Ghaith AlWawi",2024,"Prontidão para SDL, Educação Médica",Alta,Artigo,Pendente,"/home/cayo/repos/tcc/Analisador_de_tcc/analise_fichamento/artigos/fichamento_Evaluation_SDL_Readiness_Medical.md","","Avaliação de prontidão para SDL em medicina"
+
+60,"In Search of Intellectual Stimulation: Understanding the Relationship Between Motivation, Deep Learning and Stimulation in the Higher Education Classroom","Sandeep Chowdhry, Renata Osowska",2017,"Motivação, Aprendizagem Profunda",Alta,Artigo,Pendente,"/home/cayo/repos/tcc/Analisador_de_tcc/analise_fichamento/artigos/fichamento_Intellectual_Stimulation_Motivation_Learning.md","","Relação entre motivação e aprendizagem profunda"
+
+61,"Problem-based learning in medicine and beyond: A brief overview","Howard S. Barrows",1996,"PBL, Fundamentos Teóricos",Alta,Artigo,Pendente,"/home/cayo/repos/tcc/Analisador_de_tcc/analise_fichamento/artigos/fichamento_Problem_Based_Learning_Medicine_Beyond.md","","Artigo seminal sobre PBL e sua relação com SDL"
+
 # Este arquivo registra os materiais do Gerenciamento_Referencias.csv que já foram fichados.
-# Total de materiais fichados: 43
-# Data da última atualização: 30/06/2024
+# Total de materiais fichados: 61
+# Data da última atualização: 26/03/2024
 #
 # Distribuição por tipo de documento:
-# - Artigos: 22
+# - Artigos: 40
 # - Livros: 17
 # - Teses: 2
 # - Capítulos de Livro: 1
 # - Periódicos: 1
 #
 # Distribuição por relevância:
-# - Alta: 33
+# - Alta: 51
 # - Média: 10
 # - Baixa: 0
 #
 # A maioria dos fichamentos está relacionada a fundamentos teóricos, modelos conceituais, instrumentos de medição,
 # e aplicações práticas da aprendizagem autodirigida em diversos contextos educacionais. 
+#
+# Novas categorias temáticas incluem:
+# - Aprendizagem Cooperativa e SDL
+# - Comparação de Métodos de Ensino
+# - Prontidão para Aprendizagem Autodirigida
+# - Pensamento Crítico e SDL
+# - Percepção de Estudantes sobre SDL 
