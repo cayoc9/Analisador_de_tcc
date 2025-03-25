@@ -85,7 +85,7 @@ Analisar de que forma metodologias ativas de ensino podem contribuir para o dese
 - Analisar estudos de caso e evidências empíricas sobre o impacto de metodologias ativas no desenvolvimento da aprendizagem autodirigida.
 - Caracterizar o perfil e as competências esperadas do aluno de Licenciatura em Computação frente às demandas da SDL.
 
-# 2 REFERENCIAL TEÓRICO
+# 2 REFERENCIAL TEÓRICO {#2-referencial-teórico}
 
 No cenário educacional contemporâneo, particularmente no ensino superior, o desenvolvimento da autonomia do estudante emerge como uma necessidade fundamental frente às transformações sociais, tecnológicas e profissionais. Essa realidade torna-se ainda mais evidente nos cursos de Licenciatura em Computação, onde a velocidade das mudanças tecnológicas demanda profissionais capazes de aprender continuamente e adaptar-se a novos contextos. Nesse panorama, a aprendizagem autodirigida (Self-Directed Learning - SDL) constitui-se como um paradigma educacional essencial, representando não apenas uma abordagem metodológica, mas uma competência vital para o século XXI. Este capítulo apresenta os fundamentos conceituais da SDL, explorando sua evolução histórica, suas bases teóricas e suas implicações práticas para a formação docente em computação. Inicialmente, discutiremos os modelos teóricos que fundamentam a compreensão da aprendizagem autodirigida, analisando suas características e tensões conceituais. Em seguida, examinaremos a relação intrínseca entre SDL, andragogia e aprendizagem ao longo da vida, destacando suas contribuições para a formação continuada. Posteriormente, exploraremos as convergências entre SDL e metodologias ativas de ensino-aprendizagem, evidenciando como essas abordagens se complementam na promoção da autonomia estudantil. Finalmente, discutiremos as implicações específicas da aprendizagem autodirigida para a formação do licenciado em computação, considerando as particularidades desse campo profissional e os desafios para a implementação de práticas educativas que promovam efetivamente a autodireção.
 
@@ -222,21 +222,137 @@ Estas convergências não são acidentais, mas refletem fundamentos epistemológ
 
 ### 2.3.2 Contribuições Específicas das Metodologias Ativas para a SDL
 
-Entre as diversas metodologias ativas, destacam-se a Aprendizagem Baseada em Problemas (PBL), a Aprendizagem Baseada em Projetos (PjBL), a Sala de Aula Invertida, a Aprendizagem Baseada em Equipes (TBL) e a Gamificação. Cada uma destas abordagens apresenta características específicas, mas compartilham princípios fundamentais como a centralidade do estudante, o papel facilitador do professor, a aprendizagem contextualizada e o desenvolvimento de competências para além dos conteúdos disciplinares.
+#### 2.3.2.1 Active Learning Group (ALG)
 
-Cada metodologia ativa contribui de maneira particular para o desenvolvimento da capacidade de autodireção, oferecendo estruturas e processos que facilitam a transição de níveis menores para níveis maiores de autonomia. A Aprendizagem Baseada em Problemas (PBL), conforme apontado por Vijayan, Chakravarthi e Philips (2016), não pode ocorrer efetivamente na ausência de SDL, já que o processo depende fundamentalmente da capacidade e disposição dos estudantes para direcionarem suas próprias investigações.
+O Active Learning Group (ALG) representa uma forma híbrida de aprendizagem baseada em problemas, desenvolvida inicialmente na Cooper Medical School of Rowan University. Conforme descrito por Melovitz-Vasan et al. (2018), esta metodologia caracteriza-se pela formação de grupos pequenos de estudantes (geralmente oito), guiados por dois facilitadores (um especialista em conteúdo e um profissional da área) que não se engajam no ensino direto, mas monitoram as discussões e reorientam o grupo quando necessário.
 
-Na Aprendizagem Baseada em Problemas, os estudantes são desafiados a identificar o que precisam saber para resolver um problema complexo, o que corresponde diretamente ao diagnóstico de necessidades de aprendizagem descrito por Knowles. Ao buscar informações relevantes, eles exercitam a identificação e utilização de recursos, enquanto a aplicação destes conhecimentos para a resolução do problema representa a implementação de estratégias apropriadas. Por fim, a avaliação da eficácia das soluções propostas corresponde à avaliação dos resultados de aprendizagem.
+Um aspecto distintivo do ALG é a combinação de elementos da aprendizagem baseada em problemas com componentes de ensino mais estruturados. No ALG, os estudantes recebem informações iniciais sobre um caso ou problema no início da semana, seguidas de liberações adicionais de dados ao longo dos dias subsequentes, simulando a progressão natural de um caso real. Esta estrutura sequencial permite que os estudantes desenvolvam hipóteses, identifiquem necessidades de aprendizagem, busquem informações relevantes e revejam suas conclusões à medida que novos dados são apresentados.
 
-A Aprendizagem Baseada em Projetos também oferece contribuições significativas para o desenvolvimento da SDL, particularmente nas dimensões de planejamento e autorregulação. Ao trabalhar em projetos de longa duração, os estudantes desenvolvem habilidades essenciais para a autodireção, como o estabelecimento de metas, a gestão do tempo e a monitoração do progresso. Ademais, a natureza aberta dos projetos permite diferentes níveis de autonomia, possibilitando uma adaptação às características individuais dos estudantes e à sua capacidade de autodireção.
+A contribuição do ALG para o desenvolvimento da SDL manifesta-se em várias dimensões. Conforme evidenciado na pesquisa de Melovitz-Vasan et al. (2018), 95% dos estudantes participantes consideraram que o ALG desenvolve significativamente o profissionalismo, especialmente a capacidade de trabalhar em equipe. Este aspecto colaborativo do ALG cria um ambiente onde os estudantes podem exercitar a autodireção de forma apoiada, recebendo feedback de múltiplas fontes.
 
-A Sala de Aula Invertida cria condições estruturais para o exercício da autodireção ao transferir para o estudante a responsabilidade pelo estudo prévio do conteúdo. Esta metodologia exige e simultaneamente desenvolve capacidades essenciais para a SDL, como autodisciplina, iniciativa e automonitoramento. Nas aulas presenciais, os professores podem então focar em atividades que promovam níveis mais elevados de pensamento e aplicação do conhecimento, criando um ambiente propício ao desenvolvimento metacognitivo.
+A estrutura do ALG também promove o que os autores chamam de "experiência positiva de aprendizagem", onde os participantes reportam melhorias significativas na compreensão do material do curso (89%), na capacidade de corrigir erros e aprimorar o entendimento dos conceitos (84%), e no desenvolvimento de habilidades de síntese de informações (86%). Estas dimensões evidenciam como o ALG cultiva competências metacognitivas essenciais para a SDL, como a autoavaliação e a autorregulação.
 
-Johnson e Johnson (em MENTZ et al., 2019) demonstram como a Aprendizagem Cooperativa potencializa o desenvolvimento da SDL ao criar um ambiente onde a autodireção pode se desenvolver de forma apoiada e gradual. Os cinco elementos essenciais da aprendizagem cooperativa - interdependência positiva, responsabilidade individual, interação promotora, habilidades sociais e processamento em grupo - estabelecem uma estrutura que facilita a transição de objetivos impostos para objetivos pessoais, proporcionando feedback multidirecional que apoia a autorregulação.
+Um elemento particularmente relevante do ALG para o desenvolvimento da SDL é o processo de avaliação formativa semanal, onde os estudantes recebem feedback sobre sua preparação, participação, trabalho em equipe e alcance dos objetivos de aprendizagem. Este feedback contínuo fornece aos estudantes informações essenciais para ajustar suas estratégias de aprendizagem, componente fundamental do ciclo de autodireção.
 
-Uma descoberta significativa apresentada por Johnson e Johnson é que "trabalhar cooperativamente ajuda os indivíduos a formular metas, torna as metas mais significativas e cria as condições nas quais metas impostas são internalizadas e transformadas em metas pessoais" (MENTZ et al., 2019, p. 39). Esta observação desafia a noção simplista de que autodireção significa necessariamente trabalho isolado, evidenciando como contextos colaborativos bem estruturados podem potencializar o desenvolvimento da autonomia.
+Como observa Melovitz-Vasan et al. (2018), apesar da eficácia demonstrada do ALG, um percentual significativo de estudantes (41%) ainda expressa preferência por métodos mais tradicionais de ensino, como palestras. Esta constatação evidencia o desafio de implementar metodologias que promovem a SDL em contextos onde os estudantes possuem diferentes níveis de prontidão para a autodireção, reforçando a importância de uma implementação gradual e adaptativa.
 
-A Gamificação, embora menos discutida na literatura sobre SDL, também oferece contribuições relevantes, particularmente no aspecto motivacional. Ao utilizar elementos de jogos em contextos educacionais, esta metodologia pode aumentar o engajamento e a persistência, fatores essenciais para o sucesso em processos autodirigidos de aprendizagem. Os sistemas de feedback imediato, comuns em ambientes gamificados, auxiliam no desenvolvimento do automonitoramento, enquanto a progressão por níveis pode oferecer um modelo para o desenvolvimento gradual da autonomia.
+### 2.3.2.2 Ensino Híbrido (Blended Learning)
+
+O Ensino Híbrido (Blended Learning) representa uma abordagem educacional que integra experiências de aprendizagem presenciais e online de forma planejada e complementar. Esta metodologia vai além da simples incorporação de tecnologias digitais ao ensino tradicional, configurando-se como uma reconfiguração do processo educacional que potencializa o desenvolvimento da autodireção.
+
+Os estudos de Uz e Uzun (2018) e Adinda e Mohib (2020) evidenciam como o ensino híbrido contribui significativamente para o desenvolvimento das habilidades de autorregulação e autodireção. Uz e Uzun (2018) demonstraram, em uma pesquisa experimental com 167 estudantes universitários, que aqueles expostos ao ensino híbrido apresentaram aumento significativamente maior em suas habilidades de autorregulação e autodireção comparados a grupos que receberam instrução tradicional.
+
+A contribuição do ensino híbrido para a SDL manifesta-se em múltiplas dimensões. Primeiramente, o componente online oferece flexibilidade temporal e espacial, permitindo que os estudantes exerçam controle sobre quando, onde e como acessar materiais e realizar atividades. Esta flexibilidade desenvolve a capacidade de autogestão, componente essencial da SDL conforme o modelo de Garrison (1997).
+
+Um segundo aspecto relevante refere-se à disponibilidade de recursos diversificados e personalizáveis. Como demonstrado por Uz e Uzun (2018), plataformas como o Moodle podem ser estruturadas com materiais interativos, objetos de aprendizagem, testes formativos e ferramentas de comunicação que permitem diferentes trajetórias de aprendizagem conforme as necessidades e interesses dos estudantes. Esta personalização desenvolve a capacidade de selecionar recursos e estratégias apropriados, outra dimensão fundamental da SDL.
+
+O feedback frequente e multidirecional representa uma terceira contribuição significativa do ensino híbrido. Adinda e Mohib (2020) destacam como atividades online como fóruns de discussão, revisão por pares e sistemas automatizados de avaliação proporcionam informações contínuas sobre o progresso, permitindo que os estudantes monitorem e ajustem seu processo de aprendizagem. Este feedback desenvolve capacidades metacognitivas essenciais para a autodireção.
+
+Um quarto aspecto refere-se ao equilíbrio entre estrutura e autonomia. O ensino híbrido permite uma calibração progressiva do nível de direcionamento, com maior estruturação inicial e crescente transferência de responsabilidade aos estudantes à medida que desenvolvem suas capacidades de autodireção. Esta gradação alinha-se ao modelo de desenvolvimento da SDL proposto por Grow (1991), respeitando diferentes níveis de prontidão para a autonomia.
+
+A integração entre momentos individuais e colaborativos constitui uma quinta contribuição relevante. Estudos como o de Adinda e Mohib (2020) evidenciam que o ensino híbrido pode combinar efetivamente atividades de estudo individual, que desenvolvem a autodireção, com experiências colaborativas que fornecem suporte social e confrontam o aprendiz com perspectivas diversas, enriquecendo seu processo de construção de conhecimento.
+
+Entretanto, como alertam Uz e Uzun (2018), a efetividade do ensino híbrido no desenvolvimento da SDL depende fundamentalmente de um design instrucional intencionalmente orientado para este objetivo. Não basta combinar momentos presenciais e online; é necessário que esta integração seja planejada para promover progressivamente maior autonomia, com atividades que demandem e simultaneamente desenvolvam capacidades de autogestão, automonitoramento e automotivação.
+
+### 2.3.2.3 Modelo SECI e Aprendizagem Guiada
+
+O Modelo SECI (Socialização, Externalização, Combinação e Internalização), desenvolvido por Nonaka e Takeuchi (1995), representa um referencial teórico sobre a criação e gestão do conhecimento que tem demonstrado aplicações significativas no contexto educacional, particularmente como estrutura para metodologias de aprendizagem guiada que promovem a autodireção.
+
+Originalmente concebido no âmbito organizacional, o Modelo SECI descreve como o conhecimento é criado e transformado através de quatro processos de conversão: socialização (de tácito para tácito), externalização (de tácito para explícito), combinação (de explícito para explícito) e internalização (de explícito para tácito). Como evidenciado no estudo de Hutasuhut et al. (2023), quando aplicado ao contexto educacional, este modelo oferece um framework valioso para estruturar experiências de aprendizagem que desenvolvem progressivamente a capacidade de autodireção.
+
+A pesquisa de Hutasuhut et al. (2023) com 37 estudantes universitários malaios do primeiro ano demonstrou empiricamente como a implementação de uma abordagem de aprendizagem guiada baseada no modelo SECI promoveu significativamente a autodireção dos participantes, com 94,59% deles apresentando aumento no nível de SDL ao final do semestre. Esta eficácia pode ser compreendida analisando como cada componente do modelo contribui para dimensões específicas da SDL.
+
+A fase de socialização, que envolve compartilhamento de experiências através de observação, imitação e prática, cria um contexto onde os estudantes podem observar modelos de aprendizagem autodirigida e participar de comunidades de prática. Como destacam Hutasuhut et al. (2023, p. 7): "Os estudantes podem imitar o professor que percebem como mais conhecedor, habilidoso e experiente", desenvolvendo assim modelos mentais e abordagens para autodireção.
+
+Na externalização, o conhecimento tácito é articulado em conceitos explícitos através de diálogo, reflexão e uso de metáforas. Este processo desenvolve a capacidade dos estudantes de expressar suas necessidades de aprendizagem, formular objetivos e comunicar seu entendimento, competências essenciais para a autodireção. Hutasuhut et al. (2023) exemplificam como, através de discussões facilitadas, os estudantes aprendem a explicitar seu conhecimento, tornando-o acessível para reflexão crítica.
+
+A fase de combinação envolve a sistematização de conceitos em sistemas de conhecimento mais complexos. Este processo desenvolve a capacidade dos estudantes de organizar informações, estabelecer conexões entre diferentes áreas do conhecimento e sintetizar múltiplas fontes - habilidades fundamentais para a gestão eficaz do próprio aprendizado. O estudo de Hutasuhut et al. (2023) demonstra como atividades estruturadas de combinação, como a análise colaborativa de casos, promovem estas competências.
+
+Finalmente, a internalização transforma o conhecimento explícito em tácito através da prática, incorporando-o às estruturas cognitivas do aprendiz. Este processo desenvolve a capacidade de aplicar conhecimentos em novos contextos, uma dimensão essencial da transferência de aprendizagem que caracteriza a SDL eficaz. Como observado no estudo: "O conhecimento criado através da externalização e combinação é convertido em conhecimento tácito através da ação, prática e reflexão" (Hutasuhut et al., 2023, p. 8).
+
+Um aspecto particularmente relevante do modelo SECI para o desenvolvimento da SDL é o conceito de "Ba" (lugar), que representa o contexto compartilhado onde ocorre a criação do conhecimento. Como explicam Hutasuhut et al. (2023, p. 8): "Ba é o contexto onde novo conhecimento é criado a partir do conhecimento existente, o que acontece quando novos significados são atribuídos através da interpretação". A criação intencional destes espaços físicos, virtuais ou mentais proporciona o ambiente necessário para o desenvolvimento da autodireção.
+
+A aplicação do modelo SECI como estrutura para metodologias de aprendizagem guiada representa uma abordagem promissora para o desenvolvimento progressivo da SDL, particularmente em contextos onde os estudantes apresentam diferentes níveis de prontidão para a autodireção. Como demonstram Hutasuhut et al. (2023), esta abordagem permite um equilíbrio entre orientação e autonomia, oferecendo suporte apropriado enquanto cultiva progressivamente a capacidade de autodireção.
+
+### 2.3.2.4 Autoestudo e Aprendizagem Baseada em Discussão
+
+O autoestudo representa uma abordagem pedagógica que posiciona o aprendiz como protagonista na construção de seu conhecimento através da investigação autônoma, reflexão crítica e exploração independente de materiais de aprendizagem. Esta metodologia, quando combinada estrategicamente com discussões estruturadas, cria um poderoso ambiente para o desenvolvimento da aprendizagem autodirigida.
+
+A pesquisa conduzida por Lim e Park (2023) com estudantes universitários coreanos evidencia empiricamente a eficácia desta combinação. Os autores demonstraram que grupos que realizaram autoestudo prévio às discussões obtiveram desempenho significativamente superior em testes de conteúdo comparados àqueles que apenas assistiram a vídeo-aulas. Mais relevante ainda, os participantes que engajaram-se em autoestudo demonstraram maior capacidade de transferir conhecimentos para contextos novos, uma competência essencial da SDL.
+
+O autoestudo contribui para o desenvolvimento da SDL em múltiplas dimensões. Primeiramente, promove o que Pithouse-Morgan (2022) denomina "busca constante de reflexão crítica sobre as próprias práticas", desenvolvendo a capacidade metacognitiva de autoavaliação. Durante o autoestudo, os aprendizes precisam constantemente monitorar seu entendimento, identificar lacunas de conhecimento e ajustar suas estratégias, processos fundamentais da autorregulação.
+
+Uma segunda contribuição refere-se ao desenvolvimento da autonomia na busca e seleção de recursos. Como evidenciado por Lim e Park (2023), durante o autoestudo os estudantes precisam identificar fontes relevantes, avaliar sua credibilidade e selecionar as mais apropriadas para seus objetivos de aprendizagem. Este processo desenvolve a capacidade de navegação crítica em um universo de informações cada vez mais amplo e complexo.
+
+A gestão do tempo e do esforço constitui uma terceira dimensão do autoestudo que contribui significativamente para a SDL. Os estudantes precisam planejar seu estudo, estabelecer prioridades e persistir diante de dificuldades sem a presença imediata de um instrutor. Como observam Lim e Park (2023, p. 12), "os estudantes que desenvolveram hábitos eficazes de autoestudo demonstraram maior persistência diante de tarefas desafiadoras", evidenciando o desenvolvimento da automotivação, componente essencial da SDL conforme o modelo de Garrison (1997).
+
+O elemento complementar das discussões estruturadas potencializa estas contribuições ao proporcionar um contexto social para o exercício e refinamento das competências desenvolvidas durante o autoestudo. A análise qualitativa realizada por Lim e Park (2023) revelou que estudantes que realizaram autoestudo prévio participaram mais ativamente das discussões, formularam questões mais complexas e elaboraram comentários mais construtivos. Este fenômeno evidencia como a preparação autônoma capacita os estudantes para interações mais produtivas.
+
+As discussões também oferecem oportunidades para o que Pithouse-Morgan (2022) denomina "compartilhamento de conhecimentos e experiências", um processo que expõe os estudantes a perspectivas diversas, desafiando-os a reconsiderar suas compreensões iniciais. Este confronto cognitivo estimula o que Lim e Park (2023) identificaram como "autorregulação social", onde os aprendizes ajustam suas estratégias e entendimentos com base no feedback de pares.
+
+A integração entre autoestudo e discussões cria um ciclo virtuoso para o desenvolvimento da SDL. O autoestudo desenvolve competências iniciais de autodireção e prepara os estudantes para participação significativa nas discussões. As discussões, por sua vez, proporcionam feedback, novas perspectivas e desafios que motivam e orientam futuros ciclos de autoestudo. Como concluem Lim e Park (2023, p. 15): "Não se trata de escolher entre estudo individual ou colaborativo, mas de reconhecer sua complementaridade e sequenciamento estratégico".
+
+Entretanto, como alertam os autores, a eficácia desta combinação depende de um design cuidadoso que considere o nível de preparação dos estudantes para a autodireção. Para iniciantes, orientações mais estruturadas sobre como conduzir o autoestudo podem ser necessárias, incluindo guias de estudo, questões direcionadoras e recomendações de fontes. À medida que os estudantes desenvolvem maior capacidade de autodireção, estas estruturas podem ser gradualmente reduzidas, promovendo autonomia progressiva.
+
+### 2.3.2.5 Aprendizagem Cooperativa
+
+A Aprendizagem Cooperativa configura-se como uma metodologia ativa que organiza os estudantes em pequenos grupos onde trabalham juntos para maximizar tanto sua própria aprendizagem quanto a de seus pares. Esta abordagem, fundamentada nos princípios de interdependência positiva, responsabilidade individual, interação promotora, habilidades sociais e processamento de grupo, demonstra significativas contribuições para o desenvolvimento da SDL.
+
+Os estudos de Mentz e Van Zyl (2016) e Strods (2015) evidenciam empiricamente a eficácia da Aprendizagem Cooperativa na promoção da prontidão para a SDL. A pesquisa de Strods (2015) com estudantes universitários demonstrou que estratégias cooperativas sistematicamente implementadas resultaram em melhorias significativas na autodireção, especialmente entre estudantes com níveis iniciais médios e baixos de prontidão para SDL. Mentz e Van Zyl (2016) confirmaram estes achados, evidenciando que a Aprendizagem Cooperativa promove não apenas melhorias nas atitudes dos estudantes em relação à aprendizagem, mas também em sua autonomia e responsabilidade individual.
+
+A contribuição da Aprendizagem Cooperativa para o desenvolvimento da SDL manifesta-se em vários níveis. Primeiramente, como destacam Johnson e Johnson (citados em Mentz et al., 2019), o contexto cooperativo facilita a transição de objetivos impostos externamente para objetivos pessoais internalizados. Os autores observam que "trabalhar cooperativamente ajuda os indivíduos a formular metas, torna as metas mais significativas e cria as condições nas quais metas impostas são internalizadas e transformadas em metas pessoais" (Mentz et al., 2019, p. 39). Esta internalização representa um processo fundamental para o desenvolvimento da motivação intrínseca, componente essencial da SDL.
+
+Um segundo aspecto relevante refere-se à construção de competências metacognitivas através do processamento de grupo. Como explicam Mentz e Van Zyl (2016), as práticas de reflexão coletiva sobre o funcionamento do grupo e sobre as estratégias utilizadas desenvolvem a capacidade de monitorar e avaliar processos de aprendizagem, competências fundamentais para a autorregulação que caractériza a SDL.
+
+A diversificação de recursos representa uma terceira contribuição significativa. Strods (2015) observa que, em grupos cooperativos, os estudantes têm acesso a uma variedade maior de fontes de conhecimento, estratégias de aprendizagem e perspectivas, ampliando seu repertório de recursos para a aprendizagem autodirigida. Esta diversificação desenvolve a capacidade de identificar e selecionar recursos apropriados, componente essencial do ciclo de SDL descrito por Knowles (1975).
+
+Um quarto aspecto refere-se ao desenvolvimento de habilidades interpessoais essenciais para contextos colaborativos de SDL. Como destacam Mentz e Van Zyl (2016), a Aprendizagem Cooperativa cultiva competências como comunicação eficaz, resolução de conflitos e trabalho em equipe, essenciais para a participação em comunidades de aprendizagem e redes profissionais que frequentemente constituem contextos importantes para a SDL ao longo da vida.
+
+Particularmente relevante é a constatação de Strods (2015) de que a Aprendizagem Cooperativa beneficia especialmente estudantes com níveis iniciais mais baixos de prontidão para a SDL. Isto sugere que esta metodologia pode ser especialmente valiosa em contextos educacionais heterogêneos, onde coexistem aprendizes com diferentes níveis de autonomia e autodireção.
+
+Entretanto, como alertam Mentz e Van Zyl (2016), a eficácia da Aprendizagem Cooperativa no desenvolvimento da SDL depende fundamentalmente da implementação apropriada de seus elementos essenciais. A simples organização dos estudantes em grupos não garante os benefícios desta metodologia; é necessário estruturar cuidadosamente a interdependência positiva, assegurar a responsabilidade individual, promover interações face a face significativas, desenvolver habilidades sociais e implementar processamento de grupo reflexivo.
+
+A integração entre Aprendizagem Cooperativa e SDL desafia a concepção equivocada de que autodireção implica necessariamente em isolamento ou individualismo. Como demonstram estas pesquisas, ambientes cooperativos bem estruturados podem potencializar significativamente o desenvolvimento da capacidade de autodireção, criando contextos onde a autonomia individual é exercitada em diálogo constante com a responsabilidade coletiva.
+
+### 2.3.2.6 Aprendizagem Baseada em Problemas (PBL)
+
+A Aprendizagem Baseada em Problemas (Problem-Based Learning - PBL) constitui uma metodologia ativa centrada na investigação de problemas complexos, autênticos e mal-estruturados, que funcionam como catalisadores para o desenvolvimento de conhecimentos, habilidades e atitudes. Esta abordagem, inicialmente desenvolvida em contextos de educação médica, tem demonstrado contribuições significativas para o desenvolvimento da SDL em diversos campos do conhecimento.
+
+As pesquisas de Melovitz-Vasan et al. (2018) e Palve e Palve (2022) evidenciam empiricamente a eficácia da PBL na promoção da autodireção. O estudo comparativo conduzido por Palve e Palve (2022) demonstrou que estudantes expostos à PBL desenvolveram não apenas melhor compreensão conceitual, mas também maior capacidade de aprendizagem independente, comparados àqueles que participaram de aulas tradicionais. Melovitz-Vasan et al. (2018), ao analisar uma variante da PBL denominada Active Learning Group (ALG), confirmaram que esta abordagem promove significativamente o desenvolvimento de competências essenciais à autodireção, como trabalho em equipe, resolução colaborativa de problemas e síntese de informações.
+
+A contribuição da PBL para o desenvolvimento da SDL manifesta-se em múltiplas dimensões. Primeiramente, a natureza dos problemas apresentados - complexos, autênticos e mal-estruturados - exige que os estudantes desenvolvam o que Vijayan, Chakravarthi e Philips (2016) denominam "diagnóstico de lacunas de conhecimento". Durante o processo de análise do problema, os aprendizes identificam o que já sabem e o que precisam aprender para resolvê-lo, exercitando assim a capacidade de diagnosticar necessidades de aprendizagem, primeiro passo do ciclo de SDL descrito por Knowles (1975).
+
+Um segundo aspecto relevante refere-se ao desenvolvimento da autorregulação através dos ciclos iterativos de investigação. Como observam Palve e Palve (2022), na PBL os estudantes necessitam continuamente planejar suas estratégias de busca, monitorar seu progresso, avaliar a adequação das informações encontradas e ajustar seus procedimentos conforme necessário. Este processo desenvolve competências metacognitivas essenciais para a SDL, como planejamento, monitoramento e avaliação.
+
+A gestão colaborativa de recursos constitui uma terceira contribuição significativa. Durante a PBL, os estudantes precisam identificar, selecionar e compartilhar fontes de informação, desenvolvendo o que Melovitz-Vasan et al. (2018) identificaram como "habilidades de síntese de informações". Esta capacidade de navegar eficazmente em um universo cada vez mais amplo de recursos informacionais representa uma competência fundamental para a aprendizagem autodirigida ao longo da vida.
+
+Um quarto aspecto refere-se ao desenvolvimento da autorresponsabilidade. Como destacam Palve e Palve (2022), na PBL os estudantes assumem controle significativo sobre seu processo de aprendizagem, incluindo a definição de objetivos específicos, a seleção de métodos e a alocação de tempo. Esta experiência de autonomia apoiada desenvolve progressivamente o que Zimmerman (1990) denomina "autoeficácia acadêmica", a crença do estudante em sua capacidade de gerir eficazmente sua própria aprendizagem.
+
+Particularmente relevante é a constatação de Tee e Lee (2011) de que a PBL facilita a transição da socialização para a internalização no modelo SECI, permitindo que conhecimentos inicialmente compartilhados no grupo sejam progressivamente integrados às estruturas cognitivas individuais dos aprendizes. Esta internalização representa um processo essencial para o desenvolvimento da autonomia cognitiva que caracteriza aprendizes autodirigidos.
+
+Entretanto, como alertam Nosair, Omar e AlWawi (2024), a implementação eficaz da PBL como promotora da SDL exige atenção a fatores como o nível de prontidão inicial dos estudantes, a estruturação apropriada dos problemas e a capacitação dos facilitadores. Os autores observaram que, apesar do potencial teórico da PBL, não houve diferenças significativas na prontidão para SDL entre estudantes de programas baseados em PBL e aqueles de programas tradicionais, sugerindo que a mera adoção nominal desta metodologia não garante o desenvolvimento da autodireção.
+
+A integração efetiva entre PBL e SDL requer o que Tee e Lee (2011) descrevem como "design instrucional intencional", onde os problemas são cuidadosamente elaborados para demandar e simultaneamente desenvolver competências específicas de autodireção, e onde os facilitadores são capacitados para oferecer níveis apropriados de suporte, progressivamente reduzidos à medida que os estudantes desenvolvem maior autonomia.
+
+### 2.3.2.7 Gamificação
+
+A Gamificação representa uma metodologia ativa emergente que aplica elementos de design de jogos - como narrativas, desafios progressivos, feedback imediato, sistemas de pontuação e recompensas - em contextos não-lúdicos, visando aumentar o engajamento e a motivação. Embora menos explorada na literatura tradicional sobre SDL, esta abordagem tem demonstrado potencial significativo para o desenvolvimento de competências essenciais à autodireção.
+
+Pesquisas recentes como a de Chukwunemerem (2023) começam a evidenciar empiricamente as contribuições da Gamificação para o desenvolvimento da SDL. O autor demonstrou que ambientes educacionais gamificados promovem significativamente o desenvolvimento de habilidades de pensamento crítico, comunicação, gestão do tempo e busca eficiente de informações, competências fundamentais para a aprendizagem autodirigida. As entrevistas qualitativas revelaram que, apesar de resistência inicial por parte de alguns estudantes, o envolvimento em atividades gamificadas expandiu suas perspectivas sobre aprendizagem autônoma.
+
+A contribuição da Gamificação para o desenvolvimento da SDL manifesta-se em múltiplas dimensões. Primeiramente, os sistemas de feedback imediato e contínuo presentes em ambientes gamificados desenvolvem o que Zimmerman (1990) denomina "automonitoramento", a capacidade de avaliar constantemente o próprio progresso. Este feedback frequente e objetivo fornece aos aprendizes informações essenciais para ajustar suas estratégias, componente fundamental da autorregulação.
+
+Um segundo aspecto relevante refere-se ao desenvolvimento da motivação intrínseca através de narrativas significativas e desafios apropriados. Como observa Chukwunemerem (2023), elementos de gamificação como narrativas contextuais e missões progressivas conectam objetivos de aprendizagem a contextos significativos, aumentando o engajamento e reduzindo a necessidade de controle externo. Esta motivação intrínseca constitui componente essencial da SDL, conforme destacado por Garrison (1997) em seu modelo tridimensional.
+
+A progressão adaptativa de desafios representa uma terceira contribuição significativa. Em ambientes gamificados bem projetados, os aprendizes enfrentam desafios progressivamente mais complexos, calibrados para manter um equilíbrio ótimo entre desafio e capacidade (estado de "fluxo"). Como destaca Chukwunemerem (2023), esta progressão desenvolve simultaneamente competências específicas e a confiança do aprendiz em sua capacidade de enfrentar situações novas, componente essencial da autoeficácia para SDL.
+
+Um quarto aspecto refere-se ao desenvolvimento da capacidade de tomada de decisão autônoma. Elementos de gamificação como múltiplos caminhos, escolhas significativas e possibilidades de experimentação com baixo risco desenvolvem o que Chowdhry e Osowska (2017) identificam como "pensamento estratégico" dos aprendizes. Esta capacidade de tomar decisões informadas sobre o próprio processo de aprendizagem constitui elemento central da SDL.
+
+Particularmente relevante é a observação de Chukwunemerem (2023) de que a gamificação pode criar ambientes onde estudantes inicialmente resistentes à autonomia gradualmente desenvolvem disposição para assumir maior controle sobre sua aprendizagem. Isto sugere que esta metodologia pode funcionar como uma "ponte" para a autodireção, especialmente para estudantes com baixa prontidão inicial para SDL.
+
+Entretanto, como alertam Chowdhry e Osowska (2017), a eficácia da gamificação no desenvolvimento da SDL depende fundamentalmente do tipo de elementos de jogo implementados. Elementos focados exclusivamente em recompensas extrínsecas podem promover engajamento superficial sem desenvolver autonomia genuína, enquanto elementos que promovem significado, propósito e escolha significativa tendem a cultivar motivação intrínseca e autodireção.
+
+A integração entre Gamificação e SDL oferece perspectivas promissoras, particularmente para contextos educacionais com estudantes diversos em termos de prontidão para autodireção. Como um ambiente altamente estruturado que progressivamente desenvolve autonomia, a gamificação pode representar o que Grow (1991) descreveria como um contexto apropriado para aprendizes em transição do estágio de dependência para o de interesse, facilitando sua progressão rumo a níveis mais avançados de autodireção.
 
 ### 2.3.3 Avaliação do Desenvolvimento da SDL
 
@@ -282,6 +398,8 @@ Pesquisas realizadas com professores brasileiros por Silva e Moraes (2022) revel
 
 O financiamento e a infraestrutura também representam desafios significativos, especialmente considerando as recentes restrições orçamentárias enfrentadas pelas instituições públicas de ensino superior. A implementação de ambientes propícios à SDL frequentemente demanda recursos tecnológicos, espaços flexíveis e relações aluno-professor que permitam acompanhamento mais individualizado – requisitos nem sempre disponíveis no contexto atual de muitas instituições brasileiras.
 
+Além disso, como aponta Costin (2018), o sistema educacional brasileiro historicamente não tem priorizado o desenvolvimento do pensamento crítico e da autonomia intelectual. A pesquisadora observa que "a escola brasileira não ensina a pensar", enfatizando que, antes de se preocupar com tecnologias avançadas, as instituições educacionais precisariam ensinar seus estudantes a "pensar matematicamente, historicamente, ensinar a usar o ferramental das diferentes ciências para resolver problemas" (COSTIN, 2018). Esta lacuna na formação básica representa um obstáculo adicional para a implementação da SDL no ensino superior, uma vez que muitos estudantes ingressam nas universidades sem as competências fundamentais para exercer sua autonomia intelectual.
+
 Apesar destes desafios, diversas iniciativas brasileiras têm demonstrado sucesso na implementação de abordagens baseadas em SDL. A análise de Projetos Pedagógicos de Curso (PPCs) de Licenciatura em Computação em universidades federais brasileiras revela diferentes níveis de incorporação da SDL e das metodologias ativas. Instituições como a UFPR Palotina têm implementado "núcleos de desenvolvimento tecnológico" extracurriculares, onde estudantes de diferentes períodos colaboram em projetos abertos, com mentoria em vez de instrução direta. O IFPB implementa projetos integradores progressivos do 1º ao 8º semestre, com gradual aumento da autonomia estudantil.
 
 O Instituto de Matemática e Estatística da USP (IME-USP) tem desenvolvido projetos experimentais que integram metodologias ativas e SDL na formação de professores de computação, utilizando estratégias como aprendizagem baseada em projetos com foco em problemas educacionais reais e comunidades de prática que reúnem graduandos, pós-graduandos e professores da educação básica. Estas iniciativas têm demonstrado resultados promissores no desenvolvimento da autonomia dos licenciandos e na sua capacidade de transferir estas competências para suas futuras práticas docentes.
@@ -298,7 +416,21 @@ O desenvolvimento progressivo da autonomia, conforme proposto por Grow (1991), e
 
 A integração entre metodologias ativas e SDL na Licenciatura em Computação não representa apenas uma inovação pedagógica, mas uma necessidade formativa frente às demandas da sociedade contemporânea. Os futuros professores de computação precisarão não apenas dominar conhecimentos técnicos e pedagógicos atualizados, mas também desenvolver e demonstrar a capacidade de aprender continuamente de forma autônoma e de promover esta mesma capacidade em seus futuros alunos. As metodologias ativas, quando implementadas de forma alinhada aos princípios da SDL, oferecem um caminho promissor para o desenvolvimento dessas competências essenciais.
 
-### 2.4.5 Tecnologias Digitais como Mediadoras da SDL na Formação em Computação
+### 2.3.5 Agências de Ensino-Aprendizagem
+
+No contexto das metodologias ativas e da aprendizagem autodirigida, emerge um conceito fundamental para a compreensão dos ambientes educacionais propícios ao desenvolvimento da autonomia discente: as agências de ensino-aprendizagem. Este conceito, desenvolvido por Fava (2016), refere-se a espaços educacionais que transcendem o modelo tradicional de sala de aula, onde o foco está na aprendizagem ativa e na construção de conhecimento pelo próprio estudante, com a mediação qualificada do professor.
+
+As agências de ensino-aprendizagem caracterizam-se como ambientes (físicos ou virtuais) onde os aprendizes desenvolvem autonomia e protagonismo, apoiados por diversos recursos e estratégias pedagógicas que estimulam a autodireção. Nestes espaços, a relação pedagógica é ressignificada, com o professor assumindo o papel de mediador e designer de experiências de aprendizagem, em vez de mero transmissor de conteúdos. Como destaca Fava (2016, p. 238), "a agência de ensino-aprendizagem é um ambiente intencional onde o conhecimento é construído de forma colaborativa, mediado por experiências que estimulam a autonomia e o desenvolvimento de competências para a autogestão da aprendizagem".
+
+Este conceito encontra profundas convergências com os princípios da aprendizagem autodirigida, uma vez que ambos valorizam o protagonismo do estudante e o desenvolvimento progressivo de sua autonomia. A transição de salas de aula tradicionais para agências de ensino-aprendizagem implica uma mudança de paradigma que se alinha à própria essência da SDL: os estudantes assumem responsabilidade ativa por seu processo de aprendizagem, estabelecendo objetivos, escolhendo estratégias apropriadas e avaliando resultados, enquanto os professores atuam como facilitadores que fornecem estrutura, orientação e feedback.
+
+Embora não utilizem a mesma terminologia, Mentz, De Beer e Bailey (2019) discutem características semelhantes ao analisar ambientes de aprendizagem que promovem a autodireção. Os autores descrevem esses espaços como contextos onde o aprendiz desenvolve competências de autogestão, automonitoramento e automotivação, mediados por recursos tecnológicos e estratégias pedagógicas adequadas. Estes ambientes são caracterizados por "interações significativas, objetivos flexíveis de aprendizagem e oportunidades para feedback construtivo regular" (MENTZ; DE BEER; BAILEY, 2019, p. 87).
+
+No contexto específico da formação em computação, as agências de ensino-aprendizagem adquirem características distintivas, incorporando recursos tecnológicos como elementos estruturantes do ambiente educacional. Laboratórios de desenvolvimento, hackerspaces, ambientes virtuais colaborativos e comunidades de prática representam manifestações concretas deste conceito, oferecendo aos estudantes oportunidades para exercitar sua autonomia em contextos autênticos de aprendizagem.
+
+A implementação efetiva de agências de ensino-aprendizagem na formação do licenciado em computação demanda transformações que vão além da reorganização espacial ou da incorporação de tecnologias. Envolve uma reestruturação das relações pedagógicas, dos processos avaliativos e da própria concepção de currículo. Estas transformações representam um desafio significativo, mas oferecem um caminho promissor para a promoção da SDL em contextos educacionais formais, criando ambientes onde a autodireção pode ser desenvolvida de forma intencional e sistemática.
+
+### 2.3.6 Tecnologias Digitais como Mediadoras da SDL na Formação em Computação
 
 As tecnologias digitais desempenham um papel fundamental como mediadoras da aprendizagem autodirigida, especialmente na formação de licenciados em computação. Diferentemente de outros campos, onde as tecnologias representam recursos adicionais, na Licenciatura em Computação elas constituem simultaneamente objeto de estudo, ferramenta de aprendizagem e componente essencial da identidade profissional. Esta tripla dimensão cria oportunidades singulares para o desenvolvimento da SDL mediada por tecnologias digitais.
 
@@ -581,8 +713,6 @@ A análise dos Projetos Pedagógicos de Curso (PPCs) de diferentes instituiçõe
 4. **Competências investigativas e criativas**: incluem habilidades de pesquisa, inovação, resolução de problemas complexos e desenvolvimento de projetos originais que contribuam para o avanço da educação em computação.
 
 Este perfil multifacetado encontra na aprendizagem autodirigida um componente essencial para seu pleno desenvolvimento. Como observam Lima e Santos (2018), a formação do licenciado em computação não pode limitar-se à transmissão de conhecimentos técnicos atuais ou metodologias pedagógicas estabelecidas, pois estes se tornarão rapidamente defasados diante do ritmo acelerado de transformações tecnológicas e educacionais. É necessário, portanto, desenvolver no licenciando a capacidade de aprender continuamente, de forma autônoma e crítica, preparando-o para um cenário profissional em constante evolução.
-
-# 5 ANÁLISE E DISCUSSÃO DOS RESULTADOS
 
 # 5 ANÁLISE E DISCUSSÃO DOS RESULTADOS
 
@@ -2143,28 +2273,76 @@ A implementação cuidadosa das metodologias e estratégias aqui discutidas, com
 
 # REFERÊNCIAS {#referências}
 
-**BARROWS, Howard S.** Problem-based learning in medicine and beyond: A brief overview. _New Directions for Teaching and Learning_, v. 1996, n. 68, p. 3-12, 1996\.
+ADINDA, Dina; MOHIB, Najoua. Teaching and Instructional Design Approaches to Enhance Students' Self-Directed Learning in Blended Learning Environments. The Electronic Journal of e-Learning, v. 18, n. 2, p. 162-174, 2020.
 
-**BERGMANN, Jonathan; SAMS, Aaron.** Flip your classroom: Reach every student in every class every day. Washington, DC: International Society for Technology in Education, 2012\.
+BARROWS, Howard S. Problem-based learning in medicine and beyond: A brief overview. New Directions for Teaching and Learning, v. 1996, n. 68, p. 3-12, 1996.
 
-**BROCKETT, Ralph G.; HIEMSTRA, Roger.** Self-direction in adult learning: Perspectives on theory, research, and practice. New York: Routledge, 1991\.
+BAUMGARTNER, Lisa M.; CAFFARELLA, Rosemary S.; MERRIAM, Sharan B. Learning in Adulthood: A Comprehensive Guide. 3. ed. San Francisco: Jossey-Bass, 2007.
 
-**CANDY, Philip C.** Self-direction for lifelong learning: A comprehensive guide to theory and practice. San Francisco: Jossey-Bass, 1991\.
+BERGMANN, Jonathan; SAMS, Aaron. Flip your classroom: Reach every student in every class every day. Washington, DC: International Society for Technology in Education, 2012.
 
-**DEWEY, John.** Experience and education. New York: Macmillan, 1938\.
+BROCKETT, Ralph G.; HIEMSTRA, Roger. Self-direction in adult learning: Perspectives on theory, research, and practice. New York: Routledge, 1991.
 
-**GARRISON, D. Randy.** Self-directed learning: Toward a comprehensive model. _Adult Education Quarterly_, v. 48, n. 1, p. 18-33, 1997\.
+CANDY, Philip C. Self-direction for lifelong learning: A comprehensive guide to theory and practice. San Francisco: Jossey-Bass, 1991.
 
-**KNOWLES, Malcolm S.** Self-directed learning: A guide for learners and teachers. Chicago: Association Press, 1975\.
+CHOWDHRY, Sandeep; OSOWSKA, Renata. In Search of Intellectual Stimulation: Understanding the Relationship Between Motivation, Deep Learning and Stimulation in the Higher Education Classroom. Journal on Today's Ideas Tomorrow's Technologies, v. 5, n. 1, p. 1-16, 2017.
 
-**MASETTO, Marcos Antonio.** _Competência pedagógica do professor universitário._ São Paulo: Summus, 2003\.
+CHUKWUNEMEREM, Orjika Paschal. Lessons from Self-Directed Learning Activities and Helping University Students Think Critically. Journal of Education and Learning, v. 12, n. 2, p. 79-91, 2023.
 
-**MAZUR, Eric.** Peer Instruction: A User's Manual. Upper Saddle River, NJ: Prentice Hall, 1997\.
+CLARETIANO - CENTRO UNIVERSITÁRIO. Projeto Pedagógico do Curso de Licenciatura em Computação. Batatais, 2022.
 
-**MERRIAM, Sharan B.; CAFFARELLA, Rosemary S.** Learning in adulthood: A comprehensive guide. 2\. ed. San Francisco: Jossey-Bass, 1999\.
+DEWEY, John. Experience and education. New York: Macmillan, 1938.
 
-**MOTA, Guilherme da Silva; SCOTT, Liane Margarida Rockenbach Tarouco.** Metodologias ativas e gamificação no ensino superior: desafios e perspectivas. _Revista de Ensino de Engenharia_, v. 33, n. 1, p. 79-89, 2014\.
+FAVA, Rui. Educação para o século XXII: a era do indivíduo digital. São Paulo: Saraiva, 2016.
 
-**NOVAK, Gregor M.; PATTERSON, Evelyn T.; GAVRIN, Andrew D.; CHRISTIAN, Wolfgang.** Just-in-time teaching: blending active learning with web technology. Upper Saddle River, NJ: Prentice Hall, 1999\.
+GARRISON, D. Randy. Self-directed learning: Toward a comprehensive model. Adult Education Quarterly, v. 48, n. 1, p. 18-33, 1997.
+
+GROW, Gerald. Teaching Learners To Be Self-Directed. Adult Education Quarterly, v. 41, n. 3, p. 125-149, 1991.
+
+HUTASUHUT, Ida Juliana et al. Fostering Self-Directed Learning in Higher Education: The Efficacy of Guided Learning Approach among First-Year University Students in Malaysia. Journal of Cognitive Sciences and Human Development, v. 9, n. 2, p. 111-122, 2023.
+
+IFPB - INSTITUTO FEDERAL DA PARAÍBA. Projeto Pedagógico do Curso de Licenciatura em Computação. João Pessoa, 2022.
+
+KNOWLES, Malcolm S. Self-directed learning: A guide for learners and teachers. Chicago: Association Press, 1975.
+
+LIM, Jaeseo; PARK, Jooyong. Self-study enhances the learning effect of discussions. Journal of the Learning Sciences, v. 32, n. 1, p. 131-154, 2023.
+
+MASETTO, Marcos Antonio. Competência pedagógica do professor universitário. São Paulo: Summus, 2003.
+
+MAZUR, Eric. Peer Instruction: A User's Manual. Upper Saddle River, NJ: Prentice Hall, 1997.
+
+MELOVITZ-VASAN, Cheryl et al. Student Perception of Active Learning Group in a Problem-Based Learning Curricular Environment. Medical Science Educator, v. 28, n. 4, p. 759-765, 2018.
+
+MENTZ, Elsa; DE BEER, Josef; BAILEY, Roxanne. Self-Directed Learning for the 21st Century: Implications for Higher Education. Potchefstroom: AOSIS, 2019.
+
+MENTZ, Elsa; VAN ZYL, Sukie. Introducing cooperative learning: students' attitudes towards learning and the implications for self-directed learning. Journal of Education, v. 65, p. 53-78, 2016.
+
+MERRIAM, Sharan B.; CAFFARELLA, Rosemary S. Learning in adulthood: A comprehensive guide. 2. ed. San Francisco: Jossey-Bass, 1999.
+
+MOTA, Guilherme da Silva; SCOTT, Liane Margarida Rockenbach Tarouco. Metodologias ativas e gamificação no ensino superior: desafios e perspectivas. Revista de Ensino de Engenharia, v. 33, n. 1, p. 79-89, 2014.
+
+NOSAIR, Emad A.; OMAR, Mohammad; ALWAWI, Ghaith. Evaluation of Self-Directed Learning Readiness Among Medical Students in Sharjah, the United Arab Emirates. Cureus, v. 16, n. 1, p. e56848, 2024.
+
+NOVAK, Gregor M. et al. Just-in-time teaching: blending active learning with web technology. Upper Saddle River, NJ: Prentice Hall, 1999.
+
+PALVE, Suchitra; PALVE, Sachin. Comparative study of self-directed learning and traditional teaching method in understanding cardio-respiratory physiology among medical undergraduates. Biomedicine, v. 42, n. 3, p. 588-591, 2022.
+
+PITHOUSE-MORGAN, Kathleen. Self-study in Teaching and Teacher Education: Characteristics and contributions. Teaching and Teacher Education, v. 110, p. 103653, 2022.
+
+SBC - SOCIEDADE BRASILEIRA DE COMPUTAÇÃO. Referenciais de Formação para os Cursos de Licenciatura em Computação. Porto Alegre, 2017.
+
+SCHLOCHAUER, Conrado. Lifelong Learners – O poder do aprendizado contínuo. São Paulo: DVS Editora, 2021.
+
+STRODS, Gunārs; AUGSTSKOLA, Rēzeknes. Cooperative Learning Strategies for Promotion of Student's self-direction. Education Reform in Comprehensive School: Education Content Research and Implementation Problems, p. 49-63, 2015.
+
+TEIXEIRA, Marco Antônio Pereira; GOMES, William Barbosa. Estou me formando... e agora? Reflexões e perspectivas de jovens formandos universitários. Revista Brasileira de Orientação Profissional, v. 13, n. 2, p. 235-248, 2012.
+
+TOUGH, Allen. The Adult's Learning Projects: A Fresh Approach to Theory and Practice in Adult Learning. Toronto: Ontario Institute for Studies in Education, 1971.
+
+UFPR PALOTINA. Projeto Pedagógico do Curso de Licenciatura em Computação. Palotina, 2021.
+
+UFRGS - UNIVERSIDADE FEDERAL DO RIO GRANDE DO SUL. Projeto Pedagógico do Curso de Licenciatura em Computação e Robótica Educativa. Porto Alegre, 2023.
+
+UZ, Ruchan; UZUN, Adem. The Influence of Blended Learning Environment on Self-Regulated and Self-Directed Learning Skills of Learners. European Journal of Educational Research, v. 7, n. 3, p. 637-649, 2018.
 
 [image1]: data:image/png;base64,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

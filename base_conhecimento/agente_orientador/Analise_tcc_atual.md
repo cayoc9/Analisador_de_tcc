@@ -293,3 +293,175 @@ Ao realizar as revisões sugeridas, é fundamental preservar as contribuições 
 5. **A discussão sobre desafios de implementação** no contexto brasileiro (Seção 5.4)
 
 Estas recomendações visam potencializar o impacto acadêmico e prático do trabalho, fortalecendo sua contribuição para o campo da educação em computação no Brasil e sua aplicabilidade no contexto da formação de professores.
+
+# Análise das Metodologias Ativas nos Capítulos do TCC
+
+## Diagnóstico do Desalinhamento entre Metodologias no Referencial Teórico e Resultados
+
+Após análise detalhada do material, identifiquei uma necessidade de alinhamento entre as metodologias ativas discutidas na Revisão de Literatura (capítulo 3) e Análise dos Resultados (capítulo 5) com aquelas apresentadas no Referencial Teórico (capítulo 2). Este desalinhamento pode comprometer a coesão argumentativa do trabalho.
+
+## Metodologias Presentes na Base de Dados e sua Cobertura no TCC
+
+Consultando nossa base de conhecimento, encontrei os seguintes recursos sobre metodologias ativas relacionadas à SDL:
+
+| Metodologia                                 | Mencionada nos Resultados | Explicada no Referencial | Material Disponível                              |
+| ------------------------------------------- | ------------------------- | ------------------------ | ------------------------------------------------ |
+| **Blended Learning (Ensino Híbrido)**       | Sim                       | Não                      | Sim, vários estudos disponíveis (IDs 50, 51, 33) |
+| **Active Learning Group (ALG)**             | Sim                       | Não                      | Fichamento pendente (ID 49)                      |
+| **Modelo SECI**                             | Sim                       | Não                      | Referência em metodos_analisados.md              |
+| **Design Instrucional centrado no aluno**   | Sim                       | Parcialmente             | Fichamentos disponíveis (IDs 46, 48)             |
+| **Aprendizagem Cooperativa**                | Sim                       | Sim                      | Bem documentada                                  |
+| **PBL (Aprendizagem Baseada em Problemas)** | Sim                       | Sim                      | Bem documentada                                  |
+| **Autoestudo**                              | Sim                       | Parcialmente             | Fichamentos disponíveis (IDs 53, 55)             |
+
+## Recomendações para Complementação do Referencial Teórico
+
+### 1. Inclusão do Blended Learning (Ensino Híbrido)
+
+Esta metodologia aparece em estudos importantes como Adinda e Mohib (2020) e Uz e Uzun (2018), sendo fundamental para a argumentação nos resultados. Sugiro incluir uma subseção na seção 2.3.2 com os seguintes pontos:
+
+- Definição conceitual do ensino híbrido como combinação de experiências presenciais e online
+- Como o ambiente híbrido oferece oportunidades para desenvolver habilidades de autodireção
+- Relação entre flexibilidade de ambiente e desenvolvimento da autonomia do estudante
+- Ferramentas e estratégias híbridas que promovem a SDL
+
+**Fonte principal:** "The Influence of Blended Learning Environment on Self-Regulated and Self-Directed Learning Skills of Learners" (Uz & Uzun, 2018)
+
+### 2. Explicação do Active Learning Group (ALG)
+
+O ALG é central no estudo de Melovitz-Vasan et al. (2018), frequentemente citado nos resultados, mas não é explicado no referencial:
+
+- Definir o ALG como uma forma híbrida de PBL
+- Explicar como difere do PBL tradicional
+- Destacar o papel dos facilitadores na metodologia
+- Apresentar evidências de sua eficácia para promover colaboração e autonomia
+
+**Fonte principal:** "Student Perception of Active Learning Group in a Problem-Based Learning Curricular Environment" (Melovitz-Vasan et al., 2018)
+
+### 3. Inclusão do Modelo SECI
+
+Este modelo aparece como metodologia de aprendizagem guiada no estudo de Hutasuhut et al. (2023):
+
+- Explicar as quatro fases do modelo: Socialização, Externalização, Combinação e Internalização
+- Discutir como o modelo apoia a construção do conhecimento de forma progressivamente mais autônoma
+- Relacionar com o desenvolvimento da SDL em ambientes colaborativos
+
+**Fonte:** Arquivo "metodos_analisados.md" e estudo citado por Hutasuhut et al. (2023)
+
+### 4. Aprofundamento sobre Autoestudo
+
+Apesar de ser mencionado no referencial teórico, o autoestudo merece uma análise mais detalhada:
+
+- Definir autoestudo como prática intencional de aprendizagem individual
+- Explicar sua relação com discussões em grupo (conforme estudo de Lim & Park, 2023)
+- Apresentar estratégias de autoestudo eficazes para desenvolver SDL
+- Diferenciar autoestudo passivo de autoestudo reflexivo
+
+**Fontes principais:** "Self-study enhances the learning effect of discussions" (Lim & Park, 2023) e "Self-study in Teaching and Teacher Education" (Pithouse-Morgan, 2022)
+
+## Plano de Busca para Metodologias Sem Material Suficiente
+
+Para metodologias que necessitam de embasamento adicional, recomendo o seguinte plano de pesquisa:
+
+1. **Modelo SECI:**
+
+   - Busca por "SECI model Nonaka knowledge creation self-directed learning"
+   - Focar em estudos que aplicam o modelo em contextos educacionais
+   - Priorizar artigos que façam a ponte entre gestão do conhecimento e educação
+
+2. **Active Learning Group:**
+   - Expandir busca além do artigo de Melovitz-Vasan
+   - Procurar por comparações entre ALG e outras variações de PBL
+   - Investigar aplicações em diferentes contextos além da educação médica
+
+## Considerações Finais
+
+A inclusão dessas metodologias no referencial teórico fortalecerá significativamente a coerência entre a base conceitual e os resultados apresentados. Isso é particularmente importante considerando que o objetivo específico "Identificar metodologias ativas utilizadas em cursos de Computação e sua relação com o estímulo à autonomia dos estudantes" exige um referencial teórico que contemple todas as metodologias posteriormente analisadas nos resultados.
+
+A revisão proposta não apenas preencherá lacunas conceituais, mas também fortalecerá a argumentação ao demonstrar conhecimento abrangente sobre as diversas abordagens que promovem a aprendizagem autodirigida.
+
+# Análise das Metodologias Ativas nos Capítulos do TCC
+
+## Diagnóstico do Desalinhamento entre Metodologias no Referencial Teórico e Resultados
+
+Após análise detalhada do material, identifiquei uma necessidade de alinhamento entre as metodologias ativas discutidas na Revisão de Literatura (capítulo 3) e Análise dos Resultados (capítulo 5) com aquelas apresentadas no Referencial Teórico (capítulo 2). Este desalinhamento pode comprometer a coesão argumentativa do trabalho.
+
+## Metodologias Presentes na Base de Dados e sua Cobertura no TCC
+
+Consultando nossa base de conhecimento, encontrei os seguintes recursos sobre metodologias ativas relacionadas à SDL:
+
+| Metodologia                                 | Mencionada nos Resultados | Explicada no Referencial | Material Disponível                              |
+| ------------------------------------------- | ------------------------- | ------------------------ | ------------------------------------------------ |
+| **Blended Learning (Ensino Híbrido)**       | Sim                       | Não                      | Sim, vários estudos disponíveis (IDs 50, 51, 33) |
+| **Active Learning Group (ALG)**             | Sim                       | Não                      | Fichamento pendente (ID 49)                      |
+| **Modelo SECI**                             | Sim                       | Não                      | Referência em metodos_analisados.md              |
+| **Design Instrucional centrado no aluno**   | Sim                       | Parcialmente             | Fichamentos disponíveis (IDs 46, 48)             |
+| **Aprendizagem Cooperativa**                | Sim                       | Sim                      | Bem documentada                                  |
+| **PBL (Aprendizagem Baseada em Problemas)** | Sim                       | Sim                      | Bem documentada                                  |
+| **Autoestudo**                              | Sim                       | Parcialmente             | Fichamentos disponíveis (IDs 53, 55)             |
+
+## Recomendações para Complementação do Referencial Teórico
+
+### 1. Inclusão do Blended Learning (Ensino Híbrido)
+
+Esta metodologia aparece em estudos importantes como Adinda e Mohib (2020) e Uz e Uzun (2018), sendo fundamental para a argumentação nos resultados. Sugiro incluir uma subseção na seção 2.3.2 com os seguintes pontos:
+
+- Definição conceitual do ensino híbrido como combinação de experiências presenciais e online
+- Como o ambiente híbrido oferece oportunidades para desenvolver habilidades de autodireção
+- Relação entre flexibilidade de ambiente e desenvolvimento da autonomia do estudante
+- Ferramentas e estratégias híbridas que promovem a SDL
+
+**Fonte principal:** "The Influence of Blended Learning Environment on Self-Regulated and Self-Directed Learning Skills of Learners" (Uz & Uzun, 2018)
+
+### 2. Explicação do Active Learning Group (ALG)
+
+O ALG é central no estudo de Melovitz-Vasan et al. (2018), frequentemente citado nos resultados, mas não é explicado no referencial:
+
+- Definir o ALG como uma forma híbrida de PBL
+- Explicar como difere do PBL tradicional
+- Destacar o papel dos facilitadores na metodologia
+- Apresentar evidências de sua eficácia para promover colaboração e autonomia
+
+**Fonte principal:** "Student Perception of Active Learning Group in a Problem-Based Learning Curricular Environment" (Melovitz-Vasan et al., 2018)
+
+### 3. Inclusão do Modelo SECI
+
+Este modelo aparece como metodologia de aprendizagem guiada no estudo de Hutasuhut et al. (2023):
+
+- Explicar as quatro fases do modelo: Socialização, Externalização, Combinação e Internalização
+- Discutir como o modelo apoia a construção do conhecimento de forma progressivamente mais autônoma
+- Relacionar com o desenvolvimento da SDL em ambientes colaborativos
+
+**Fonte:** Arquivo "metodos_analisados.md" e estudo citado por Hutasuhut et al. (2023)
+
+### 4. Aprofundamento sobre Autoestudo
+
+Apesar de ser mencionado no referencial teórico, o autoestudo merece uma análise mais detalhada:
+
+- Definir autoestudo como prática intencional de aprendizagem individual
+- Explicar sua relação com discussões em grupo (conforme estudo de Lim & Park, 2023)
+- Apresentar estratégias de autoestudo eficazes para desenvolver SDL
+- Diferenciar autoestudo passivo de autoestudo reflexivo
+
+**Fontes principais:** "Self-study enhances the learning effect of discussions" (Lim & Park, 2023) e "Self-study in Teaching and Teacher Education" (Pithouse-Morgan, 2022)
+
+## Plano de Busca para Metodologias Sem Material Suficiente
+
+Para metodologias que necessitam de embasamento adicional, recomendo o seguinte plano de pesquisa:
+
+1. **Modelo SECI:**
+
+   - Busca por "SECI model Nonaka knowledge creation self-directed learning"
+   - Focar em estudos que aplicam o modelo em contextos educacionais
+   - Priorizar artigos que façam a ponte entre gestão do conhecimento e educação
+
+2. **Active Learning Group:**
+   - Expandir busca além do artigo de Melovitz-Vasan
+   - Procurar por comparações entre ALG e outras variações de PBL
+   - Investigar aplicações em diferentes contextos além da educação médica
+
+## Considerações Finais
+
+A inclusão dessas metodologias no referencial teórico fortalecerá significativamente a coerência entre a base conceitual e os resultados apresentados. Isso é particularmente importante considerando que o objetivo específico "Identificar metodologias ativas utilizadas em cursos de Computação e sua relação com o estímulo à autonomia dos estudantes" exige um referencial teórico que contemple todas as metodologias posteriormente analisadas nos resultados.
+
+A revisão proposta não apenas preencherá lacunas conceituais, mas também fortalecerá a argumentação ao demonstrar conhecimento abrangente sobre as diversas abordagens que promovem a aprendizagem autodirigida.
