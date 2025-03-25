@@ -82,6 +82,7 @@ Estrutura de capitulos:
 Principios:
 o texto deve ser Discursivo e não ser uma lista de fatos
 nao podemos de jeito nenhum escrever com varios topicos curtos e superficiais
+uma pagina tem em media 5-6 paragrafos medios pra grandes
 
 ## exemplos de textos que nao sao bons:
 
