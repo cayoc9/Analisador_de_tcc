@@ -31,7 +31,7 @@ Como revisor, analisei detalhadamente o atual estado do documento sobre aprendiz
 
 2. **Redundâncias pontuais**: Há repetição de alguns conceitos em seções diferentes, como nas discussões sobre modelos teóricos e características da SDL.
 
-3. **Desequilíbrio de profundidade**: Algumas seções (como "Medição e Avaliação") estão mais desenvolvidas que outras (como "Implicações para Educação no Século XXI").
+. **Desequilíbrio de profundidade**: Algumas seções (como "Medição e Avaliação") estão mais desenvolvidas que outras (como "Implicações para Educação no Século XXI").3
 
 4. **Articulação entre teoria e prática**: A conexão entre referenciais teóricos e aplicações práticas para licenciatura em computação poderia ser mais explícita em algumas seções.
 

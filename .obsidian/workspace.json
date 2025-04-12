@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "6723f0687bee748c",
+        "id": "fbfe9ca4a61c32e8",
         "type": "tabs",
         "children": [
           {
-            "id": "e1aec7b152a4b781",
+            "id": "ad22435021785ac3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "base_conhecimento/agente_orientador/plano_ProdutoFInal.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "plano_ProdutoFInal"
             }
           }
         ]
@@ -161,8 +165,22 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "b4031841cf484d8a",
+  "active": "ad22435021785ac3",
   "lastOpenFiles": [
+    "analise_discussao/prompts_discussao.md",
+    "base_conhecimento/agente_orientador/macro_etapas/revisao_planoDeEscrita.md",
+    "base_conhecimento/agente_orientador/revisao_planoDeEscrita.md",
+    "base_conhecimento/agente_orientador/macro_etapas/perguntasPesquisa_referecialTeorico.md",
+    "base_conhecimento/agente_orientador/conhecimento_tecnico/resumo_metodologia_cientifica.md",
+    "base_conhecimento/agente_orientador/conhecimento_tecnico",
+    "base_conhecimento/agente_orientador/macro_etapas/Plano_projeto_pesquisa.md",
+    "base_conhecimento/agente_orientador/macro_etapas/orquestração_Referencial_Teorico.md",
+    "base_conhecimento/agente_orientador/orquestração_Referencial_Teorico.md",
+    "base_conhecimento/agente_orientador/macro_etapas",
+    "produto_final",
+    "Sem título",
+    "(Versao Reduzida)TCC - Cayo & Wallace .md",
+    "TCC - Cayo & Wallace .md",
     "base_conhecimento/agente_cartografoConceitual/memoria/feedback_orientador.md",
     "base_conhecimento/agente_cartografoConceitual/memoria",
     "base_conhecimento/agente_cartografoConceitual/resumo_mapa_conceitual_SDL.md",
