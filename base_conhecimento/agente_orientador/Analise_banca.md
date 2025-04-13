@@ -1,5 +1,9 @@
 nota do tcc: 10 (mediante alterações)
 
+notas gerais:
+
+- manter o texto entre 60 ate 70 paginas
+
 larissa:
 
 - Fundamentar melhor a justificativa

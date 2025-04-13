@@ -1,0 +1,94 @@
+Refatoração tcc:
+nova estrutura de capitulos:
+
+- Resumo/Abstract
+- Agradecimentos
+- Introdução
+  - Contextualização do tema no cenario de educação e tecnologia
+  - Problema de pesquisa e Justificativa 
+	  - SDL é discutiva e almejada desde os anos 80, mas agora temos recursos para implementar efetivamente 
+	  - Temos um grande numero de alunos adultos entrando os cursos de licenciatura em computação, eles precisam de um metodo que prepare para a forma que adultos aprendem 
+	  - As duas revoluções:
+	    - a 4ª revolução industrial nao se tata de ter o ambiente virtual, mas sim de integrar aos processos e contextos reais como o ambiente virtual 
+		  - A revolução de conhecimento se trata da mundaça drastica no cenario de conteudos, onde a produção e o acesso a conteudos se tornaram exponenciais 
+			  - o modelo de ensino tradicional baseado em aulas contudo nao nao prepara as pessoas para o mundo real, onde a necessidade de escolher o que e como aprender, ja que as opções sao infinitas
+	  - o perfi do aluno de LC fica bem no centro desse cenario, onde precisamos unir justamente o processo educacional com o dominio de ferramentas tecnológicas
+		  - essa mistura torna o Profissional de LC uma das areas mais importantes a dominar a SDL, e criar a competência de ensinar essa nova abordagem de aprendizagem as futuras gerações
+	  - Nem todo aluno de LC chega na universidade ja sabendo ser autônomo, isso atrapalha no desenvolvimento do proprio curso
+  - Objetivos Geral e especifico (concluido)
+  - Visão geral do trabalho (revisar/concluído)
+- Aprendizagem Autodirigida: Fundamentos e Evidencias
+	- Mapa conceitual integrador da SDL (Elemento visual central)
+	- Concepções e evolução da SDL
+	- Dimensões e Competências da SDL
+	- SDL no contexto Brasileiro e Internacional(considerar falar ou nao)
+- Metodologias Ativas para promoção da SDL
+	- Diagrama visual relacionando metodologias e competências SDL
+	- Aprendizagem Baseada em Problemas e Projetos
+		- Fundamentos teóricos
+		- Evidências dos estudos de Melovitz-Vasan e Nosair
+		- Aplicações específicas na formação em Computação
+		- Síntese crítica pessoal
+	- Ambientes Híbridos de Aprendizagem
+		- Fundamentos teóricos
+		- Evidências dos estudos de Adinda & Mohib e Uz & Uzun
+		- Aplicações específicas na formação em Computação
+		- Síntese crítica pessoal
+	- Autoestudo e Discussão
+		- Fundamentos teóricos
+		- Evidências do estudo de Lim & Park
+		- Aplicações específicas na formação em Computação
+		- Síntese crítica pessoal
+	- Aprendizagem Cooperativa
+		- Fundamentos teóricos
+		- Evidências dos estudos de Mentz & Van Zyl e Strods
+		- Aplicações específicas na formação em Computação
+		- Síntese crítica pessoal
+	- Abordagem Guiada para SDL
+		- Fundamentos teóricos
+		- Evidências do estudo de Hutasuhut
+		- Aplicações específicas na formação em Computação
+		- Síntese crítica pessoal
+- SDL na formação docente em Comnputação
+	- Infográfico sobre o perfil do licenciando em Computação
+	- Competências Específicas do Licenciando em Computação
+		- Integração de conhecimentos técnicos e pedagógicos
+		- Ciclo de aprendizagem dos professores (demanda da Prof. Larissa)
+		- Modelo de progressão da autonomia na formação docente
+	- Desafios para Implementação no Contexto Brasileiro
+		- Fatores culturais e institucionais
+		- Acesso a tecnologias e infraestrutura
+		- Formação docente para mediação da SDL
+	- Estratégias Contextualizadas e Avaliação
+		- Adaptação de metodologias ao contexto brasileiro
+		- Instrumentos de avaliação da SDL
+		- Síntese crítica pessoal
+- Método Analítico com Grupo de Agentes de IA
+	- Diagrama do fluxo de trabalho dos agentes
+	- Descrição do Framework de Agentes
+		- Visão geral da arquitetura
+		- Perfis e funções dos agentes
+		- Autorelato sobre o processo SDL no próprio projeto (demanda do Prof. Marcos)
+	- Vantagens e Limitações do Uso de IA na Pesquisa
+		- Reflexão crítica sobre a experiência
+		- Implicações para o campo da pesquisa em educação
+- Sintese Integrativa: Modelo Conceitual 
+	- Modelo VIsual Integrador
+	- Ciclo de Desenvolvimento da SDL na Formação Docente
+		- Progressão da autonomia ao longo da formação
+		- Interação entre metodologias e competências
+	- Framework de Implementação e Avaliação
+		- Proposta de aplicação prática
+		- Diretrizes para avaliação processual
+- Limitações da Pesquisa
+	- Restrições metodológicas
+	- Desafios enfrentados
+- Próximos passos e expectativas com esse projeto
+	- Caminhos futuros de investigação
+	- Contribuições potenciais do modelo proposto
+- Conclusão
+	- Sintese das principais contribuições
+	- Reflexao Sobre o significado do trabalho para o campo
+
+
+ 

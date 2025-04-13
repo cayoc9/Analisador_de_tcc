@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "base_conhecimento/agente_orientador/plano_ProdutoFInal.md",
+                "file": "base_conhecimento/agente_orientador/plano_TCCFinal.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "plano_ProdutoFInal"
+              "title": "plano_TCCFinal"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "b69766e082d8de66",
@@ -167,6 +168,12 @@
   },
   "active": "ad22435021785ac3",
   "lastOpenFiles": [
+    "produto_final/entregas/imagens",
+    "novo_referencial_teorico.md",
+    "produto_final/entregas/plano_imagens.md",
+    "produto_final/escrita/novo_referencial_teorico.md",
+    "produto_final/escrita/referencial_teorico.md",
+    "produto_final/escrita",
     "analise_discussao/prompts_discussao.md",
     "base_conhecimento/agente_orientador/macro_etapas/revisao_planoDeEscrita.md",
     "base_conhecimento/agente_orientador/revisao_planoDeEscrita.md",
@@ -192,9 +199,6 @@
     "fichamento_CaracteristicasAprendizesAutodirigidos.md",
     "analise_fichamento/artigos/fichamento_CaracteristicasAprendizesAutodirigidos.md",
     "Modelos de Prompts.md",
-    "projeto_pesquisa.md",
-    "notas.md",
-    "TCC 2.md",
-    "image1.md"
+    "projeto_pesquisa.md"
   ]
 }
