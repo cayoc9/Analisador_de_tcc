@@ -168,8 +168,11 @@
   },
   "active": "ad22435021785ac3",
   "lastOpenFiles": [
-    "produto_final/entregas/imagens",
+    "analise_fichamento/resumos_csv/avaliação360.csv",
+    "analise_fichamento/avaliacao-360.md",
+    "analise_fichamento/resumos_csv/2025-04-13_20_10_50_export.csv",
     "novo_referencial_teorico.md",
+    "produto_final/entregas/imagens",
     "produto_final/entregas/plano_imagens.md",
     "produto_final/escrita/novo_referencial_teorico.md",
     "produto_final/escrita/referencial_teorico.md",
@@ -198,7 +201,6 @@
     "Estrutura TCC.md",
     "fichamento_CaracteristicasAprendizesAutodirigidos.md",
     "analise_fichamento/artigos/fichamento_CaracteristicasAprendizesAutodirigidos.md",
-    "Modelos de Prompts.md",
-    "projeto_pesquisa.md"
+    "Modelos de Prompts.md"
   ]
 }
