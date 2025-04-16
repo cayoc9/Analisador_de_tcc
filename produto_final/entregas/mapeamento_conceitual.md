@@ -9,43 +9,6 @@ Vou começar analisando o capítulo 3 (Revisão de Literatura) para extrair os p
 Read file: (Versao Reduzida)TCC - Cayo & Wallace .md
 Agora vou continuar analisando a revisão de literatura para identificar os principais conceitos relacionados à SDL e metodologias ativas.
 
-Ran tool
-
-Ran tool
-
-Read file: (Versao Reduzida)TCC - Cayo & Wallace .md
-
-Read file: (Versao Reduzida)TCC - Cayo & Wallace .md
-
-Read file: plano_TCCFinal.md
-
-Read file: base_conhecimento/agente_orientador/plano_TCCFinal.md
-
-Search files...
-
-Read file: produto_final/entregas/mapeamento_conceitual.md
-
-Search files...
-
-Search files...
-
-Read file: produto_final/entregas/mapeamento_conceitual.md
-
-Read file: plano_TCCFinal.md
-
-Read file: base_conhecimento/agente_orientador/plano_TCCFinal.md
-
-Ran tool
-
-Ran tool
-
-Ran tool
-
-Ran tool
-
-Ran tool
-
-Ran tool
 Vejo que existem dois arquivos principais do TCC, além de diversas pastas que podem conter o conteúdo que procuramos. Vamos primeiro verificar o conteúdo da pasta "referencial_Teorico", pois provavelmente contém o capítulo 2 mencionado:
 
 Ran tool
